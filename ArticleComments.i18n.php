@@ -396,6 +396,40 @@ $messages['bs'] = array(
 	'article-comments-comment-missing-date-parameter' => 'Nedostaje datum komentara',
 );
 
+/** Буряад (Буряад)
+ * @author Bjargal
+ */
+$messages['bxr'] = array(
+	'article-comments-desc' => 'Агуулгын хуудаһандахи һаналай хэһэгые эдэбхижүүлнэ',
+	'article-comments-title-string' => 'гаршаг',
+	'article-comments-name-string' => 'Нэрэ',
+	'article-comments-name-field' => 'Нэрэ (заабол хэрэгтэй)',
+	'article-comments-url-field' => 'Вэбсайт:',
+	'article-comments-url-string' => 'Хаяг',
+	'article-comments-comment-string' => 'Һанал',
+	'article-comments-comment-field' => 'Һанал:',
+	'article-comments-submit-button' => 'Эльгээхэ',
+	'article-comments-leave-comment-link' => 'Һаналаа үлөөнэ гүт...',
+	'article-comments-invalid-field' => 'Оруулһан $1 <nowiki>[$2]</nowiki> буруу байна.',
+	'article-comments-required-field' => '"$1" талбар заабол хэрэгтэй.',
+	'article-comments-submission-failed' => 'Һанал эльгээгдэбэгүй.',
+	'article-comments-failure-reasons' => 'Хүлисэгты, танай һанал удаадахи {{PLURAL:$1|шалтагаан|шалтагаан}}һаа боложо эльгээгдэбэгүй:',
+	'article-comments-no-comments' => 'Хүлисэгты, "[[$1]]" хуудаһан энэ удаа һанал хүлеэн абаха аргагүй.',
+	'article-comments-talk-page-starter' => '<noinclude>"[[$1]]" хуудаһанай һанал
+<comments />
+----- __NOEDITSECTION__</noinclude>',
+	'article-comments-commenter-said' => '$1 хэлэһэниинь ...',
+	'article-comments-summary' => '$1 гэгшын "Үгүүлэлэй Һанал" үргэдхэлөөр эльгээһэн һанал',
+	'article-comments-submission-succeeded' => 'Һанал эльгээгдэбэ',
+	'article-comments-submission-success' => '"[[$1]]" хуудаһанда һаналаа амжалтатай эльгээбэт',
+	'article-comments-submission-view-all' => '[[$1|Хуудаһанай бүхы һаналые]] хараха аргатайт',
+	'article-comments-user-is-blocked' => 'Мүнөө Танай хэрэглэгшын данса "[[$1]]" хуудаһые заһаха эрхэ хаалтатай.',
+	'article-comments-comment-missing-name-parameter' => 'Нэрэ хооһон',
+	'article-comments-comment-missing-date-parameter' => 'Һаналай огноо хооһон',
+	'article-comments-no-spam' => 'Эльгээһэнэйтнай дотор спам гэжэ тэмдэглэһэн талбар байна.',
+	'processcomment' => 'Хуудаһанай һанал болбосоруулха',
+);
+
 /** Catalan (Català)
  * @author El libre
  * @author SMP
@@ -1347,6 +1381,25 @@ Galimų yra "paprasto", "normalus" ir "wiki".',
 	'article-comments-comment-missing-date-parameter' => 'Trūksta komentaro datos',
 	'article-comments-no-spam' => 'Bent vieno iš pateiktų laukų buvo pažymėtas kaip šlamštas.',
 	'processcomment' => 'Proceso puslapio komentarą',
+);
+
+/** Lushai (Mizo ţawng)
+ * @author RMizo
+ */
+$messages['lus'] = array(
+	'article-comments-desc' => 'Thuziak awmna pheka tuihnihna huang awmtirna',
+	'article-comments-title-string' => 'thupui',
+	'article-comments-name-string' => 'Hming',
+	'article-comments-name-field' => 'Hming (ţül):',
+	'article-comments-url-field' => 'Hmunpui:',
+	'article-comments-url-string' => 'URL',
+	'article-comments-comment-string' => 'Tuihnihna',
+	'article-comments-comment-field' => 'Tuihnihna:',
+	'article-comments-submit-button' => 'Thehluhna',
+	'article-comments-leave-comment-link' => 'Tuihnih ve zuai...',
+	'article-comments-invalid-field' => '$1 pêk <nowiki>[$2]</nowiki> hi a dikhlel.',
+	'article-comments-required-field' => '"$1" hi tihmâkmawh a ni.',
+	'article-comments-submission-failed' => 'Tuihnihna thehluh a tlawlh tlat',
 );
 
 /** Latvian (Latviešu)
