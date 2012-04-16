@@ -1745,6 +1745,14 @@ $messages['pdc'] = array(
 	'article-comments-name-string' => 'Naame',
 );
 
+/** Pälzisch (Pälzisch)
+ * @author Manuae
+ */
+$messages['pfl'] = array(
+	'article-comments-url-field' => 'Websaid:',
+	'article-comments-user-is-blocked' => 'Du derfschd onde Said „[[$1]]“ grad ned schaffe.',
+);
+
 /** Polish (Polski)
  * @author Sp5uhe
  */
