@@ -1129,6 +1129,7 @@ $messages['it'] = array(
 );
 
 /** Japanese (日本語)
+ * @author Shirayuki
  * @author 青子守歌
  */
 $messages['ja'] = array(
@@ -1141,7 +1142,7 @@ $messages['ja'] = array(
 	'article-comments-comment-string' => 'コメント',
 	'article-comments-comment-field' => 'コメント：',
 	'article-comments-submit-button' => '送信',
-	'article-comments-leave-comment-link' => 'コメントを残す・・・',
+	'article-comments-leave-comment-link' => 'コメントを残す...',
 	'article-comments-invalid-field' => '$1に入力された値<nowiki>[$2]</nowiki>が不正です。',
 	'article-comments-required-field' => '$1項目は必須です。',
 	'article-comments-submission-failed' => 'コメント投稿に失敗しました',
@@ -1150,7 +1151,7 @@ $messages['ja'] = array(
 	'article-comments-talk-page-starter' => '<noinclude>[[$1]]へのコメント
 <comments />
 ----- __NOEDITSECTION__</noinclude>',
-	'article-comments-commenter-said' => '$1いわく・・・',
+	'article-comments-commenter-said' => '$1いわく',
 	'article-comments-summary' => '$1によるコメント（記事コメント拡張機能による）',
 	'article-comments-submission-succeeded' => 'コメント投稿に成功しました',
 	'article-comments-submission-success' => '「[[$1]]」へのコメントの投稿に成功しました',
