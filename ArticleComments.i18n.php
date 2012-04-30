@@ -560,11 +560,14 @@ $messages['de-formal'] = array(
 );
 
 /** Zazaki (Zazaki)
+ * @author Erdemaslancan
  * @author Mirzali
  */
 $messages['diq'] = array(
 	'article-comments-name-string' => 'Name',
+	'article-comments-comment-field' => 'beyanat:',
 	'article-comments-submit-button' => 'Qeyd ke',
+	'article-comments-leave-comment-link' => 'Werênayış',
 );
 
 /** Lower Sorbian (Dolnoserbski)
