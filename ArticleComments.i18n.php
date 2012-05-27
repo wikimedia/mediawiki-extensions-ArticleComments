@@ -567,7 +567,7 @@ $messages['diq'] = array(
 	'article-comments-name-string' => 'Name',
 	'article-comments-comment-field' => 'beyanat:',
 	'article-comments-submit-button' => 'Qeyd ke',
-	'article-comments-leave-comment-link' => 'Werênayış',
+	'article-comments-leave-comment-link' => 'Vatış bunusne...',
 );
 
 /** Lower Sorbian (Dolnoserbski)
