@@ -1114,6 +1114,7 @@ Pilihan yang tersedia adalah "plain", "normal", dan "wiki".',
  * @author Rippitippi
  */
 $messages['it'] = array(
+	'article-comments-desc' => 'Consente le sezioni per i commenti sulle pagine di contenuto',
 	'article-comments-title-string' => 'titolo',
 	'article-comments-name-string' => 'Nome',
 	'article-comments-name-field' => 'Nome (obbligatorio):',
@@ -1123,12 +1124,23 @@ $messages['it'] = array(
 	'article-comments-comment-field' => 'Commento:',
 	'article-comments-submit-button' => 'Invia',
 	'article-comments-leave-comment-link' => 'Lascia un commento ...',
+	'article-comments-invalid-field' => 'Il $1 fornito <nowiki>[$2]</nowiki> non è valido.',
 	'article-comments-required-field' => 'Il campo " $1 " è obbligatorio.',
 	'article-comments-submission-failed' => 'Invio commento fallito',
 	'article-comments-failure-reasons' => "Siamo spiacenti, l'inserimento del vostro commento non è riuscito per {{PLURAL:$1|il seguente motivo|i seguenti motivi}}",
 	'article-comments-no-comments' => 'Siamo spiacenti, la pagina "[[$1]]" non accetta commenti in questo momento.',
+	'article-comments-talk-page-starter' => '<noinclude>Commenti su "[[$1]]"
+<comments />
+----- __NOEDITSECTION__</noinclude>',
 	'article-comments-commenter-said' => '$1 ha detto ...',
+	'article-comments-summary' => "Commento fornito da $1 - tramite l'estensione ArticleComments",
 	'article-comments-submission-succeeded' => 'Invio commento riuscito',
+	'article-comments-submission-success' => 'Hai inviato con successo un commento per "[[$1]]"',
+	'article-comments-submission-view-all' => 'Puoi vedere [[$1|tutti i commenti su quella pagina]]',
+	'article-comments-user-is-blocked' => 'Il tuo account è attualmente bloccato e non puoi modificare "[[$1]]".',
+	'article-comments-comment-missing-name-parameter' => 'Nome mancante',
+	'article-comments-comment-missing-date-parameter' => 'Data del commento mancante',
+	'article-comments-no-spam' => 'Almeno uno dei campi inviati è stato contrassegnato come spam.',
 );
 
 /** Japanese (日本語)
