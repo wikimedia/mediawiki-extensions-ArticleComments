@@ -2144,6 +2144,39 @@ $messages['sv'] = array(
 	'processcomment' => 'Bearbetar artikelkommentar',
 );
 
+/** Swahili (Kiswahili)
+ * @author Stephenwanjau
+ */
+$messages['sw'] = array(
+	'article-comments-title-string' => 'Kichwa',
+	'article-comments-name-string' => 'Jina',
+	'article-comments-name-field' => 'Jina (linahitajika):',
+	'article-comments-url-field' => 'Tovuti:',
+	'article-comments-url-string' => 'KISARA Kioneshi Sanifu Raslimali',
+	'article-comments-comment-string' => 'Maoni',
+	'article-comments-comment-field' => 'Maoni:',
+	'article-comments-submit-button' => 'Wasilisha',
+	'article-comments-leave-comment-link' => 'Wacha maoni ...',
+	'article-comments-invalid-field' => 'Hii $1 uliowasilisha <nowiki>[$2]</nowiki> ni batili.',
+	'article-comments-required-field' => '"$1" uga unahitajika.',
+	'article-comments-submission-failed' => 'Kuwasilisha maoni kumeshindwa',
+	'article-comments-failure-reasons' => 'Pole, kuwasilisha kwa maoni yako kumeshindwa kwa {{PLURAL:$1|reason|sababu}} zifuatazo:',
+	'article-comments-no-comments' => 'Pole, ukurasa "[[$1]]" haukubali maoni kwa sasa.',
+	'article-comments-talk-page-starter' => '<noinclude>Maoni kwa  "[[$1]]"
+<comments />
+----- __NOEDITSECTION__</noinclude>',
+	'article-comments-commenter-said' => '$1 alisema ...',
+	'article-comments-summary' => 'Maoni yalitolewa na $1 - kupitia Tawi la maoni ya nakala',
+	'article-comments-submission-succeeded' => 'Kuwasilisha maoni kumefaulu',
+	'article-comments-submission-success' => 'Umefaulu kuto maoni kwa "[[$1]]"',
+	'article-comments-submission-view-all' => 'Unaweza tazama [[$1|kwa maoni yote juu ya ukurasa huo]]',
+	'article-comments-user-is-blocked' => 'Akaunti yako ya mtumiaji kwa sasa imezuiwa kutokana na kuhariri "[[$1]]".',
+	'article-comments-comment-bad-mode' => 'Boti batili imetolewa kwa maoni.
+Zinazopatikana ni "plain", "normal" and "wiki".',
+	'article-comments-comment-missing-name-parameter' => 'Jina linakosa',
+	'article-comments-comment-missing-date-parameter' => 'Tarehe ya maoni inakosa',
+);
+
 /** Telugu (తెలుగు)
  * @author Veeven
  */
