@@ -1108,7 +1108,7 @@ Pilihan yang tersedia adalah "plain", "normal", dan "wiki".',
 	'processcomment' => 'Proses komentar artikel',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  * @author Minerva Titani
  * @author Rippitippi
