@@ -1124,8 +1124,8 @@ $messages['it'] = array(
 	'article-comments-comment-field' => 'Commento:',
 	'article-comments-submit-button' => 'Invia',
 	'article-comments-leave-comment-link' => 'Lascia un commento ...',
-	'article-comments-invalid-field' => 'Il $1 fornito <nowiki>[$2]</nowiki> non è valido.',
-	'article-comments-required-field' => 'Il campo " $1 " è obbligatorio.',
+	'article-comments-invalid-field' => 'Il valore fornito per il campo $1 <nowiki>[$2]</nowiki> non è valido.',
+	'article-comments-required-field' => 'Il campo "$1" è obbligatorio.',
 	'article-comments-submission-failed' => 'Invio commento fallito',
 	'article-comments-failure-reasons' => "Siamo spiacenti, l'inserimento del vostro commento non è riuscito per {{PLURAL:$1|il seguente motivo|i seguenti motivi}}",
 	'article-comments-no-comments' => 'Siamo spiacenti, la pagina "[[$1]]" non accetta commenti in questo momento.',
@@ -1138,9 +1138,12 @@ $messages['it'] = array(
 	'article-comments-submission-success' => 'Hai inviato con successo un commento per "[[$1]]"',
 	'article-comments-submission-view-all' => 'Puoi vedere [[$1|tutti i commenti su quella pagina]]',
 	'article-comments-user-is-blocked' => 'Il tuo account è attualmente bloccato e non puoi modificare "[[$1]]".',
+	'article-comments-comment-bad-mode' => 'Indicata modalità non valida per il commento.
+Quelle disponibili sono: "plain", "normal" e "wiki".',
 	'article-comments-comment-missing-name-parameter' => 'Nome mancante',
 	'article-comments-comment-missing-date-parameter' => 'Data del commento mancante',
 	'article-comments-no-spam' => 'Almeno uno dei campi inviati è stato contrassegnato come spam.',
+	'processcomment' => 'Elabora commenti alle pagine',
 );
 
 /** Japanese (日本語)
