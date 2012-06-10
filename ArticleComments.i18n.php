@@ -1179,7 +1179,7 @@ $messages['ja'] = array(
 「plain」「normal」あるいは「wiki」が有効です。',
 	'article-comments-comment-missing-name-parameter' => '名前がありません',
 	'article-comments-comment-missing-date-parameter' => 'コメントの日付がありません',
-	'article-comments-no-spam' => '投稿された項目のうち、少なくとも1つがスパムとしてフラグが設定されました。',
+	'article-comments-no-spam' => '投稿された項目のうち少なくとも1つが、スパムとしてフラグが設定されました。',
 	'processcomment' => '記事コメントの処理',
 );
 
@@ -1255,6 +1255,9 @@ $messages['ku-latn'] = array(
 	'article-comments-title-string' => 'sernav',
 	'article-comments-name-string' => 'Nav',
 	'article-comments-url-field' => 'Malper:',
+	'article-comments-url-string' => 'URL',
+	'article-comments-comment-string' => 'Şîrove',
+	'article-comments-comment-field' => 'Şîrove:',
 );
 
 /** Luxembourgish (Lëtzebuergesch)
@@ -2273,7 +2276,8 @@ $messages['tr'] = array(
 	'article-comments-comment-missing-date-parameter' => 'Eksik yorum tarihi',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
+ * @author A1
  * @author Alex Khimich
  * @author Тест
  */
@@ -2306,7 +2310,7 @@ $messages['uk'] = array(
 Потрібно використати коментарі виду "plain", "normal" або "wiki".',
 	'article-comments-comment-missing-name-parameter' => "Відсутнє ім'я",
 	'article-comments-comment-missing-date-parameter' => 'Відсутня дата коментарію',
-	'article-comments-no-spam' => 'Принаймні один з представлених полів було відмічено як такий, що містить спам.',
+	'article-comments-no-spam' => 'Принаймні одне з представлених полів було відмічено як таке, що містить спам.',
 	'processcomment' => 'Переглянути коментарі до матеріалу',
 );
 
