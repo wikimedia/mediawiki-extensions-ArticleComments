@@ -67,7 +67,7 @@ $messages['qqq'] = array(
 	'article-comments-commenter-said' => '$1 is a value filled into a form field by a commenter. It is not necessarily related to any wiki user name.',
 	'article-comments-summary' => '$1 is a value filled into a form field by a commenter. It is not necessarily related to any wiki user name.',
 	'article-comments-comment-bad-mode' => '{{doc-important|Do not translate the words "plain", "normal" and "wiki".}}',
-	'processcomment' => 'Special page title and link description on Special:SpecialPages.',
+	'processcomment' => 'This is a Special page title and link description on Special:SpecialPages.',
 );
 
 /** Afrikaans (Afrikaans)
@@ -1245,7 +1245,7 @@ Müjjelesh sin bloß „<code lang="en">plain</code>“, „<code lang="en">norm
 	'article-comments-comment-missing-name-parameter' => 'Dä Name fählt',
 	'article-comments-comment-missing-date-parameter' => 'Et Dattum fählt',
 	'article-comments-no-spam' => 'En winnishsdens eine vun dä Einjabe wohd SPAM jefonge.',
-	'processcomment' => 'Ben di Aanmerkung aam verärbeide',
+	'processcomment' => 'Aanmerkung för die Sigg verärbeide',
 );
 
 /** Kurdish (Latin script) (‪Kurdî (latînî)‬)
