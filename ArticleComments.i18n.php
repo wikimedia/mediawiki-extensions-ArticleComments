@@ -126,7 +126,7 @@ $messages['arc'] = array(
 	'article-comments-submit-button' => 'ܫܕܪ',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -162,7 +162,7 @@ Los moos disponibles son "plain", "normal" y "wiki".',
 	'processcomment' => 'Procesar el comentariu de páxina',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Cekli829
  * @author Wertuose
  */
@@ -284,7 +284,7 @@ $messages['be-tarask'] = array(
 	'processcomment' => 'Апрацоўка камэнтара артыкулу',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
@@ -333,7 +333,7 @@ $messages['bn'] = array(
 	'processcomment' => 'পাতার মন্তব্য প্রক্রিয়াকরণ করুন',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  * @author Gwendal
  * @author Y-M D
@@ -371,7 +371,7 @@ Gallout a reer ober gant ar modoù "plaen", "normal" ha "wiki".',
 	'processcomment' => 'O plediñ gant burutelladenn ar pennad',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -430,7 +430,7 @@ $messages['bxr'] = array(
 	'processcomment' => 'Хуудаһанай һанал болбосоруулха',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author El libre
  * @author SMP
  * @author Solde
@@ -468,12 +468,12 @@ Els disponibles són "plain", "normal" i "wiki".',
 	'processcomment' => "Processa el comentari a l'article",
 );
 
-/** Corsican (Corsu) */
+/** Corsican (corsu) */
 $messages['co'] = array(
 	'article-comments-name-string' => 'Nome',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Achiles
  * @author Jkjk
  */
@@ -672,7 +672,7 @@ $messages['eo'] = array(
 	'processcomment' => 'Procezi la artikolo-komenton',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Danke7
  * @author Fitoschido
  * @author Translationista
@@ -711,7 +711,7 @@ Los disponibles son «plain», «normal» y «wiki».',
 	'processcomment' => 'Procesar el comentario sobre la página',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  */
 $messages['eu'] = array(
@@ -744,7 +744,7 @@ $messages['fa'] = array(
 	'article-comments-commenter-said' => '$1 گفت ...',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Crt
  * @author Nedergard
  * @author Nike
@@ -783,7 +783,7 @@ Saatavilla ovat "plain", "normal" ja "wiki".',
 	'processcomment' => 'Käsittele sivun kommentti',
 );
 
-/** French (Français)
+/** French (français)
  * @author Peter17
  * @author Sherbrooke
  * @author Verdy p
@@ -822,7 +822,7 @@ Les modes disponibles sont «plain», « normal » et « wiki ».',
 	'processcomment' => 'Traitement du commentaire sur l’article',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -1003,7 +1003,7 @@ K dispoziciji steja "plain", "normal" a "wiki".',
 	'processcomment' => 'Komentary nastawkow předźěłać',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author BáthoryPéter
  * @author Dani
  * @author Glanthor Reviol
@@ -1036,7 +1036,7 @@ $messages['hu'] = array(
 	'article-comments-no-spam' => 'Az elküldött mezők legalább egyike spamnek lett jelölve.',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -1368,7 +1368,7 @@ Besjikbaar zien "plain", "normal" en "wiki".',
 	'processcomment' => 'Opmirking verwirke',
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Eitvys200
  * @author Ignas693
  */
@@ -1424,7 +1424,7 @@ $messages['lus'] = array(
 	'article-comments-submission-failed' => 'Tuihnihna thehluh a tlawlh tlat',
 );
 
-/** Latvian (Latviešu)
+/** Latvian (latviešu)
  * @author GreenZeb
  * @author Papuass
  */
@@ -1518,7 +1518,7 @@ $messages['mg'] = array(
 	'processcomment' => "Fikarakarana ny resaka mikasikan'ny lahatsoratra",
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  * @author 青子守歌
  */
@@ -1591,7 +1591,7 @@ $messages['ml'] = array(
 	'processcomment' => 'ലേഖനത്തെക്കുറിച്ചുള്ള അഭിപ്രായം പാകപ്പെടുത്തുന്നു',
 );
 
-/** Mongolian (Монгол)
+/** Mongolian (монгол)
  * @author Chinneeb
  */
 $messages['mn'] = array(
@@ -1732,7 +1732,7 @@ $messages['nl-informal'] = array(
 	'article-comments-user-is-blocked' => 'Je gebruiker kan op dit moment "[[$1]]" niet bewerken.',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Nghtwlkr
  */
 $messages['nn'] = array(
@@ -1775,7 +1775,7 @@ $messages['pfl'] = array(
 	'article-comments-user-is-blocked' => 'Du derfschd onde Said „[[$1]]“ grad ned schaffe.',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -1862,7 +1862,7 @@ $messages['ps'] = array(
 	'article-comments-leave-comment-link' => 'تبصره پرېښودل ...',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
@@ -1898,7 +1898,7 @@ Os modos disponíveis são "plain" (simples), "normal" e "wiki".',
 	'processcomment' => 'Processar o comentário ao artigo',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Giro720
  */
 $messages['pt-br'] = array(
@@ -1934,7 +1934,7 @@ Os modos disponíveis são "plain" (simples), "normal" e "wiki".',
 	'processcomment' => 'Processar o comentário do artigo',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author Firilacroco
  * @author Minisarm
  * @author Stelistcristi
@@ -1965,7 +1965,7 @@ $messages['ro'] = array(
 	'article-comments-comment-missing-date-parameter' => 'Lipseşte data comentariului',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -1979,7 +1979,7 @@ $messages['roa-tara'] = array(
 	'article-comments-leave-comment-link' => "Lasse 'nu commende ...",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author MaxSem
  * @author Александр Сигачёв
  */
@@ -2032,7 +2032,7 @@ $messages['rue'] = array(
 	'article-comments-commenter-said' => '$1 говорить ...',
 );
 
-/** Sicilian (Sicilianu)
+/** Sicilian (sicilianu)
  * @author Aushulz
  */
 $messages['scn'] = array(
@@ -2078,7 +2078,7 @@ Iskarn lli illan gan "plain", "normal" d "wiki".',
 	'processcomment' => 'Askr n uɣfawal f umla',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
@@ -2114,7 +2114,7 @@ Na voljo so »plain«, »normal« in »wiki«.',
 	'processcomment' => 'Obdelaj pripombo članka',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Cohan
  * @author Lokal Profil
  * @author Tobulos1
@@ -2205,7 +2205,7 @@ $messages['te'] = array(
 	'article-comments-submission-view-all' => '[[$1|ఆ పుటపై అన్ని వ్యాఖ్యలని]] మీరు చూడవచ్చు',
 );
 
-/** Tetum (Tetun)
+/** Tetum (tetun)
  * @author MF-Warburg
  */
 $messages['tet'] = array(
@@ -2360,7 +2360,7 @@ $messages['yi'] = array(
 	'article-comments-comment-missing-date-parameter' => 'הערה דאטע פֿעלט',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Hydra
  * @author Liangent
  */
@@ -2397,7 +2397,7 @@ $messages['zh-hans'] = array(
 	'processcomment' => '进程文章注释',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Oapbtommy
  */
 $messages['zh-hant'] = array(
