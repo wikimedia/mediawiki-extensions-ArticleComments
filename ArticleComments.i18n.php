@@ -1169,11 +1169,11 @@ $messages['ja'] = array(
 	'article-comments-talk-page-starter' => '<noinclude>[[$1]]へのコメント
 <comments />
 ----- __NOEDITSECTION__</noinclude>',
-	'article-comments-commenter-said' => '$1いわく',
+	'article-comments-commenter-said' => '$1いわく...',
 	'article-comments-summary' => '$1によるコメント（記事コメント拡張機能による）',
 	'article-comments-submission-succeeded' => 'コメント投稿に成功しました',
-	'article-comments-submission-success' => '「[[$1]]」へのコメントの投稿に成功しました',
-	'article-comments-submission-view-all' => '[[$1|そのページのすべてのコメント]]を見ることができます',
+	'article-comments-submission-success' => '「[[$1]]」にコメントを投稿しました',
+	'article-comments-submission-view-all' => '[[$1|そのページのすべてのコメント]]を閲覧できます',
 	'article-comments-user-is-blocked' => '利用者アカウントが、現在、「[[$1]]」の編集をブロックされています。',
 	'article-comments-comment-bad-mode' => 'コメントに対して、無効な形式です。
 「plain」「normal」あるいは「wiki」が有効です。',
