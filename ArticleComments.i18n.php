@@ -2279,6 +2279,7 @@ $messages['tr'] = array(
 /** Ukrainian (українська)
  * @author A1
  * @author Alex Khimich
+ * @author Olvin
  * @author Тест
  */
 $messages['uk'] = array(
@@ -2310,7 +2311,7 @@ $messages['uk'] = array(
 Потрібно використати коментарі виду "plain", "normal" або "wiki".',
 	'article-comments-comment-missing-name-parameter' => "Відсутнє ім'я",
 	'article-comments-comment-missing-date-parameter' => 'Відсутня дата коментарію',
-	'article-comments-no-spam' => 'Принаймні одне з представлених полів було відмічено як таке, що містить спам.',
+	'article-comments-no-spam' => 'Принаймні одне з надісланих полів було позначено як спам.',
 	'processcomment' => 'Переглянути коментарі до матеріалу',
 );
 
