@@ -247,7 +247,7 @@ Méglich san d' Módusse „plain“, „normal“ und „wiki“.",
 	'processcomment' => 'Kommentirn voh Inhoidsseiten vaorweiten',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -570,7 +570,7 @@ $messages['diq'] = array(
 	'article-comments-leave-comment-link' => 'Vatış bunusne...',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -858,7 +858,7 @@ Les fôrmes disponibles sont « plain », « normal » et « wiki ».',
 	'processcomment' => 'Trètament du comentèro sur la pâge',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -967,7 +967,7 @@ $messages['he'] = array(
 	'processcomment' => 'עיבוד הערה לדף',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
@@ -2016,7 +2016,7 @@ $messages['ru'] = array(
 	'processcomment' => 'Обработка комментария',
 );
 
-/** Rusyn (Русиньскый)
+/** Rusyn (русиньскый)
  * @author Gazeb
  */
 $messages['rue'] = array(
