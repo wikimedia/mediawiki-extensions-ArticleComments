@@ -1258,6 +1258,7 @@ $messages['ku-latn'] = array(
 	'article-comments-url-string' => 'URL',
 	'article-comments-comment-string' => 'Şîrove',
 	'article-comments-comment-field' => 'Şîrove:',
+	'article-comments-submit-button' => 'Tomar bike',
 );
 
 /** Luxembourgish (Lëtzebuergesch)
