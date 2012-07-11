@@ -175,7 +175,7 @@ $messages['az'] = array(
 	'article-comments-submit-button' => 'Təsdiq et',
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Assele
  */
 $messages['ba'] = array(
@@ -396,7 +396,7 @@ $messages['bs'] = array(
 	'article-comments-comment-missing-date-parameter' => 'Nedostaje datum komentara',
 );
 
-/** Буряад (Буряад)
+/** буряад (буряад)
  * @author Bjargal
  */
 $messages['bxr'] = array(
@@ -1297,7 +1297,7 @@ Méiglech sinn "plain", "normal" a "wiki".',
 	'processcomment' => "D'Bemierkung zum Artikel gëtt verschafft",
 );
 
-/** Lezghian (Лезги)
+/** Lezghian (лезги)
  * @author Migraghvi
  */
 $messages['lez'] = array(
@@ -1635,15 +1635,14 @@ Yang ada ialah "plain", "normal" dan "wiki".',
 	'processcomment' => 'Proseskan komen laman',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
 	'article-comments-title-string' => 'коняксозо',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
