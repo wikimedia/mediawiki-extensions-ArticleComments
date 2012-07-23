@@ -531,7 +531,7 @@ $messages['de'] = array(
 	'article-comments-invalid-field' => 'Die Eingabe <nowiki>[$2]</nowiki> als $1 ist ungültig.',
 	'article-comments-required-field' => '$1 ist ein Pflichtfeld.',
 	'article-comments-submission-failed' => 'Die Kommentierung ist fehlgeschlagen.',
-	'article-comments-failure-reasons' => 'Die Kommentierung ist aus {{PLURAL:$1|dem folgenden Grund|den folgenden Gründen}} fehlgeschlagen:',
+	'article-comments-failure-reasons' => 'Die Kommentierung ist leider aus {{PLURAL:$1|folgendem Grund|folgenden Gründen}} fehlgeschlagen:',
 	'article-comments-no-comments' => 'Für die Seite „[[$1]]“ können momentan keine Kommentare abgegeben werden.',
 	'article-comments-talk-page-starter' => '<noinclude>Kommentare zur Seite „[[$1]]“
 <comments />
@@ -540,7 +540,7 @@ $messages['de'] = array(
 	'article-comments-summary' => 'Ein Kommentar wurde von $1 über die Programmerweiterung ArticleComments abgegeben.',
 	'article-comments-submission-succeeded' => 'Die Kommentierung wurde durchgeführt.',
 	'article-comments-submission-success' => 'Du hast erfolgreich einen Kommentar für die Seite „[[$1]]“ abgegeben.',
-	'article-comments-submission-view-all' => 'Du kannst [[$1|alle Kommentare zu dieser Seite]] einsehen',
+	'article-comments-submission-view-all' => 'Du kannst [[$1|alle Kommentare zu dieser Seite]] einsehen.',
 	'article-comments-user-is-blocked' => 'Du darfst die Seite „[[$1]]“ derzeit nicht bearbeiten.',
 	'article-comments-comment-bad-mode' => 'Für die Kommentierung wurde ein ungültiger Modus angegeben.
 Möglich sind die Modi „plain“, „normal“ und „wiki“.',
@@ -554,8 +554,8 @@ Möglich sind die Modi „plain“, „normal“ und „wiki“.',
  * @author Kghbln
  */
 $messages['de-formal'] = array(
-	'article-comments-submission-success' => 'Sie haben erfolgreich einen Kommentar für Seite „[[$1]]“ abgegeben.',
-	'article-comments-submission-view-all' => 'Sie können alle Kommentare zu dieser Seite [[$1|hier]] einsehen.',
+	'article-comments-submission-success' => 'Sie haben erfolgreich einen Kommentar für die Seite „[[$1]]“ abgegeben.',
+	'article-comments-submission-view-all' => 'Sie können [[$1|alle Kommentare zu dieser Seite]] einsehen.',
 	'article-comments-user-is-blocked' => 'Sie dürfen die Seite „[[$1]]“ derzeit nicht bearbeiten.',
 );
 
@@ -565,7 +565,8 @@ $messages['de-formal'] = array(
  */
 $messages['diq'] = array(
 	'article-comments-name-string' => 'Name',
-	'article-comments-comment-field' => 'beyanat:',
+	'article-comments-comment-string' => 'Mışewre',
+	'article-comments-comment-field' => 'Mışewre:',
 	'article-comments-submit-button' => 'Qeyd ke',
 	'article-comments-leave-comment-link' => 'Vatış bunusne...',
 );
