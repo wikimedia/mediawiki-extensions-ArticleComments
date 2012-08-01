@@ -564,11 +564,17 @@ $messages['de-formal'] = array(
  * @author Mirzali
  */
 $messages['diq'] = array(
+	'article-comments-title-string' => 'Sername',
 	'article-comments-name-string' => 'Name',
+	'article-comments-name-field' => 'Name (mecburi):',
+	'article-comments-url-field' => 'Websita',
+	'article-comments-url-string' => 'GRE',
 	'article-comments-comment-string' => 'Mışewre',
-	'article-comments-comment-field' => 'Mışewre:',
+	'article-comments-comment-field' => 'Vatış:',
 	'article-comments-submit-button' => 'Qeyd ke',
 	'article-comments-leave-comment-link' => 'Vatış bunusne...',
+	'article-comments-commenter-said' => '$1 va ke ...',
+	'article-comments-comment-missing-name-parameter' => 'Nameyo kemi',
 );
 
 /** Lower Sorbian (dolnoserbski)
@@ -1219,11 +1225,11 @@ $messages['km'] = array(
 $messages['ksh'] = array(
 	'article-comments-desc' => 'Määt Aanmerkunge op Sigge müjjelesch.',
 	'article-comments-title-string' => 'Övverschreff',
-	'article-comments-name-string' => 'Naam',
+	'article-comments-name-string' => 'Naame',
 	'article-comments-name-field' => 'Naam (kam_mer nit fottlohße):',
 	'article-comments-url-field' => 'Websait:',
 	'article-comments-url-string' => 'URL',
-	'article-comments-comment-string' => 'Aanmerkung',
+	'article-comments-comment-string' => 'Aanmärkong',
 	'article-comments-comment-field' => 'Enndraach för en et Logboch:',
 	'article-comments-submit-button' => 'Faßhallde!',
 	'article-comments-leave-comment-link' => 'Donn en Aanmerkung maache&nbsp;…',
@@ -2252,6 +2258,7 @@ Ang makukuha ay "payak", "pangkaraniwan" at "wiki".',
 /** Turkish (Türkçe)
  * @author 82-145
  * @author Emperyan
+ * @author Erdemaslancan
  * @author Incelemeelemani
  * @author Karduelis
  */
@@ -2271,7 +2278,7 @@ $messages['tr'] = array(
 	'article-comments-talk-page-starter' => '<noinclude>"[[$1]]" yazısına yapılan yorumlar 
 <comments />
 ----- __NOEDITSECTION__</noinclude>',
-	'article-comments-commenter-said' => '$1dedi ki...',
+	'article-comments-commenter-said' => '$1 dedi ki...',
 	'article-comments-submission-succeeded' => 'Yorum gönderme başarılı',
 	'article-comments-comment-missing-name-parameter' => 'Eksik isim',
 	'article-comments-comment-missing-date-parameter' => 'Eksik yorum tarihi',
