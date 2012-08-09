@@ -1190,6 +1190,22 @@ $messages['ja'] = array(
 	'processcomment' => '記事コメントの処理',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'article-comments-title-string' => 'სათაური',
+	'article-comments-name-string' => 'სახელი',
+	'article-comments-name-field' => 'სახელი (სავალდებულო):',
+	'article-comments-url-field' => 'ვებ-გვერდი:',
+	'article-comments-url-string' => 'URL',
+	'article-comments-comment-string' => 'კომენტარი',
+	'article-comments-comment-field' => 'კომენტარი:',
+	'article-comments-submit-button' => 'მიღება',
+	'article-comments-leave-comment-link' => 'დატოვეთ კომენტარი ...',
+	'article-comments-commenter-said' => '$1 თქვა ...',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author គីមស៊្រុន
  */
@@ -2083,6 +2099,20 @@ Iskarn lli illan gan "plain", "normal" d "wiki".',
 	'article-comments-comment-missing-date-parameter' => 'Asakud n uɣfawal lli ur illan',
 	'article-comments-no-spam' => 'yan iɣd uggar n nigran llin illan iga gar igr (spam)',
 	'processcomment' => 'Askr n uɣfawal f umla',
+);
+
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'article-comments-title-string' => 'ශීර්ෂය',
+	'article-comments-name-string' => 'නම',
+	'article-comments-name-field' => 'නම (අවශ්‍යයි):',
+	'article-comments-url-field' => 'වෙබ් අඩවිය:',
+	'article-comments-url-string' => 'URL',
+	'article-comments-comment-string' => 'පරිකථනය',
+	'article-comments-comment-field' => 'පරිකථනය:',
+	'article-comments-submit-button' => 'යොමන්න',
 );
 
 /** Slovenian (slovenščina)
