@@ -519,7 +519,7 @@ Dostupné jsou tyto "plain", "normal" a "wiki".',
  * @author 青子守歌
  */
 $messages['de'] = array(
-	'article-comments-desc' => 'Ermöglicht das Kommentieren von Inhaltsseiten',
+	'article-comments-desc' => 'Ermöglicht das Kommentieren von Seiten',
 	'article-comments-title-string' => 'Titel',
 	'article-comments-name-string' => 'Name',
 	'article-comments-name-field' => 'Name (erforderlich):',
@@ -1234,6 +1234,31 @@ $messages['km'] = array(
 	'article-comments-user-is-blocked' => 'គណនីអ្នកប្រើប្រាស់របស់អ្នក​កំពុងស្ថិតក្រោមការរាំងខ្ទប់មិនអោយកែប្រែ "[[$1]]"។',
 	'article-comments-comment-missing-name-parameter' => 'ខ្វះឈ្មោះ',
 	'article-comments-comment-missing-date-parameter' => 'ខ្វះកាលបរិច្ឆេទ',
+);
+
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'article-comments-title-string' => '제목',
+	'article-comments-name-string' => '이름',
+	'article-comments-name-field' => '이름 (필수):',
+	'article-comments-url-field' => '웹사이트:',
+	'article-comments-url-string' => 'URL',
+	'article-comments-comment-string' => '덧글',
+	'article-comments-comment-field' => '덧글:',
+	'article-comments-submit-button' => '제출',
+	'article-comments-leave-comment-link' => '덧글 남기기 ...',
+	'article-comments-required-field' => '"$1" 칸은 반드시 입력해야 합니다.',
+	'article-comments-submission-failed' => '덧글 제출 실패',
+	'article-comments-talk-page-starter' => '<noinclude>"[[$1]]"에 대한 덧글
+<comments />
+----- __NOEDITSECTION__</noinclude>',
+	'article-comments-commenter-said' => '$1 사용자가 말했습니다 ...',
+	'article-comments-summary' => 'ArticleComments 확장 기능을 통해 $1 사용자에 의해 덧글을 제공함',
+	'article-comments-submission-succeeded' => '덧글 제출 성공함',
+	'article-comments-submission-success' => "''[[$1]]''에 대한 덧글을 성공적으로 전송했습니다",
+	'article-comments-submission-view-all' => '[[$1|해당 문서의 모든 덧글]]을 볼 수 있습니다',
 );
 
 /** Colognian (Ripoarisch)
@@ -2114,6 +2139,9 @@ $messages['si'] = array(
 	'article-comments-comment-string' => 'පරිකථනය',
 	'article-comments-comment-field' => 'පරිකථනය:',
 	'article-comments-submit-button' => 'යොමන්න',
+	'article-comments-leave-comment-link' => 'පරිකථනයක් දමන්න...',
+	'article-comments-comment-missing-name-parameter' => 'නම මඟහැරී ඇත',
+	'article-comments-comment-missing-date-parameter' => 'පරිකථන දිනය මඟහැරී ඇත',
 );
 
 /** Slovenian (slovenščina)
@@ -2219,6 +2247,27 @@ $messages['sw'] = array(
 Zinazopatikana ni "plain", "normal" and "wiki".',
 	'article-comments-comment-missing-name-parameter' => 'Jina linakosa',
 	'article-comments-comment-missing-date-parameter' => 'Tarehe ya maoni inakosa',
+);
+
+/** Tamil (தமிழ்)
+ * @author Karthi.dr
+ */
+$messages['ta'] = array(
+	'article-comments-title-string' => 'தலைப்பு',
+	'article-comments-name-string' => 'பெயர்',
+	'article-comments-name-field' => 'பெயர் (அவசியம் தேவை):',
+	'article-comments-url-field' => 'இணையத்தளம்:',
+	'article-comments-url-string' => 'உரலி (URL)',
+	'article-comments-comment-string' => 'கருத்து',
+	'article-comments-comment-field' => 'கருத்து:',
+	'article-comments-submit-button' => 'சமர்ப்பி',
+	'article-comments-leave-comment-link' => 'கருத்து ஒன்றை இடவும் ...',
+	'article-comments-submission-failed' => 'கருத்துரை சமர்ப்பித்தல் தோல்வியுற்றது',
+	'article-comments-failure-reasons' => 'மன்னிக்கவும், உங்கள் கருத்துரை சமர்ப்பித்தல் தோல்வியில் முடியக் {{PLURAL:$1|காரணம்|காரணங்கள்}}:',
+	'article-comments-no-comments' => 'மன்னிக்கவும், பக்கம் "[[$1]]" தற்போதைக்கு எந்தக் கருத்துரையையும் ஏற்காது.',
+	'article-comments-commenter-said' => '$1 சொன்னது ...',
+	'article-comments-comment-missing-name-parameter' => 'விடுபட்ட பெயர்',
+	'article-comments-comment-missing-date-parameter' => 'விடுபட்ட கருத்துரை நாள்',
 );
 
 /** Telugu (తెలుగు)
