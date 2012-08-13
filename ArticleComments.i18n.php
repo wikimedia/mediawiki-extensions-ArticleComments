@@ -719,6 +719,19 @@ Los disponibles son «plain», «normal» y «wiki».',
 	'processcomment' => 'Procesar el comentario sobre la página',
 );
 
+/** Estonian (eesti)
+ * @author Avjoska
+ */
+$messages['et'] = array(
+	'article-comments-title-string' => 'pealkiri',
+	'article-comments-name-string' => 'Nimi',
+	'article-comments-name-field' => 'Nimi (nõutav):',
+	'article-comments-url-field' => 'Veebileht:',
+	'article-comments-url-string' => 'URL',
+	'article-comments-comment-string' => 'Kommentaar',
+	'article-comments-comment-field' => 'Kommentaar:',
+);
+
 /** Basque (euskara)
  * @author An13sa
  */
@@ -2140,8 +2153,16 @@ $messages['si'] = array(
 	'article-comments-comment-field' => 'පරිකථනය:',
 	'article-comments-submit-button' => 'යොමන්න',
 	'article-comments-leave-comment-link' => 'පරිකථනයක් දමන්න...',
+	'article-comments-required-field' => '"$1" ක්ෂේත්‍රය අවශ්‍ය වේ.',
+	'article-comments-submission-failed' => 'පරිකථනය ඉදිරිපත් කිරීම අසාර්ථකයි',
+	'article-comments-talk-page-starter' => '<noinclude> "[[$1]]" හී පරිකථන
+<comments />
+----- __NOEDITSECTION__</noinclude>',
+	'article-comments-commenter-said' => '$1 කියයි ...',
+	'article-comments-submission-succeeded' => 'පරිකථනය ඉදිරිපත් කිරීම සාර්ථකයි',
 	'article-comments-comment-missing-name-parameter' => 'නම මඟහැරී ඇත',
 	'article-comments-comment-missing-date-parameter' => 'පරිකථන දිනය මඟහැරී ඇත',
+	'processcomment' => 'ක්‍රියා පිටු පරිකථනය',
 );
 
 /** Slovenian (slovenščina)
