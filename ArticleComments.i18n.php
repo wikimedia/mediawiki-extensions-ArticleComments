@@ -879,6 +879,15 @@ Les fôrmes disponibles sont « plain », « normal » et « wiki ».',
 	'processcomment' => 'Trètament du comentèro sur la pâge',
 );
 
+/** Irish (Gaeilge)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ga'] = array(
+	'article-comments-name-string' => 'Ainm',
+	'article-comments-comment-string' => 'Nóta tráchta',
+	'article-comments-comment-field' => 'Nóta tráchta:',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
