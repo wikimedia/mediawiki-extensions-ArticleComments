@@ -1706,6 +1706,42 @@ Yang ada ialah "plain", "normal" dan "wiki".',
 	'processcomment' => 'Proseskan komen laman',
 );
 
+/** Maltese (Malti)
+ * @author Chrisportelli
+ */
+$messages['mt'] = array(
+	'article-comments-desc' => "Tħalli s-sezzjonijiet għall-kummenti fuq il-paġni ta' kontenut",
+	'article-comments-title-string' => 'titlu',
+	'article-comments-name-string' => 'Isem',
+	'article-comments-name-field' => 'Isem (obbligatorju):',
+	'article-comments-url-field' => 'Sit elettroniku:',
+	'article-comments-url-string' => 'URL',
+	'article-comments-comment-string' => 'Kumment',
+	'article-comments-comment-field' => 'Kumment:',
+	'article-comments-submit-button' => 'Ibgħat',
+	'article-comments-leave-comment-link' => 'Ħalli kumment ...',
+	'article-comments-invalid-field' => 'Il-valur mogħti għall-qasam $1 <nowiki>[$2]</nowiki> huwa invalidu.',
+	'article-comments-required-field' => 'Il-qasam "$1" huwa obbligatorju.',
+	'article-comments-submission-failed' => 'Is-sottomissjoni tal-kumment falla',
+	'article-comments-failure-reasons' => 'Jiddispjaċina, is-sottomissjoni tal-kumment tiegħek falla għar-{{PLURAL:$1|raġuni|raġunijiet}} segwenti:',
+	'article-comments-no-comments' => 'Jiddispjaċina, il-paġna "[[$1]]" mhix qed taċċetta kummenti bħalissa.',
+	'article-comments-talk-page-starter' => '<noinclude>Kummenti fuq "[[$1]]"
+<comments />
+----- __NOEDITSECTION__</noinclude>',
+	'article-comments-commenter-said' => '$1 qal ...',
+	'article-comments-summary' => 'Kumment provdut minn $1 - permezz tal-estensjoni ArticleComments',
+	'article-comments-submission-succeeded' => 'Il-kumment tiegħek intbagħat',
+	'article-comments-submission-success' => 'Irnexxielek tibgħat kumment b\'suċċess għal "[[$1]]"',
+	'article-comments-submission-view-all' => "Tista' tara l-[[$1|kummenti kollha fuq dik il-paġna]]",
+	'article-comments-user-is-blocked' => 'Il-kont tal-utent tiegħek huwa attwalment imblukkat mill-immodifikar "[[$1]]".',
+	'article-comments-comment-bad-mode' => 'Il-modalità mogħtija għall-kumment hija ħażina.
+Dawk disponibbli huma "plain", "normal" u "wiki".',
+	'article-comments-comment-missing-name-parameter' => 'L-isem huwa nieqes',
+	'article-comments-comment-missing-date-parameter' => 'Id-data tal-kumment hija nieqsa',
+	'article-comments-no-spam' => 'Minn tal-inqas waħda mill-oqsma mibgħuta hija mmarkata bħala spam.',
+	'processcomment' => 'Ipproċessa kummenti tal-paġni',
+);
+
 /** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
@@ -2452,6 +2488,16 @@ $messages['ur'] = array(
 	'article-comments-submission-succeeded' => 'تبصرہ کامیابی سے بھیج دیا گیا',
 	'article-comments-submission-success' => 'آپ نے "[[$1]]" کیلئے تبصرہ کامیابی سے بھیج دیا',
 	'article-comments-user-is-blocked' => 'آپ کا کھاتا فی الحال "[[$1]]" میں تدوین کرنے سے ممنوع ہے۔',
+);
+
+/** Vietnamese (Tiếng Việt)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['vi'] = array(
+	'article-comments-title-string' => 'Tựa đề',
+	'article-comments-name-string' => 'Tên',
+	'article-comments-url-string' => 'URL',
+	'article-comments-comment-string' => 'Bình luận',
 );
 
 /** Yiddish (ייִדיש)
