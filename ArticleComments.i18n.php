@@ -2471,11 +2471,13 @@ $messages['uk'] = array(
 
 /** Urdu (اردو)
  * @author محبوب عالم
+ * @author පසිඳු කාවින්ද
  */
 $messages['ur'] = array(
 	'article-comments-title-string' => 'عنوان',
 	'article-comments-name-string' => 'نام',
 	'article-comments-name-field' => 'نام (ضروری):',
+	'article-comments-url-string' => 'یو آر ایل',
 	'article-comments-comment-string' => 'تبصرہ',
 	'article-comments-comment-field' => 'تبصرہ:',
 	'article-comments-submit-button' => 'بھیجو',
