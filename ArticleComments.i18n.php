@@ -1181,36 +1181,36 @@ Quelle disponibili sono: "plain", "normal" e "wiki".',
  * @author 青子守歌
  */
 $messages['ja'] = array(
-	'article-comments-desc' => 'コンテンツのページで、コメント節を有効化する',
+	'article-comments-desc' => 'コンテンツのページにコメントできる節を有効にする',
 	'article-comments-title-string' => '題名',
 	'article-comments-name-string' => '名前',
-	'article-comments-name-field' => '名前（必須）：',
-	'article-comments-url-field' => 'ウェブサイト：',
+	'article-comments-name-field' => '名前 (必須):',
+	'article-comments-url-field' => 'ウェブサイト:',
 	'article-comments-url-string' => 'URL',
 	'article-comments-comment-string' => 'コメント',
-	'article-comments-comment-field' => 'コメント：',
+	'article-comments-comment-field' => 'コメント:',
 	'article-comments-submit-button' => '送信',
 	'article-comments-leave-comment-link' => 'コメントを残す...',
 	'article-comments-invalid-field' => '$1に入力した値<nowiki>[$2]</nowiki>は無効です。',
-	'article-comments-required-field' => '$1項目は必須です。',
-	'article-comments-submission-failed' => 'コメント投稿に失敗しました',
-	'article-comments-failure-reasons' => '申し訳ありませんが、コメントの投稿が、次の{{PLURAL:$1|理由}}により失敗しました：',
-	'article-comments-no-comments' => '申し訳ありませんが、ページ「[[$1]]」は、現在、コメントの投稿を受け付けていません。',
-	'article-comments-talk-page-starter' => '<noinclude>[[$1]]へのコメント
+	'article-comments-required-field' => '「$1」欄は必須です。',
+	'article-comments-submission-failed' => 'コメントの投稿に失敗しました',
+	'article-comments-failure-reasons' => '申し訳ありませんが、コメントの投稿が以下の{{PLURAL:$1|理由}}で失敗しました:',
+	'article-comments-no-comments' => '申し訳ありませんが、ページ「[[$1]]」は現在、コメントの投稿を受け付けていません。',
+	'article-comments-talk-page-starter' => '<noinclude>「[[$1]]」へのコメント
 <comments />
 ----- __NOEDITSECTION__</noinclude>',
 	'article-comments-commenter-said' => '$1いわく...',
-	'article-comments-summary' => '$1によるコメント（記事コメント拡張機能による）',
-	'article-comments-submission-succeeded' => 'コメント投稿に成功しました',
+	'article-comments-summary' => '$1によるコメント (記事コメント拡張機能による)',
+	'article-comments-submission-succeeded' => 'コメントを投稿しました',
 	'article-comments-submission-success' => '「[[$1]]」にコメントを投稿しました',
-	'article-comments-submission-view-all' => '[[$1|そのページのすべてのコメント]]を閲覧できます',
-	'article-comments-user-is-blocked' => '利用者アカウントが、現在、「[[$1]]」の編集をブロックされています。',
-	'article-comments-comment-bad-mode' => 'コメントに対して、無効な形式です。
-「plain」「normal」あるいは「wiki」が有効です。',
+	'article-comments-submission-view-all' => '[[$1|そのページへのすべてのコメント]]を閲覧できます',
+	'article-comments-user-is-blocked' => 'あなたの利用者アカウントは現在、「[[$1]]」の編集をブロックされています。',
+	'article-comments-comment-bad-mode' => 'コメントに対して無効なモードを指定しました。
+「plain」「normal」「wiki」のいずれかを指定してください。',
 	'article-comments-comment-missing-name-parameter' => '名前がありません',
 	'article-comments-comment-missing-date-parameter' => 'コメントの日付がありません',
-	'article-comments-no-spam' => '投稿された項目のうち少なくとも1つが、スパムとしてフラグが設定されました。',
-	'processcomment' => '記事コメントの処理',
+	'article-comments-no-spam' => '投稿内容のうち少なくとも 1 つの項目に対して、スパムとしてフラグが立てられました。',
+	'processcomment' => 'ページへのコメントの処理',
 );
 
 /** Georgian (ქართული)
