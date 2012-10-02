@@ -248,7 +248,7 @@ Méglich san d' Módusse „plain“, „normal“ und „wiki“.",
 	'processcomment' => 'Kommentirn voh Inhoidsseiten vaorweiten',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -551,7 +551,7 @@ Möglich sind die Modi „plain“, „normal“ und „wiki“.',
 	'processcomment' => 'Kommentieren von Inhaltsseiten verarbeiten',
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author Kghbln
  */
 $messages['de-formal'] = array(
@@ -1330,7 +1330,7 @@ Müjjelesh sin bloß „<code lang="en">plain</code>“, „<code lang="en">norm
 	'processcomment' => 'Aanmerkung för die Sigg verärbeide',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  */
 $messages['ku-latn'] = array(
@@ -1760,7 +1760,7 @@ $messages['myv'] = array(
 	'article-comments-title-string' => 'коняксозо',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1840,7 +1840,7 @@ Beschikbaar zijn "plain", "normal" en "wiki".',
 	'processcomment' => 'Opmerking verwerken',
 );
 
-/** ‪Nederlands (informeel)‬ (‪Nederlands (informeel)‬)
+/** Nederlands (informeel)‎ (Nederlands (informeel)‎)
  * @author Siebrand
  */
 $messages['nl-informal'] = array(
@@ -1850,7 +1850,7 @@ $messages['nl-informal'] = array(
 	'article-comments-user-is-blocked' => 'Je gebruiker kan op dit moment "[[$1]]" niet bewerken.',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Nghtwlkr
  */
 $messages['nn'] = array(
@@ -2538,7 +2538,7 @@ $messages['yi'] = array(
 	'article-comments-comment-missing-date-parameter' => 'הערה דאטע פֿעלט',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Hydra
  * @author Liangent
  */
@@ -2575,7 +2575,7 @@ $messages['zh-hans'] = array(
 	'processcomment' => '进程文章注释',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Oapbtommy
  */
 $messages['zh-hant'] = array(
