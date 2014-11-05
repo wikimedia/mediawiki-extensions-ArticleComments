@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gazeb\r"
+		]
+	},
+	"article-comments-title-string": "назва",
+	"article-comments-name-string": "Імя",
+	"article-comments-name-field": "Назва (выжадоване):",
+	"article-comments-url-field": "Веб-сайт:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Коментарь",
+	"article-comments-comment-field": "Коментарь:",
+	"article-comments-submit-button": "Одослати",
+	"article-comments-leave-comment-link": "Написати коментарь ...",
+	"article-comments-commenter-said": "$1 говорить ..."
+}

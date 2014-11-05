@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dalinanir\r"
+		]
+	},
+	"article-comments-desc": "Ssrmd (ssrɣ) ayawn n tannayin ɣ tisniwin n imlan.",
+	"article-comments-title-string": "azwl",
+	"article-comments-name-string": "Assaɣ",
+	"article-comments-name-field": "Assaɣ (ism)",
+	"article-comments-url-field": "Asml web (Asit web)",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Awnnit (aɣfawal)",
+	"article-comments-comment-field": "Awnit (aɣfawal)",
+	"article-comments-submit-button": "Zzugs",
+	"article-comments-leave-comment-link": "Zayd awnit (aɣfawal)",
+	"article-comments-invalid-field": " $1 ar takka <nowiki>[$2]</nowiki> lli ur illan",
+	"article-comments-required-field": "Igr $1 ur iga bzzez",
+	"article-comments-submission-failed": "afuḍ n iwnit (aɣfawal) ur issufɣ",
+	"article-comments-failure-reasons": "Surf as, afuḍ n uwnit ur issufɣ f {{PLURAL:$1|uɣzan ad|iɣzan ad}} :",
+	"article-comments-no-comments": "Surf as amli yad « [[$1]] »  ur ira iwnitn ɣilad.",
+	"article-comments-talk-page-starter": "<noinclude>Iɣfiwaliwn f \"[[$1]]\"\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 inna",
+	"article-comments-summary": "Aɣfawal (awnit) llid yiwi  $1 - z dar  usiɣzif iwnitn n imlan",
+	"article-comments-submission-succeeded": "Afuḍ n iwnit (aɣfawal)  issufɣ",
+	"article-comments-submission-success": "Tuznt mzyan aɣfawal f « [[$1]] »",
+	"article-comments-submission-view-all": "Tzḍart adark ilin iɣfawaln kullutn f umla yad [[$1|ɣid]]",
+	"article-comments-user-is-blocked": "Amiḍan (compte) nk iqn f tirra d uẓṛig ɣ  « [[$1]] ».",
+	"article-comments-comment-bad-mode": "Askar lli tkfit i uɣfawal urt igi. \r\nIskarn lli illan gan \"plain\", \"normal\" d \"wiki\".",
+	"article-comments-comment-missing-name-parameter": "Assaɣ ur illin",
+	"article-comments-comment-missing-date-parameter": "Asakud n uɣfawal lli ur illan",
+	"article-comments-no-spam": "yan iɣd uggar n nigran llin illan iga gar igr (spam)",
+	"processcomment": "Askr n uɣfawal f umla"
+}

@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Peter17\r",
+			"Sherbrooke\r",
+			"Verdy p\r",
+			"青子守歌\r"
+		]
+	},
+	"article-comments-desc": "Active les sections de commentaires sur les pages d’articles",
+	"article-comments-title-string": "titre",
+	"article-comments-name-string": "Nom",
+	"article-comments-name-field": "Nom (obligatoire) :",
+	"article-comments-url-field": "Site web :",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Commentaire",
+	"article-comments-comment-field": "Commentaire :",
+	"article-comments-submit-button": "Soumettre",
+	"article-comments-leave-comment-link": "Ajouter un commentaire...",
+	"article-comments-invalid-field": "Le $1 fourni <nowiki>[$2]</nowiki> est invalide.",
+	"article-comments-required-field": "Le champ $1 est obligatoire.",
+	"article-comments-submission-failed": "L’envoi du commentaire a échoué",
+	"article-comments-failure-reasons": "Désolé, l’envoi de votre commentaire a échoué pour {{PLURAL:$1|la raison suivante|les raisons suivantes}} :",
+	"article-comments-no-comments": "Désolé, l’article « [[$1]] » n’accepte pas les commentaires pour le moment.",
+	"article-comments-talk-page-starter": "<noinclude>Commentaires sur [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 a dit...",
+	"article-comments-summary": "Commentaires apportés par $1 — via l’extension ArticleComments",
+	"article-comments-submission-succeeded": "L’envoi du commentaire a réussi",
+	"article-comments-submission-success": "Vous avez envoyé avec succès un commentaire sur « [[$1]] »",
+	"article-comments-submission-view-all": "Vous pouvez voir tous les commentaires sur cet article [[$1|ici]]",
+	"article-comments-user-is-blocked": "Votre compte utilisateur est actuellement bloqué en écriture sur « [[$1]] ».",
+	"article-comments-comment-bad-mode": "Le mode fourni pour le commentaire est invalide.\r\nLes modes disponibles sont «plain», « normal » et « wiki ».",
+	"article-comments-comment-missing-name-parameter": "Nom manquant",
+	"article-comments-comment-missing-date-parameter": "Date du commentaire manquante",
+	"article-comments-no-spam": "Au moins un des champs soumis a été marqué comme spam.",
+	"processcomment": "Traitement du commentaire sur l’article"
+}

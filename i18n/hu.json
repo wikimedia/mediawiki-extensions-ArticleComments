@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"BáthoryPéter\r",
+			"Dani\r",
+			"Glanthor Reviol\r"
+		]
+	},
+	"article-comments-desc": "Megjegyzések szakasz a tartalommal rendelkező lapokra",
+	"article-comments-title-string": "cím",
+	"article-comments-name-string": "Név",
+	"article-comments-name-field": "Név (kötelező):",
+	"article-comments-url-field": "Weboldal:",
+	"article-comments-url-string": "URL-cím",
+	"article-comments-comment-string": "Megjegyzés",
+	"article-comments-comment-field": "Megjegyzés:",
+	"article-comments-submit-button": "Elküldés",
+	"article-comments-leave-comment-link": "Hozzászólás írása ...",
+	"article-comments-invalid-field": "A megadott $1 <nowiki>[$2]</nowiki> érvénytelen.",
+	"article-comments-required-field": "$1 mező kitöltése kötelező.",
+	"article-comments-submission-failed": "A hozzászólás elküldése nem sikerült",
+	"article-comments-failure-reasons": "A hozzászólás elküldése nem sikerült a következő {{PLURAL:$1|ok|okok}} miatt:",
+	"article-comments-no-comments": "Sajnáljuk, a(z) „[[$1]]” laphoz jelenleg nem lehet hozzászólásokat írni.",
+	"article-comments-talk-page-starter": "<noinclude>Hozzászólások a(z) [[$1]] laphoz\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 írta …",
+	"article-comments-submission-succeeded": "A hozzászólás elküldése sikerült",
+	"article-comments-submission-success": "Sikeresen hozzászóltál a(z) „[[$1]]” című laphoz",
+	"article-comments-submission-view-all": "[[$1|A lap összes hozzászólásának]] megtekintése",
+	"article-comments-comment-missing-name-parameter": "Hiányzik a név",
+	"article-comments-comment-missing-date-parameter": "Hiányzik a hozzászólás dátuma",
+	"article-comments-no-spam": "Az elküldött mezők legalább egyike spamnek lett jelölve."
+}

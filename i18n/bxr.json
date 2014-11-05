@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjargal\r"
+		]
+	},
+	"article-comments-desc": "Агуулгын хуудаһандахи һаналай хэһэгые эдэбхижүүлнэ",
+	"article-comments-title-string": "гаршаг",
+	"article-comments-name-string": "Нэрэ",
+	"article-comments-name-field": "Нэрэ (заабол хэрэгтэй)",
+	"article-comments-url-field": "Вэбсайт:",
+	"article-comments-url-string": "Хаяг",
+	"article-comments-comment-string": "Һанал",
+	"article-comments-comment-field": "Һанал:",
+	"article-comments-submit-button": "Эльгээхэ",
+	"article-comments-leave-comment-link": "Һаналаа үлөөнэ гүт...",
+	"article-comments-invalid-field": "Оруулһан $1 <nowiki>[$2]</nowiki> буруу байна.",
+	"article-comments-required-field": "\"$1\" талбар заабол хэрэгтэй.",
+	"article-comments-submission-failed": "Һанал эльгээгдэбэгүй.",
+	"article-comments-failure-reasons": "Хүлисэгты, танай һанал удаадахи {{PLURAL:$1|шалтагаан|шалтагаан}}һаа боложо эльгээгдэбэгүй:",
+	"article-comments-no-comments": "Хүлисэгты, \"[[$1]]\" хуудаһан энэ удаа һанал хүлеэн абаха аргагүй.",
+	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\" хуудаһанай һанал\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 хэлэһэниинь ...",
+	"article-comments-summary": "$1 гэгшын \"Үгүүлэлэй Һанал\" үргэдхэлөөр эльгээһэн һанал",
+	"article-comments-submission-succeeded": "Һанал эльгээгдэбэ",
+	"article-comments-submission-success": "\"[[$1]]\" хуудаһанда һаналаа амжалтатай эльгээбэт",
+	"article-comments-submission-view-all": "[[$1|Хуудаһанай бүхы һаналые]] хараха аргатайт",
+	"article-comments-user-is-blocked": "Мүнөө Танай хэрэглэгшын данса \"[[$1]]\" хуудаһые заһаха эрхэ хаалтатай.",
+	"article-comments-comment-missing-name-parameter": "Нэрэ хооһон",
+	"article-comments-comment-missing-date-parameter": "Һаналай огноо хооһон",
+	"article-comments-no-spam": "Эльгээһэнэйтнай дотор спам гэжэ тэмдэглэһэн талбар байна.",
+	"processcomment": "Хуудаһанай һанал болбосоруулха"
+}

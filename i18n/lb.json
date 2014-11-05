@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby\r"
+		]
+	},
+	"article-comments-desc": "Erméiglecht Abschnitter mat Bemierkungen op Artikelsäiten",
+	"article-comments-title-string": "Titel",
+	"article-comments-name-string": "Numm",
+	"article-comments-name-field": "Numm (obligatoresch):",
+	"article-comments-url-field": "Internetsite:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Bemierkung",
+	"article-comments-comment-field": "Bemierkung:",
+	"article-comments-submit-button": "Schécken",
+	"article-comments-leave-comment-link": "Eng Bemierkung derbäisetzen ...",
+	"article-comments-invalid-field": "Den $1 <nowiki>[$2]</nowiki> deen Dir uginn hutt ass net valabel.",
+	"article-comments-required-field": "D'Feld $1 ass obligatoresch.",
+	"article-comments-submission-failed": "D'Schécke vun der Bemierkung huet net fonctionnéiert",
+	"article-comments-failure-reasons": "Pardon, Är Bemierkung huet aus {{PLURAL:$1|dësem Grond|dëse Grënn}} net fonctionnéiert:",
+	"article-comments-no-comments": "Pardon, d'Säit \"[[$1]]\" hëlt elo keng Bemierkungen un.",
+	"article-comments-talk-page-starter": "<noinclude>Bemierkungen iwwer [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 huet gesot ...",
+	"article-comments-summary": "Bemierkung vum $1 - iwwert d'Erweiderung ArticleComments",
+	"article-comments-submission-succeeded": "D'Bemierkung ass gespäichert",
+	"article-comments-submission-success": "Är Bemierkung fir [[$1]] ass gespäichert.",
+	"article-comments-submission-view-all": "Dir kënnt [[$1|all Bemierkungen zu dëser Säit]] kucken",
+	"article-comments-user-is-blocked": "Äre Benotzerkont ass elo gespaart fir \"[[$1]]\" z'änneren.",
+	"article-comments-comment-bad-mode": "Net valabele Mode ugi fir d'Bemierkung.\r\nMéiglech sinn \"plain\", \"normal\" a \"wiki\".",
+	"article-comments-comment-missing-name-parameter": "Den Numm feelt",
+	"article-comments-comment-missing-date-parameter": "Datum vun der Bemierkung feelt",
+	"article-comments-no-spam": "Mindestens eent vun de geschéckte Felder gouf als Spam markéiert.",
+	"processcomment": "D'Bemierkung zum Artikel gëtt verschafft"
+}

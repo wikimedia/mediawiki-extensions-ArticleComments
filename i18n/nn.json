@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nghtwlkr\r"
+		]
+	},
+	"article-comments-title-string": "tittel",
+	"article-comments-name-string": "Namn",
+	"article-comments-name-field": "Namn (kravd):",
+	"article-comments-url-field": "Nettstad:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Kommentar",
+	"article-comments-comment-field": "Kommentar:",
+	"article-comments-submit-button": "Lagre",
+	"article-comments-leave-comment-link": "Legg igjen ein kommentar ...",
+	"article-comments-commenter-said": "$1 sa ..."
+}

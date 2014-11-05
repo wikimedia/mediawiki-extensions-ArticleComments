@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mihxil\r",
+			"Tempodivalse\r",
+			"Yekrats\r"
+		]
+	},
+	"article-comments-title-string": "titolo",
+	"article-comments-name-string": "Nomo",
+	"article-comments-name-field": "Nomo (deviga):",
+	"article-comments-url-field": "Retejo:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Komenti:",
+	"article-comments-comment-field": "Komenti:",
+	"article-comments-submit-button": "Enmeti",
+	"article-comments-leave-comment-link": "Komenti ...",
+	"article-comments-invalid-field": "La $1 provizis <nowiki>[$2]</nowiki> estas malvalida.",
+	"article-comments-required-field": "$1 kampo estas deviga.",
+	"article-comments-submission-failed": "Enmetado de komento malsukcesis",
+	"article-comments-failure-reasons": "Bedaŭrinde via komentado malsukcesis pro la {{PLURAL:$1|jena kialo|jenaj kialoj}}:",
+	"article-comments-no-comments": "Pardonu, la paĝo [[$1]] nuntempe ne akceptas komentojn.",
+	"article-comments-commenter-said": "$1 diris ...",
+	"article-comments-submission-success": "Vi sukcese sendis komenton por \"[[$1]]\"",
+	"article-comments-submission-view-all": "Vi povas vidi [[$1|ĉiujn komentojn en tiu paĝo]]",
+	"article-comments-comment-missing-name-parameter": "Nomo mankas",
+	"article-comments-comment-missing-date-parameter": "Mankas dato de komento",
+	"article-comments-no-spam": "Almenaŭ unu el la senditaj kampoj estis markita kiel spamaĵo.",
+	"processcomment": "Procezi la artikolo-komenton"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Veeven\r"
+		]
+	},
+	"article-comments-title-string": "శీర్షిక",
+	"article-comments-name-string": "పేరు",
+	"article-comments-name-field": "పేరు (తప్పనిసరి):",
+	"article-comments-url-field": "వెబ్ సైటు:",
+	"article-comments-comment-string": "వ్యాఖ్య",
+	"article-comments-comment-field": "వ్యాఖ్య:",
+	"article-comments-submit-button": "దాఖలుచెయ్యి",
+	"article-comments-leave-comment-link": "వ్యాఖ్యానించండి ...",
+	"article-comments-required-field": "\"$1\" అనే ఖాళీ తప్పనిసరి.",
+	"article-comments-failure-reasons": "ఈ క్రింది {{PLURAL:$1|కారణం|కారణాల}} వల్ల మీ వ్యాఖ్య దాఖలు విఫలమైంది:",
+	"article-comments-no-comments": "క్షమించండి, \"[[$1]]\" పుటలో ప్రస్తుతం వ్యాఖ్యలని అనుమతించుటలేదు.",
+	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\"పై వ్యాఖ్యలు\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 అన్నారు ...",
+	"article-comments-submission-view-all": "[[$1|ఆ పుటపై అన్ని వ్యాఖ్యలని]] మీరు చూడవచ్చు"
+}

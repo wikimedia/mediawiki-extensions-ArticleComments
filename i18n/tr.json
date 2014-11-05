@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"82-145\r",
+			"Emperyan\r",
+			"Erdemaslancan\r",
+			"Incelemeelemani\r",
+			"Karduelis\r"
+		]
+	},
+	"article-comments-desc": "İçerik sayfalarında yorum bölümlerini devreye sokar",
+	"article-comments-title-string": "başlık",
+	"article-comments-name-string": "Adı",
+	"article-comments-name-field": "Adı (gerekli)",
+	"article-comments-url-field": "Web sitesi:",
+	"article-comments-url-string": "Bağlantı (URL)",
+	"article-comments-comment-string": "Açıklama",
+	"article-comments-comment-field": "Yorum:",
+	"article-comments-submit-button": "Gönder",
+	"article-comments-leave-comment-link": "Yorum yaz ...",
+	"article-comments-required-field": "\"$1\" alanı gerekiyor.",
+	"article-comments-submission-failed": "Yorum gönderme başarısız",
+	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\" yazısına yapılan yorumlar \r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 dedi ki...",
+	"article-comments-submission-succeeded": "Yorum gönderme başarılı",
+	"article-comments-comment-missing-name-parameter": "Eksik isim",
+	"article-comments-comment-missing-date-parameter": "Eksik yorum tarihi"
+}

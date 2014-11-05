@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Karthi.dr\r"
+		]
+	},
+	"article-comments-title-string": "தலைப்பு",
+	"article-comments-name-string": "பெயர்",
+	"article-comments-name-field": "பெயர் (அவசியம் தேவை):",
+	"article-comments-url-field": "இணையத்தளம்:",
+	"article-comments-url-string": "உரலி (URL)",
+	"article-comments-comment-string": "கருத்து",
+	"article-comments-comment-field": "கருத்து:",
+	"article-comments-submit-button": "சமர்ப்பி",
+	"article-comments-leave-comment-link": "கருத்து ஒன்றை இடவும் ...",
+	"article-comments-submission-failed": "கருத்துரை சமர்ப்பித்தல் தோல்வியுற்றது",
+	"article-comments-failure-reasons": "மன்னிக்கவும், உங்கள் கருத்துரை சமர்ப்பித்தல் தோல்வியில் முடியக் {{PLURAL:$1|காரணம்|காரணங்கள்}}:",
+	"article-comments-no-comments": "மன்னிக்கவும், பக்கம் \"[[$1]]\" தற்போதைக்கு எந்தக் கருத்துரையையும் ஏற்காது.",
+	"article-comments-commenter-said": "$1 சொன்னது ...",
+	"article-comments-comment-missing-name-parameter": "விடுபட்ட பெயர்",
+	"article-comments-comment-missing-date-parameter": "விடுபட்ட கருத்துரை நாள்"
+}

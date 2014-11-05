@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder\r",
+			"Kghbln\r",
+			"Purodha\r",
+			"The Evil IP address\r",
+			"青子守歌\r"
+		]
+	},
+	"article-comments-desc": "Ermöglicht das Kommentieren von Seiten",
+	"article-comments-title-string": "Titel",
+	"article-comments-name-string": "Name",
+	"article-comments-name-field": "Name (erforderlich):",
+	"article-comments-url-field": "Website:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Kommentar",
+	"article-comments-comment-field": "Kommentar:",
+	"article-comments-submit-button": "Speichern",
+	"article-comments-leave-comment-link": "Hinterlasse einen Kommentar …",
+	"article-comments-invalid-field": "Die Eingabe <nowiki>[$2]</nowiki> als $1 ist ungültig.",
+	"article-comments-required-field": "$1 ist ein Pflichtfeld.",
+	"article-comments-submission-failed": "Die Kommentierung ist fehlgeschlagen.",
+	"article-comments-failure-reasons": "Die Kommentierung ist leider aus {{PLURAL:$1|folgendem Grund|folgenden Gründen}} fehlgeschlagen:",
+	"article-comments-no-comments": "Für die Seite „[[$1]]“ können momentan keine Kommentare abgegeben werden.",
+	"article-comments-talk-page-starter": "<noinclude>Kommentare zur Seite „[[$1]]“\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 meinte …",
+	"article-comments-summary": "Ein Kommentar wurde von $1 über die Programmerweiterung ArticleComments abgegeben.",
+	"article-comments-submission-succeeded": "Die Kommentierung wurde durchgeführt.",
+	"article-comments-submission-success": "Du hast erfolgreich einen Kommentar für die Seite „[[$1]]“ abgegeben.",
+	"article-comments-submission-view-all": "Du kannst [[$1|alle Kommentare zu dieser Seite]] einsehen.",
+	"article-comments-user-is-blocked": "Du darfst die Seite „[[$1]]“ derzeit nicht bearbeiten.",
+	"article-comments-comment-bad-mode": "Für die Kommentierung wurde ein ungültiger Modus angegeben.\r\nMöglich sind die Modi „plain“, „normal“ und „wiki“.",
+	"article-comments-comment-missing-name-parameter": "Fehlender Name",
+	"article-comments-comment-missing-date-parameter": "Fehlendes Datum",
+	"article-comments-no-spam": "Mindestens eine der Angaben wurde als Spam identifiziert.",
+	"processcomment": "Kommentieren von Inhaltsseiten verarbeiten"
+}

@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu\r"
+		]
+	},
+	"article-comments-desc": "Activa les seiciones de comentarios nes páxines de conteníu",
+	"article-comments-title-string": "títulu",
+	"article-comments-name-string": "Nome",
+	"article-comments-name-field": "Nome (obligatoriu):",
+	"article-comments-url-field": "Páxina web:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Comentariu",
+	"article-comments-comment-field": "Comentariu:",
+	"article-comments-submit-button": "Unviar",
+	"article-comments-leave-comment-link": "Dexar un comentariu...",
+	"article-comments-invalid-field": "El $1 proporcionáu <nowiki>[$2]</nowiki> nun ye válidu.",
+	"article-comments-required-field": "El campu «$1» ye obligatoriu.",
+	"article-comments-submission-failed": "Falló l'unviu del comentariu",
+	"article-comments-failure-reasons": "Sentímoslo, el to comentariu nun pudo unviase {{PLURAL:$1|pol siguiente motivu|polos siguientes motivos}}:",
+	"article-comments-no-comments": "Sentímoslo, nesti momentu la páxina «[[$1]]» nun aceuta comentarios.",
+	"article-comments-talk-page-starter": "<noinclude>Comentarios sobro «[[$1]]»\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 dixo...",
+	"article-comments-summary": "Comentariu proporcionáu por $1 - pela estensión ArticleComments",
+	"article-comments-submission-succeeded": "El comentariu s'unvió correutamente",
+	"article-comments-submission-success": "Unviasti correutamente un comentariu sobro \"[[$1]]\"",
+	"article-comments-submission-view-all": "Pues ver [[$1|tolos los comentarios sobro esa páxina]]",
+	"article-comments-user-is-blocked": "La to cuenta d'usuariu tien torgao editar «[[$1]]».",
+	"article-comments-comment-bad-mode": "El mou que se dio pal comentariu nun ye válidu.\r\nLos moos disponibles son \"plain\", \"normal\" y \"wiki\".",
+	"article-comments-comment-missing-name-parameter": "Falta'l nome",
+	"article-comments-comment-missing-date-parameter": "Fata la data del comentariu",
+	"article-comments-no-spam": "Polo menos un de los campos unviaos se marcó como puxarra.",
+	"processcomment": "Procesar el comentariu de páxina"
+}

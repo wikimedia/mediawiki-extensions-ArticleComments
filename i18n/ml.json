@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Praveenp\r"
+		]
+	},
+	"article-comments-desc": "ഉള്ളടക്ക താളുകളിൽ അഭിപ്രായമിടാനുള്ള ഭാഗം സജ്ജമാക്കുന്നു",
+	"article-comments-title-string": "ശീർഷകം",
+	"article-comments-name-string": "പേര്‌",
+	"article-comments-name-field": "പേര് (ആവശ്യമാണ്):",
+	"article-comments-url-field": "വെബ്‌സൈറ്റ്:",
+	"article-comments-url-string": "യൂ.ആർ.എൽ.",
+	"article-comments-comment-string": "അഭിപ്രായം",
+	"article-comments-comment-field": "അഭിപ്രായം:",
+	"article-comments-submit-button": "സമർപ്പിക്കുക",
+	"article-comments-leave-comment-link": "ഒരു കുറിപ്പിടുക ...",
+	"article-comments-invalid-field": "$1 നൽകിയ <nowiki>[$2]</nowiki> അസാധുവാണ്.",
+	"article-comments-required-field": "$1 എന്ന ഫീൽഡ് ആവശ്യമാണ്.",
+	"article-comments-submission-failed": "അഭിപ്രായം സമർപ്പിക്കാൻ സാധിച്ചില്ല",
+	"article-comments-failure-reasons": "ക്ഷമിക്കുക, താങ്കളുടെ അഭിപ്രായം സമർപ്പിക്കാൻ താഴെ പറയുന്ന {{PLURAL:$1|കാരണത്താൽ|കാരണങ്ങളാൽ}} സാധിച്ചില്ല:",
+	"article-comments-no-comments": "ക്ഷമിക്കുക, ഇപ്പോൾ \"[[$1]]\" താളിൽ അഭിപ്രായങ്ങൾ സ്വീകരിക്കുന്നില്ല.",
+	"article-comments-talk-page-starter": "<noinclude>[[$1]] താളിലെ അഭിപ്രായങ്ങൾ\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 പറഞ്ഞു ...",
+	"article-comments-summary": "$1 ഇട്ട അഭിപ്രായം - ArticleComments അനുബന്ധം വഴി",
+	"article-comments-submission-succeeded": "അഭിപ്രായം സമർപ്പിച്ചിരിക്കുന്നു",
+	"article-comments-submission-success": "താങ്കൾ \"[[$1]]\" താളിൽ അഭിപ്രായം വിജയകരമായി സമർപ്പിച്ചിരിക്കുന്നു",
+	"article-comments-submission-view-all": "[[$1|ആ താളിലെ എല്ലാ അഭിപ്രായങ്ങളും]] താങ്കൾക്ക് കാണാവുന്നതാണ്",
+	"article-comments-user-is-blocked": "താങ്കളുടെ അംഗത്വം തിരുത്തുന്നതിൽ നിന്നും ഇപ്പോൾ തടയപ്പെട്ടിരിക്കുകയാണ് \"[[$1]]\".",
+	"article-comments-comment-bad-mode": "അഭിപ്രായത്തിനായി തിരഞ്ഞെടുത്ത സമ്പ്രദായം അസാധുവാണ്.\r\n\"plain\", \"normal\", \"wiki\" എന്നിവയാണ് ലഭ്യമായിട്ടുള്ളത്.",
+	"article-comments-comment-missing-name-parameter": "പേര് ഇല്ല",
+	"article-comments-comment-missing-date-parameter": "അഭിപ്രായത്തിന്റെ തീയതി ഇല്ല",
+	"article-comments-no-spam": "കുറഞ്ഞത് ഒരു ഫീൽഡ് എങ്കിലും പാഴെഴുത്ത് ആയി അടയാളപ്പെടുത്തിയിരിക്കുന്നു.",
+	"processcomment": "ലേഖനത്തെക്കുറിച്ചുള്ള അഭിപ്രായം പാകപ്പെടുത്തുന്നു"
+}

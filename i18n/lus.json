@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"RMizo\r"
+		]
+	},
+	"article-comments-desc": "Thuziak awmna pheka tuihnihna huang awmtirna",
+	"article-comments-title-string": "thupui",
+	"article-comments-name-string": "Hming",
+	"article-comments-name-field": "Hming (ţül):",
+	"article-comments-url-field": "Hmunpui:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Tuihnihna",
+	"article-comments-comment-field": "Tuihnihna:",
+	"article-comments-submit-button": "Thehluhna",
+	"article-comments-leave-comment-link": "Tuihnih ve zuai...",
+	"article-comments-invalid-field": "$1 pêk <nowiki>[$2]</nowiki> hi a dikhlel.",
+	"article-comments-required-field": "\"$1\" hi tihmâkmawh a ni.",
+	"article-comments-submission-failed": "Tuihnihna thehluh a tlawlh tlat"
+}

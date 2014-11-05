@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder\r"
+		]
+	},
+	"article-comments-desc": "Macht s Kommentiere vu Inhaltssyte megli",
+	"article-comments-title-string": "Titel",
+	"article-comments-name-string": "Name",
+	"article-comments-name-field": "Name (brucht s):",
+	"article-comments-url-field": "Websyte:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Aamerkig",
+	"article-comments-comment-field": "Aamerkig:",
+	"article-comments-submit-button": "Ibertrage",
+	"article-comments-leave-comment-link": "E Aamerkig hinterloo …",
+	"article-comments-invalid-field": "D Yygab <nowiki>[$2]</nowiki> as $1 isch nit giltig.",
+	"article-comments-required-field": "$1 isch e Pflichtfäld.",
+	"article-comments-submission-failed": "D Ibertragig vu dr Aamerkig isch fähl gschlaa",
+	"article-comments-failure-reasons": "Excusez, d Ibertragig vu Dyyre Aamerkig isch us {{PLURAL:$1|däm Grund|däne Grind}} fähl gschlaa:",
+	"article-comments-no-comments": "Fir d Syte „[[$1]]“ chenne zurzyt no kei Aamerkige abgee wäre.",
+	"article-comments-talk-page-starter": "<noinclude>Aamerkige zue dr Syte „[[$1]]“\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 het gmeint …",
+	"article-comments-summary": "Aameerkig vu $1 - iber d Programmerwyterig ArticleComments.",
+	"article-comments-submission-succeeded": "D Ibertragig vu dr Aamerkig isch erfolgryych gsi",
+	"article-comments-submission-success": "Du hesch erfolgryych en Aamerkig fir d Syte „[[$1]]“ abgee.",
+	"article-comments-submission-view-all": "Du chasch [[$1|alli Aamerkige zue däre Syte]] bschaue",
+	"article-comments-user-is-blocked": "Du derfsch d Syte „[[$1]]“ zurzyt nit bearbeite.",
+	"article-comments-comment-bad-mode": "Fir d Aamerkige isch e uugiltige Modus aagee wore.\r\nMegli sin d Modi „plain“, „normal“ un „wiki“.",
+	"article-comments-comment-missing-name-parameter": "Dr Name fählt",
+	"article-comments-comment-missing-date-parameter": "S Datum fählt",
+	"article-comments-no-spam": "Zmindescht ei Aagab isch as Spam idäntifiziert wore.",
+	"processcomment": "Aamerkige zue Artikel verschaffe"
+}

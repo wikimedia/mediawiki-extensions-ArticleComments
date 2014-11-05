@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720\r"
+		]
+	},
+	"article-comments-desc": "Possibilita seções de comentários nas páginas de conteúdo",
+	"article-comments-title-string": "título",
+	"article-comments-name-string": "Nome",
+	"article-comments-name-field": "Nome (obrigatório):",
+	"article-comments-url-field": "Site:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Comentário",
+	"article-comments-comment-field": "Comentário:",
+	"article-comments-submit-button": "Enviar",
+	"article-comments-leave-comment-link": "Deixe um comentário ...",
+	"article-comments-invalid-field": "O valor que forneceu como $1, <nowiki>[$2]</nowiki>, é inválido",
+	"article-comments-required-field": "O campo $1 é obrigatório.",
+	"article-comments-submission-failed": "O envio do comentário falhou",
+	"article-comments-failure-reasons": "O envio do seu comentário falhou {{PLURAL:$1|pela seguinte motivo|pelas seguintes motivos}}:",
+	"article-comments-no-comments": "Neste momento, a página \"[[$1]]\" não aceita comentários.",
+	"article-comments-talk-page-starter": "<noinclude>Comentários em [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 comentou ...",
+	"article-comments-summary": "Comentário de $1 - através da extensão ArticleComments",
+	"article-comments-submission-succeeded": "Comentário enviado com sucesso",
+	"article-comments-submission-success": "Você enviou um comentário com sucesso para \"[[$1]]\"",
+	"article-comments-submission-view-all": "Você pode ver [[$1|todos os comentários dessa página]]",
+	"article-comments-user-is-blocked": "Edições em \"[[$1]]\" estão, neste momento, bloqueadas para a sua conta.",
+	"article-comments-comment-bad-mode": "O modo do comentário é inválido.\r\nOs modos disponíveis são \"plain\" (simples), \"normal\" e \"wiki\".",
+	"article-comments-comment-missing-name-parameter": "Falta o nome",
+	"article-comments-comment-missing-date-parameter": "Falta a data do comentário",
+	"article-comments-no-spam": "Pelo menos um dos campos enviados foi identificado como spam.",
+	"processcomment": "Processar o comentário do artigo"
+}

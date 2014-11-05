@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Assele\r"
+		]
+	},
+	"article-comments-desc": "Эстәлек биттәренең бүлектәренә иҫкәрмә өҫтәргә мөмкинлек бирә.",
+	"article-comments-title-string": "исеме",
+	"article-comments-name-string": "Исеме",
+	"article-comments-name-field": "Исеме (мотлаҡ):",
+	"article-comments-url-field": "Сайт:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Иҫкәрмә",
+	"article-comments-comment-field": "Иҫкәрмә:",
+	"article-comments-submit-button": "Ебәрергә",
+	"article-comments-leave-comment-link": "Иҫкәрмә яҙырға...",
+	"article-comments-invalid-field": "$1 күрһәткән <nowiki>[$2]</nowiki> дөрөҫ түгел.",
+	"article-comments-required-field": "$1 юлы мотлаҡ.",
+	"article-comments-submission-failed": "Иҫкәрмә ебәреү хатаһы",
+	"article-comments-failure-reasons": "Ғәфү итегеҙ, иҫкәрмә ебәреү түбәндәге {{PLURAL:$1|сәбәп|сәбәптәр}} арҡаһында килеп сыҡманы:",
+	"article-comments-no-comments": "Ғәфү итегеҙ, \"[[$1]]\" бите хәҙерге ваҡытта иҫкәрмәләр ҡабул итмәй.",
+	"article-comments-talk-page-starter": "<noinclude>[[$1]] битенә иҫкәрмә\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 әйткән ...",
+	"article-comments-summary": "ArticleComments киңәйтеүе ярҙамында $1 тарафынан бирелгән иҫкәрмә",
+	"article-comments-submission-succeeded": "Иҫкәрмә уңышлы ебәрелде",
+	"article-comments-submission-success": "\"[[$1]]\" бите өсөн иҫкәрмә уңышлы ебәрелде",
+	"article-comments-submission-view-all": "Һеҙ [[$1|был бит өсөн бөтә иҫкәрмәләрҙе]] ҡарап сыға алаһығыҙ",
+	"article-comments-user-is-blocked": "Һеҙҙең иҫап яҙмағыҙ хәҙерге ваҡытта \"[[$1]]\" битен мөхәррирләүҙән бикләнгән.",
+	"article-comments-comment-bad-mode": "Иҫкәрмә өсөн дөрөҫ төр бирелмәгән.\r\nМөмкин булған төрҙәр — ''ябай'', ''ғәҙәти'', ''вики''.",
+	"article-comments-comment-missing-name-parameter": "Исеме күрһәтелмәгән",
+	"article-comments-comment-missing-date-parameter": "Иҫкәрмә яҙыу ваҡыты юҡ",
+	"article-comments-no-spam": "Кәмендә бер ебәрелгән юл спам тип билдәләнгән.",
+	"processcomment": "Мәҡәләгә иҫкәрмә өҫтәү бара"
+}

@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334\r"
+		]
+	},
+	"article-comments-desc": "Omogoča razdelke s pripombami na vsebinskih straneh",
+	"article-comments-title-string": "naslov",
+	"article-comments-name-string": "Ime",
+	"article-comments-name-field": "Ime (potrebno):",
+	"article-comments-url-field": "Spletna stran:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Pripomba",
+	"article-comments-comment-field": "Pripomba:",
+	"article-comments-submit-button": "Pošlji",
+	"article-comments-leave-comment-link": "Pustite pripombo ...",
+	"article-comments-invalid-field": "Naveden $1 <nowiki>[$2]</nowiki> ni veljaven.",
+	"article-comments-required-field": "Polje $1 je obvezno.",
+	"article-comments-submission-failed": "Oddaja pripombe je spodletela",
+	"article-comments-failure-reasons": "Oprostite, oddaja vaše pripombe je spodletela zaradi {{PLURAL:$1|naslednjega razloga|naslednjih razlogov}}:",
+	"article-comments-no-comments": "Oprostite, stran »[[$1]]« v tem trenutku ne sprejema pripomb.",
+	"article-comments-talk-page-starter": "<noinclude>Komentarji na [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 pravi ...",
+	"article-comments-summary": "Pripombo je nudil $1 – preko razširitve ArticleComments",
+	"article-comments-submission-succeeded": "Oddaja pripombe je uspela",
+	"article-comments-submission-success": "Uspešno ste poslali pripombo za »[[$1]]«",
+	"article-comments-submission-view-all": "Ogledate si lahko [[$1|vse pripombe na tej strani]]",
+	"article-comments-user-is-blocked": "Vašemu uporabniškemu računu je trenutno preprečeno urejanje »[[$1]]«.",
+	"article-comments-comment-bad-mode": "Za pripombo je bil dan neveljavni način.\r\nNa voljo so »plain«, »normal« in »wiki«.",
+	"article-comments-comment-missing-name-parameter": "Manjkajoče ime",
+	"article-comments-comment-missing-date-parameter": "Manjkajoč datum pripombe",
+	"article-comments-no-spam": "Vsaj eno od poslanih polj je bilo označeno kot smetje.",
+	"processcomment": "Obdelaj pripombo članka"
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25\r",
+			"OsamaK\r",
+			"روخو\r"
+		]
+	},
+	"article-comments-url-string": "المسار:",
+	"article-comments-submit-button": "إرسال",
+	"article-comments-commenter-said": "$1 قال ...",
+	"article-comments-comment-missing-name-parameter": "اسم مفقود"
+}

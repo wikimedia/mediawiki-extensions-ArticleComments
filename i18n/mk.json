@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06\r",
+			"青子守歌\r"
+		]
+	},
+	"article-comments-desc": "Дава пасуси за коментари во статиите",
+	"article-comments-title-string": "наслов",
+	"article-comments-name-string": "Име",
+	"article-comments-name-field": "Име (задолжително):",
+	"article-comments-url-field": "Мреж.место:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Коментар",
+	"article-comments-comment-field": "Коментар:",
+	"article-comments-submit-button": "Поднеси",
+	"article-comments-leave-comment-link": "Напишете коментар ...",
+	"article-comments-invalid-field": "Наведеното „$1“ е <nowiki>[$2]</nowiki> неважечко.",
+	"article-comments-required-field": "Се бара полето $1.",
+	"article-comments-submission-failed": "Поднесувањето на коментарот не успеа.",
+	"article-comments-failure-reasons": "Нажалост, поднесувањето на коментарот не успеа, и тоа од {{PLURAL:$1|следнава причина|следниве причини}}:",
+	"article-comments-no-comments": "Нажалост, статијата „[[$1]]“ моментално не прифаќа коментари.",
+	"article-comments-talk-page-starter": "<noinclude>Коментари за [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 рече ...",
+	"article-comments-summary": "Коментар на $1 - преку додатокот ArticleComments",
+	"article-comments-submission-succeeded": "Поднесувањето на коментарот успеа.",
+	"article-comments-submission-success": "Успешно поднесовте коментар за „[[$1]]“",
+	"article-comments-submission-view-all": "Сите коментари за таа статија можете да ги погледате [[$1|тука]]",
+	"article-comments-user-is-blocked": "На вашата корисничка моментално не ѝ е дозволено да ја уредува страницата „[[$1]]“.",
+	"article-comments-comment-bad-mode": "Зададен е неважечки режим за коментарот.\r\nНа располагање ви се „plain“, „normal“ и „wiki“.",
+	"article-comments-comment-missing-name-parameter": "Недостасува име",
+	"article-comments-comment-missing-date-parameter": "Недостасува датум на коментарот",
+	"article-comments-no-spam": "Барем едно од поднесените полиња е означено како спам.",
+	"processcomment": "Обработи го коментарот"
+}

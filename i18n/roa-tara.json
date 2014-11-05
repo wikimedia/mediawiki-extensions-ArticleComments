@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras\r"
+		]
+	},
+	"article-comments-title-string": "titele",
+	"article-comments-name-string": "Nome",
+	"article-comments-name-field": "Nome (obbligatorie):",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Commende",
+	"article-comments-comment-field": "Commende:",
+	"article-comments-submit-button": "Conferme",
+	"article-comments-leave-comment-link": "Lasse 'nu commende ..."
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"David1010\r"
+		]
+	},
+	"article-comments-title-string": "სათაური",
+	"article-comments-name-string": "სახელი",
+	"article-comments-name-field": "სახელი (სავალდებულო):",
+	"article-comments-url-field": "ვებ-გვერდი:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "კომენტარი",
+	"article-comments-comment-field": "კომენტარი:",
+	"article-comments-submit-button": "მიღება",
+	"article-comments-leave-comment-link": "დატოვეთ კომენტარი ...",
+	"article-comments-commenter-said": "$1 თქვა ..."
+}

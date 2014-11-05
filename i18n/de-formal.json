@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln\r"
+		]
+	},
+	"article-comments-submission-success": "Sie haben erfolgreich einen Kommentar für die Seite „[[$1]]“ abgegeben.",
+	"article-comments-submission-view-all": "Sie können [[$1|alle Kommentare zu dieser Seite]] einsehen.",
+	"article-comments-user-is-blocked": "Sie dürfen die Seite „[[$1]]“ derzeit nicht bearbeiten."
+}

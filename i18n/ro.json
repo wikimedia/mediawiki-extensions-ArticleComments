@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Firilacroco\r",
+			"Minisarm\r",
+			"Stelistcristi\r"
+		]
+	},
+	"article-comments-title-string": "titlu",
+	"article-comments-name-string": "Nume",
+	"article-comments-name-field": "Nume (obligatoriu):",
+	"article-comments-url-field": "Website:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Comentariu",
+	"article-comments-comment-field": "Comentariu:",
+	"article-comments-submit-button": "Trimite",
+	"article-comments-leave-comment-link": "Lăsaţi un comentariu ...",
+	"article-comments-required-field": "Câmpul $1 este obligatoriu.",
+	"article-comments-submission-failed": "Trimiterea comentariului a eșuat",
+	"article-comments-failure-reasons": "Ne pare rău, dar trimiterea comentariului dumneavoastră a eșuat din {{PLURAL:$1|următorul|următoarele}} {{PLURAL:$1|motiv|motive}}:",
+	"article-comments-no-comments": "Scuze, pagina „[[$1]]” nu acceptă comentarii în acest moment.",
+	"article-comments-talk-page-starter": "<noinclude>Comentarii pe [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 a spus ...",
+	"article-comments-summary": "Comentariu furnizat de către $1 - prin extensia ArticleComments",
+	"article-comments-submission-succeeded": "Trimiterea comentariului s-a efectuat cu succes",
+	"article-comments-submission-success": "Ai trimis cu succes un comentariu pentru „[[$1]]”",
+	"article-comments-user-is-blocked": "Contului dumneavoastră de utilizator nu îi este permisă modificarea paginii „[[$1]]”.",
+	"article-comments-comment-missing-name-parameter": "Lipseşte numele",
+	"article-comments-comment-missing-date-parameter": "Lipseşte data comentariului"
+}

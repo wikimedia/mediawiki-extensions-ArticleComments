@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt\r",
+			"Dragonòt\r"
+		]
+	},
+	"article-comments-desc": "Abìlita le session ëd coment an sle pàgine ëd contnù",
+	"article-comments-title-string": "tìtol",
+	"article-comments-name-string": "Nòm",
+	"article-comments-name-field": "Nòm (obligatòri):",
+	"article-comments-url-field": "Sit an sla Ragnà:",
+	"article-comments-url-string": "Adrëssa an sl'aragnà",
+	"article-comments-comment-string": "Coment",
+	"article-comments-comment-field": "Coment:",
+	"article-comments-submit-button": "Spediss",
+	"article-comments-leave-comment-link": "lassa un coment ...",
+	"article-comments-invalid-field": "Ël $1 dàit <nowiki>[$2]</nowiki> a l'é pa bon.",
+	"article-comments-required-field": "Ël camp $1 a l'é obligatòri.",
+	"article-comments-submission-failed": "La spedission dël coment a l'é falìa",
+	"article-comments-failure-reasons": "An dëspias, la spedission ëd sò coment a l'é falìa për {{PLURAL:$1|la rason|le rason}} sì-dapress:",
+	"article-comments-no-comments": "An dëspias, la pàgina «[[$1]]» a aceta pa ëd coment al moment.",
+	"article-comments-talk-page-starter": "<noinclude>Coment su [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 dit ...",
+	"article-comments-summary": "Coment fornì da $1 - a travers l'estension ArticleComments",
+	"article-comments-submission-succeeded": "La spedission dël coment a l'é andàita bin",
+	"article-comments-submission-success": "It l'has spedì da bin un coment për \"[[$1]]\"",
+	"article-comments-submission-view-all": "It peule vëdde [[$1|tùit ij coment su sta pàgina]]",
+	"article-comments-user-is-blocked": "Tò cont utent a l'é al moment blocà da modifiché \"[[$1]]\".",
+	"article-comments-comment-bad-mode": "La manera fornìa për ël coment a va pa bin.\r\nCole disponìbij a son \"plain\", \"normal\" e \"wiki\".",
+	"article-comments-comment-missing-name-parameter": "Nòm mancant",
+	"article-comments-comment-missing-date-parameter": "Data dël coment mancanta",
+	"article-comments-no-spam": "Almanch un dij camp spedì a l'é stàit marcà com ëd rumenta.",
+	"processcomment": "Trata ël coment ëd l'artìcol"
+}

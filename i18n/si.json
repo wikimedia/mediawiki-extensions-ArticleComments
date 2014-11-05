@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"පසිඳු කාවින්ද\r"
+		]
+	},
+	"article-comments-title-string": "ශීර්ෂය",
+	"article-comments-name-string": "නම",
+	"article-comments-name-field": "නම (අවශ්‍යයි):",
+	"article-comments-url-field": "වෙබ් අඩවිය:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "පරිකථනය",
+	"article-comments-comment-field": "පරිකථනය:",
+	"article-comments-submit-button": "යොමන්න",
+	"article-comments-leave-comment-link": "පරිකථනයක් දමන්න...",
+	"article-comments-required-field": "\"$1\" ක්ෂේත්‍රය අවශ්‍ය වේ.",
+	"article-comments-submission-failed": "පරිකථනය ඉදිරිපත් කිරීම අසාර්ථකයි",
+	"article-comments-talk-page-starter": "<noinclude> \"[[$1]]\" හී පරිකථන\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 කියයි ...",
+	"article-comments-submission-succeeded": "පරිකථනය ඉදිරිපත් කිරීම සාර්ථකයි",
+	"article-comments-comment-missing-name-parameter": "නම මඟහැරී ඇත",
+	"article-comments-comment-missing-date-parameter": "පරිකථන දිනය මඟහැරී ඇත",
+	"processcomment": "ක්‍රියා පිටු පරිකථනය"
+}

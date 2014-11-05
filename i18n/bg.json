@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI\r"
+		]
+	},
+	"article-comments-name-string": "Име",
+	"article-comments-name-field": "Име (задължително):",
+	"article-comments-url-field": "Уеб сайт:",
+	"article-comments-url-string": "Адрес",
+	"article-comments-comment-string": "Коментар",
+	"article-comments-comment-field": "Коментар:",
+	"article-comments-submit-button": "Изпращане"
+}

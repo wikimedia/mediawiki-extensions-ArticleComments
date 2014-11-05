@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"פוילישער\r"
+		]
+	},
+	"article-comments-title-string": "קעפל",
+	"article-comments-name-string": "נאָמען",
+	"article-comments-name-field": "נאָמען (נייטיק):",
+	"article-comments-url-field": "וועבזײַטל:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "הערה",
+	"article-comments-comment-field": "הערה:",
+	"article-comments-submit-button": "אײַנגעבן",
+	"article-comments-leave-comment-link": "לאזן א הערה …",
+	"article-comments-invalid-field": "דאס $1 <nowiki>[$2]</nowiki> איז אומגילטיק.",
+	"article-comments-no-comments": "אנטשולדיקט, דער בלאט \"[[$1]]\" נעמט נישט קיין הערות דערווײַל.",
+	"article-comments-talk-page-starter": "<noinclude>הערות אויף \"[[$1]]\"\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 זאגט ...",
+	"article-comments-submission-success": "איר האט אײַנגעגעבן א הערה צו \"[[$1]]\" מיט דערפֿאלג",
+	"article-comments-submission-view-all": "איר קענט באקוקן [[$1|אלע הערות אויף דעם בלאט]]",
+	"article-comments-comment-missing-name-parameter": "נאמען פֿעלט",
+	"article-comments-comment-missing-date-parameter": "הערה דאטע פֿעלט"
+}

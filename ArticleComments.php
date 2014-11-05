@@ -94,8 +94,8 @@ $wgExtensionCredits['other'][] = array(
 
 # Add extension internationalization messages
 $dir = dirname( __FILE__ ) . '/';
-$wgExtensionMessagesFiles['ArticleComments'] = $dir . 'ArticleComments.i18n.php';
-$wgExtensionMessagesFiles['ArticleCommentsAlias'] = $dir . 'ArticleComments.alias.php';
+$wgMessagesDirs['ArticleComments'] = __DIR__ . '/i18n';
+$wgExtensionMessagesFiles['ArticleCommentsAlias'] = __DIR__ . '/ArticleComments.alias.php';
 
 # Attach hooks
 $wgHooks['ParserFirstCallInit'][] = 'wfArticleCommentsParserSetup';

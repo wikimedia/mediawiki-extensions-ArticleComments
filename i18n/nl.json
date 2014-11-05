@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand\r"
+		]
+	},
+	"article-comments-desc": "Maakt het mogelijk om opmerkingen te plaatsen bij paragrafen op pagina's",
+	"article-comments-title-string": "titel",
+	"article-comments-name-string": "Naam",
+	"article-comments-name-field": "Naam (verplicht):",
+	"article-comments-url-field": "Website:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Opmerking",
+	"article-comments-comment-field": "Opmerking:",
+	"article-comments-submit-button": "Opslaan",
+	"article-comments-leave-comment-link": "Opmerking plaatsen...",
+	"article-comments-invalid-field": "De opgegeven $1 <nowiki>[$2]</nowiki> is ongeldig.",
+	"article-comments-required-field": "Het veld $1 is verplicht.",
+	"article-comments-submission-failed": "Het opslaan van de opmerking is mislukt.",
+	"article-comments-failure-reasons": "Het opslaan van uw opmerking is mislukt om de volgende {{PLURAL:$1|reden|redenen}}:",
+	"article-comments-no-comments": "Bij de pagina \"[[$1]]\" kunnen op het moment geen opmerkingen geplaatst worden.",
+	"article-comments-talk-page-starter": "<noinclude>Opmerkingen bij [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 schreef ...",
+	"article-comments-summary": "Opmerking van $1",
+	"article-comments-submission-succeeded": "De opmerking is opgeslagen",
+	"article-comments-submission-success": "U hebt een opmerking bij \"[[$1]]\" opgeslagen",
+	"article-comments-submission-view-all": "U kunt [[$1|alle opmerkingen bij die pagina]] bekijken",
+	"article-comments-user-is-blocked": "Uw gebruiker kan op dit moment \"[[$1]]\" niet bewerken.",
+	"article-comments-comment-bad-mode": "Er is een ongeldige modus opgegeven voor de opmerking.\r\nBeschikbaar zijn \"plain\", \"normal\" en \"wiki\".",
+	"article-comments-comment-missing-name-parameter": "De naam mist",
+	"article-comments-comment-missing-date-parameter": "De datum voor de opmerking mist",
+	"article-comments-no-spam": "Tenminste een van de opgeslagen velden had een inhoud die als spam is aangemerkt.",
+	"processcomment": "Opmerking verwerken"
+}

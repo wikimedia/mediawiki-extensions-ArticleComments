@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Hamilton Abreu",
+			"Hydra",
+			"Purodha",
+			"Siebrand",
+			"Umherirrender"
+		]
+	},
+	"article-comments-desc": "{{desc|name=ArticleComments|url=https://www.mediawiki.org/wiki/Extension:ArticleComments}}",
+	"article-comments-title-string": "{{Identical|Title}}",
+	"article-comments-name-string": "{{Identical|Name}}",
+	"article-comments-name-field": "{{Identical|Name}}",
+	"article-comments-url-field": "{{Identical|Website}}",
+	"article-comments-url-string": "{{Identical|URL}}",
+	"article-comments-comment-string": "{{Identical|Comment}}",
+	"article-comments-comment-field": "{{Identical|Comment}}",
+	"article-comments-submit-button": "{{Identical|Submit}}",
+	"article-comments-leave-comment-link": "This message refers to leaving a comment.",
+	"article-comments-leave-invalid-field": "This message refers to an invalid field.",
+	"article-comments-failure-reasons": "This message refers to the reason why comment submission failed.",
+	"article-comments-no-comments": "This message refers to this page is not accepting comments at this time.",
+	"article-comments-submission-succeeded": "This message refers to the submission for the comment succeeded.",
+	"article-comments-submission-success": "This message refers to you have successfully submitted a comment for \"[[$1]]\"",
+	"article-comments-invalid-field": "Shown as a list below {{msg-mw|article-comments-failure-reasons}}. Parameters:\r\n* $1 is {{msg-mw|article-comments-title-string}} or {{msg-mw|article-comments-url-string}}\r\n* $2 is the incorrect value.",
+	"article-comments-required-field": "Shown as a list below article-comments-failure-reasons. Parameters:\r\n* $1 being is one of {{msg-mw|article-comments-title-string}}, {{msg-mw|article-comments-name-string}}, {{msg-mw|article-comments-url-string}}, {{msg-mw|article-comments-comment-string}}.",
+	"article-comments-submission-failed": "Page title when there are errors in the comment submission",
+	"article-comments-talk-page-starter": "Keep the wikisyntax as is.",
+	"article-comments-commenter-said": "$1 is a value filled into a form field by a commenter. It is not necessarily related to any wiki user name.",
+	"article-comments-summary": "$1 is a value filled into a form field by a commenter. It is not necessarily related to any wiki user name.",
+	"article-comments-comment-bad-mode": "{{doc-important|Do not translate the words \"plain\", \"normal\" and \"wiki\".}}",
+	"processcomment": "This is a Special page title and link description on Special:SpecialPages."
+}

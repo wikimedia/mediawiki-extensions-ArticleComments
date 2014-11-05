@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"MaxSem\r",
+			"Александр Сигачёв\r"
+		]
+	},
+	"article-comments-desc": "Добавляет на основные страницы разделы комментариев",
+	"article-comments-title-string": "заголовок",
+	"article-comments-name-string": "Имя",
+	"article-comments-name-field": "Имя (обязательно):",
+	"article-comments-url-field": "Сайт:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Комментарий",
+	"article-comments-comment-field": "Комментарий:",
+	"article-comments-submit-button": "Отправить",
+	"article-comments-leave-comment-link": "Оставьте комментарий…",
+	"article-comments-invalid-field": "Указанный ошибочный $1 <nowiki>[$2]</nowiki>.",
+	"article-comments-required-field": "Поле $1 является обязательным.",
+	"article-comments-submission-failed": "отправка комментария не удалась.",
+	"article-comments-failure-reasons": "К сожалению, не удалось отправить ваш комментарий по {{PLURAL:$1|следующей причине|следующим причинам}}:",
+	"article-comments-no-comments": "Извините, на странице «[[$1]]» в настоящий момент нельзя оставлять комментарии.",
+	"article-comments-talk-page-starter": "<noinclude>Коммантарии — [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 сказал…",
+	"article-comments-summary": "Комментарий $1 — через расширение ArticleComments",
+	"article-comments-submission-succeeded": "Комментарий успешно отправлен",
+	"article-comments-submission-success": "Комментарий к «[[$1]]» успешно отправлен",
+	"article-comments-submission-view-all": "Вы можете просмотреть [[$1|все комментарии на этой странице]]",
+	"article-comments-user-is-blocked": "Вашей учётной записи в данный момент запрещено редактировать «[[$1]]».",
+	"article-comments-comment-bad-mode": "Недопустимый режим комментария.\r\nДопустимы режимы «plain», «normal» и «wiki».",
+	"article-comments-comment-missing-name-parameter": "Отсутствует имя",
+	"article-comments-comment-missing-date-parameter": "Отсутствует дата написания комментария",
+	"article-comments-no-spam": "По крайней мере одно из представленных полей было помечено как спам.",
+	"processcomment": "Обработка комментария"
+}

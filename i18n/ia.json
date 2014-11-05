@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie\r"
+		]
+	},
+	"article-comments-desc": "Activa sectiones de commentos in paginas de articulos",
+	"article-comments-title-string": "titulo",
+	"article-comments-name-string": "Nomine",
+	"article-comments-name-field": "Nomine (obligatori):",
+	"article-comments-url-field": "Sito web:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Commento",
+	"article-comments-comment-field": "Commento:",
+	"article-comments-submit-button": "Submitter",
+	"article-comments-leave-comment-link": "Lassar un commento ...",
+	"article-comments-invalid-field": "Le $1 fornite <nowiki>[$2]</nowiki> es invalide.",
+	"article-comments-required-field": "Le campo $1 es obligatori.",
+	"article-comments-submission-failed": "Submission de commento fallite",
+	"article-comments-failure-reasons": "Regrettabilemente, le submission de tu commento ha fallite pro le sequente {{PLURAL:$1|motivo|motivos}}:",
+	"article-comments-no-comments": "Regrettabilemente, le articulo \"[[$1]]\" non accepta commentos pro le momento.",
+	"article-comments-talk-page-starter": "<noinclude>Commentos super [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 diceva ...",
+	"article-comments-summary": "Commento fornite per $1 - via le extension ArticleComments",
+	"article-comments-submission-succeeded": "Submission de commento succedite",
+	"article-comments-submission-success": "Tu ha submittite un commento super \"[[$1]]\" con successo.",
+	"article-comments-submission-view-all": "Tu pote vider [[$1|hic]] tote le commentos super iste articulo",
+	"article-comments-user-is-blocked": "Tu conto de usator es actualmente blocate contra modificar \"[[$1]]\".",
+	"article-comments-comment-bad-mode": "Modo invalide date pro commento.\r\nDisponibile es \"plain\", \"normal\" e \"wiki\".",
+	"article-comments-comment-missing-name-parameter": "Nomine mancante",
+	"article-comments-comment-missing-date-parameter": "Data de commento mancante",
+	"article-comments-no-spam": "Al minus un del campos submittite esseva marcate como spam.",
+	"processcomment": "Tractar commento de articulo"
+}

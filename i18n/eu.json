@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"An13sa\r"
+		]
+	},
+	"article-comments-title-string": "izenburua",
+	"article-comments-name-string": "Izena",
+	"article-comments-name-field": "Izena (beharrezkoa):",
+	"article-comments-url-field": "Webgunea:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Iruzkina",
+	"article-comments-comment-field": "Iruzkina:",
+	"article-comments-submit-button": "Bidali",
+	"article-comments-leave-comment-link": "Iruzkina egin ..."
+}
