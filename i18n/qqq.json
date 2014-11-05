@@ -31,5 +31,10 @@
 	"article-comments-commenter-said": "$1 is a value filled into a form field by a commenter. It is not necessarily related to any wiki user name.",
 	"article-comments-summary": "$1 is a value filled into a form field by a commenter. It is not necessarily related to any wiki user name.",
 	"article-comments-comment-bad-mode": "{{doc-important|Do not translate the words \"plain\", \"normal\" and \"wiki\".}}",
+	"article-comments-user-is-blocked": "This message refers to the account is currently blocked from editing.",
+	"article-comments-comment-bad-mode": "{{doc-important|Do not translate the words \"plain\", \"normal\" and \"wiki\".}}",
+	"article-comments-comment-missing-name-parameter": "This message refers to the comment missing name.",
+	"article-comments-comment-missing-date-parameter": "This message refers to the comment missing date in comment.",
+	"article-comments-no-spam": "This message refers to this comment has been tagged as spam.",
 	"processcomment": "This is a Special page title and link description on Special:SpecialPages."
 }
