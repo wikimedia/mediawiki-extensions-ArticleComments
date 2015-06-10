@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hamilton Abreu\r"
+			"Hamilton Abreu\r",
+			"Hamilton Abreu"
 		]
 	},
 	"article-comments-desc": "Possibilita secções de comentários nas páginas de conteúdo",
@@ -19,14 +20,14 @@
 	"article-comments-submission-failed": "O envio do comentário falhou",
 	"article-comments-failure-reasons": "O envio do seu comentário falhou {{PLURAL:$1|pela seguinte razão|pelas seguintes razões}}:",
 	"article-comments-no-comments": "Neste momento, a página \"[[$1]]\" não aceita comentários.",
-	"article-comments-talk-page-starter": "<noinclude>Comentários a [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Comentários a [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 comentou ...",
 	"article-comments-summary": "Comentário de $1 - através da extensão ArticleComments",
 	"article-comments-submission-succeeded": "Comentário enviado",
 	"article-comments-submission-success": "Enviou um comentário a \"[[$1]]\"",
 	"article-comments-submission-view-all": "Pode ver [[$1|todos os comentários dessa página]]",
 	"article-comments-user-is-blocked": "Edições a \"[[$1]]\" estão neste momento bloqueadas para a sua conta.",
-	"article-comments-comment-bad-mode": "O modo do comentário é inválido.\r\nOs modos disponíveis são \"plain\" (simples), \"normal\" e \"wiki\".",
+	"article-comments-comment-bad-mode": "O modo do comentário é inválido.\nOs modos disponíveis são \"plain\" (simples), \"normal\" e \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Falta o nome",
 	"article-comments-comment-missing-date-parameter": "Falta a data do comentário",
 	"article-comments-no-spam": "Pelo menos um dos campos enviados foi identificado como spam.",

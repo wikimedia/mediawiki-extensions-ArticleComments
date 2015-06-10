@@ -4,7 +4,10 @@
 			"A1\r",
 			"Alex Khimich\r",
 			"Olvin\r",
-			"Тест\r"
+			"Тест\r",
+			"Alex Khimich",
+			"Olvin",
+			"Тест"
 		]
 	},
 	"article-comments-desc": "Ввімкнути розділ коментарів на змістових сторінках",
@@ -22,14 +25,14 @@
 	"article-comments-submission-failed": "Помилка відправки коментарів",
 	"article-comments-failure-reasons": "На жаль, додавання вашого коментаря не відбулося через {{PLURAL:$1|наступну причину|наступні причини}}:",
 	"article-comments-no-comments": "Нажаль, на сторінці  \"[[$1]]\" відхилена можливість додавати коментарі на цей час.",
-	"article-comments-talk-page-starter": "<noinclude> Коментарі на [[$1]] \r\n<comments />\r\n ----- __NOEDITSECTION__ </noinclude>",
+	"article-comments-talk-page-starter": "<noinclude> Коментарі на [[$1]] \n<comments />\n ----- __NOEDITSECTION__ </noinclude>",
 	"article-comments-commenter-said": "$1 сказав ...",
 	"article-comments-summary": "Коментарі надаються $1 - використовуючи додаток ArticleComments",
 	"article-comments-submission-succeeded": "Коментар був надісланий вдало.",
 	"article-comments-submission-success": "Ви успішно додали коментар до \"[[$1]]\"",
 	"article-comments-submission-view-all": "Ви можете переглянути [[$1|всі коментарі на цій сторінці]]",
 	"article-comments-user-is-blocked": "Обліковий запис користувача в даний момент заблокований від редагування \"[[$1]]\".",
-	"article-comments-comment-bad-mode": "Ви обрали невірний вид коментарів.\r\nПотрібно використати коментарі виду \"plain\", \"normal\" або \"wiki\".",
+	"article-comments-comment-bad-mode": "Ви обрали невірний вид коментарів.\nПотрібно використати коментарі виду \"plain\", \"normal\" або \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Відсутнє ім'я",
 	"article-comments-comment-missing-date-parameter": "Відсутня дата коментарію",
 	"article-comments-no-spam": "Принаймні одне з надісланих полів було позначено як спам.",

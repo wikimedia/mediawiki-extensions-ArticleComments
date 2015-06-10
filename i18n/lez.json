@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Migraghvi\r"
+			"Migraghvi\r",
+			"Migraghvi"
 		]
 	},
 	"article-comments-desc": "Асул ччинриз къейдерин паяр алава йизва",
@@ -19,14 +20,14 @@
 	"article-comments-submission-failed": "КЪейд ракъурун мумкин хьанвач",
 	"article-comments-failure-reasons": "Багъишламиша, куь къейд и {{PLURAL:$1|себебдалди|себебралди}} ракъуриз хьанвач:",
 	"article-comments-no-comments": "Багъишламиша, \"[[$1]]\" ччина къейд кхьиз мумкин туш.",
-	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\" - да къейдер \r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\" - да къейдер \n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 лагьана",
 	"article-comments-summary": "$1 патай кхьенвай къейд - ArticleComments гегьеншрун куькмедалди",
 	"article-comments-submission-succeeded": "КЪейд агалкьунралди ракъурнава",
 	"article-comments-submission-success": "\"[[$1]]\" - з талукь къейд агалкьунралди ракъурнава",
 	"article-comments-submission-view-all": "Квевай [[$1|и ччина авай вири къейдериз]] килигиз жеда",
 	"article-comments-user-is-blocked": "Алай чIава \"[[$1]]\" дуьзар хъувун патал  куь аккаунт блокарнава.",
-	"article-comments-comment-bad-mode": "Виже текъвер тир къейддин режим.\r\n\"plain\", \"normal\" ва \"wiki\" режимар виже къеведайбур я.",
+	"article-comments-comment-bad-mode": "Виже текъвер тир къейддин режим.\n\"plain\", \"normal\" ва \"wiki\" режимар виже къеведайбур я.",
 	"article-comments-comment-missing-name-parameter": "Авачир тIвар",
 	"article-comments-comment-missing-date-parameter": "Аачир къейдинин тарих",
 	"article-comments-no-spam": "Ракъурнавайбурукай гьич тахьайтIа са къерех спам хьиз лишан авунва.",

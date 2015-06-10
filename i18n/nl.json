@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand\r"
+			"Siebrand\r",
+			"Siebrand"
 		]
 	},
 	"article-comments-desc": "Maakt het mogelijk om opmerkingen te plaatsen bij paragrafen op pagina's",
@@ -19,14 +20,14 @@
 	"article-comments-submission-failed": "Het opslaan van de opmerking is mislukt.",
 	"article-comments-failure-reasons": "Het opslaan van uw opmerking is mislukt om de volgende {{PLURAL:$1|reden|redenen}}:",
 	"article-comments-no-comments": "Bij de pagina \"[[$1]]\" kunnen op het moment geen opmerkingen geplaatst worden.",
-	"article-comments-talk-page-starter": "<noinclude>Opmerkingen bij [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Opmerkingen bij [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 schreef ...",
 	"article-comments-summary": "Opmerking van $1",
 	"article-comments-submission-succeeded": "De opmerking is opgeslagen",
 	"article-comments-submission-success": "U hebt een opmerking bij \"[[$1]]\" opgeslagen",
 	"article-comments-submission-view-all": "U kunt [[$1|alle opmerkingen bij die pagina]] bekijken",
 	"article-comments-user-is-blocked": "Uw gebruiker kan op dit moment \"[[$1]]\" niet bewerken.",
-	"article-comments-comment-bad-mode": "Er is een ongeldige modus opgegeven voor de opmerking.\r\nBeschikbaar zijn \"plain\", \"normal\" en \"wiki\".",
+	"article-comments-comment-bad-mode": "Er is een ongeldige modus opgegeven voor de opmerking.\nBeschikbaar zijn \"plain\", \"normal\" en \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "De naam mist",
 	"article-comments-comment-missing-date-parameter": "De datum voor de opmerking mist",
 	"article-comments-no-spam": "Tenminste een van de opgeslagen velden had een inhoud die als spam is aangemerkt.",

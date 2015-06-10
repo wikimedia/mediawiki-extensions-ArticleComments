@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bjargal\r"
+			"Bjargal\r",
+			"Bjargal"
 		]
 	},
 	"article-comments-desc": "Агуулгын хуудаһандахи һаналай хэһэгые эдэбхижүүлнэ",
@@ -19,7 +20,7 @@
 	"article-comments-submission-failed": "Һанал эльгээгдэбэгүй.",
 	"article-comments-failure-reasons": "Хүлисэгты, танай һанал удаадахи {{PLURAL:$1|шалтагаан|шалтагаан}}һаа боложо эльгээгдэбэгүй:",
 	"article-comments-no-comments": "Хүлисэгты, \"[[$1]]\" хуудаһан энэ удаа һанал хүлеэн абаха аргагүй.",
-	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\" хуудаһанай һанал\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\" хуудаһанай һанал\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 хэлэһэниинь ...",
 	"article-comments-summary": "$1 гэгшын \"Үгүүлэлэй Һанал\" үргэдхэлөөр эльгээһэн һанал",
 	"article-comments-submission-succeeded": "Һанал эльгээгдэбэ",

@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Bjankuloski06\r",
-			"青子守歌\r"
+			"青子守歌\r",
+			"Bjankuloski06",
+			"青子守歌"
 		]
 	},
 	"article-comments-desc": "Дава пасуси за коментари во статиите",
@@ -20,14 +22,14 @@
 	"article-comments-submission-failed": "Поднесувањето на коментарот не успеа.",
 	"article-comments-failure-reasons": "Нажалост, поднесувањето на коментарот не успеа, и тоа од {{PLURAL:$1|следнава причина|следниве причини}}:",
 	"article-comments-no-comments": "Нажалост, статијата „[[$1]]“ моментално не прифаќа коментари.",
-	"article-comments-talk-page-starter": "<noinclude>Коментари за [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Коментари за [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 рече ...",
 	"article-comments-summary": "Коментар на $1 - преку додатокот ArticleComments",
 	"article-comments-submission-succeeded": "Поднесувањето на коментарот успеа.",
 	"article-comments-submission-success": "Успешно поднесовте коментар за „[[$1]]“",
 	"article-comments-submission-view-all": "Сите коментари за таа статија можете да ги погледате [[$1|тука]]",
 	"article-comments-user-is-blocked": "На вашата корисничка моментално не ѝ е дозволено да ја уредува страницата „[[$1]]“.",
-	"article-comments-comment-bad-mode": "Зададен е неважечки режим за коментарот.\r\nНа располагање ви се „plain“, „normal“ и „wiki“.",
+	"article-comments-comment-bad-mode": "Зададен е неважечки режим за коментарот.\nНа располагање ви се „plain“, „normal“ и „wiki“.",
 	"article-comments-comment-missing-name-parameter": "Недостасува име",
 	"article-comments-comment-missing-date-parameter": "Недостасува датум на коментарот",
 	"article-comments-no-spam": "Барем едно од поднесените полиња е означено како спам.",

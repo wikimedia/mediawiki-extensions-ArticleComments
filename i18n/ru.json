@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"MaxSem\r",
-			"Александр Сигачёв\r"
+			"Александр Сигачёв\r",
+			"MaxSem",
+			"Александр Сигачёв"
 		]
 	},
 	"article-comments-desc": "Добавляет на основные страницы разделы комментариев",
@@ -20,14 +22,14 @@
 	"article-comments-submission-failed": "отправка комментария не удалась.",
 	"article-comments-failure-reasons": "К сожалению, не удалось отправить ваш комментарий по {{PLURAL:$1|следующей причине|следующим причинам}}:",
 	"article-comments-no-comments": "Извините, на странице «[[$1]]» в настоящий момент нельзя оставлять комментарии.",
-	"article-comments-talk-page-starter": "<noinclude>Коммантарии — [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Коммантарии — [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 сказал…",
 	"article-comments-summary": "Комментарий $1 — через расширение ArticleComments",
 	"article-comments-submission-succeeded": "Комментарий успешно отправлен",
 	"article-comments-submission-success": "Комментарий к «[[$1]]» успешно отправлен",
 	"article-comments-submission-view-all": "Вы можете просмотреть [[$1|все комментарии на этой странице]]",
 	"article-comments-user-is-blocked": "Вашей учётной записи в данный момент запрещено редактировать «[[$1]]».",
-	"article-comments-comment-bad-mode": "Недопустимый режим комментария.\r\nДопустимы режимы «plain», «normal» и «wiki».",
+	"article-comments-comment-bad-mode": "Недопустимый режим комментария.\nДопустимы режимы «plain», «normal» и «wiki».",
 	"article-comments-comment-missing-name-parameter": "Отсутствует имя",
 	"article-comments-comment-missing-date-parameter": "Отсутствует дата написания комментария",
 	"article-comments-no-spam": "По крайней мере одно из представленных полей было помечено как спам.",

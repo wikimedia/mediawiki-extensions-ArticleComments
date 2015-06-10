@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"ChrisPtDe\r"
+			"ChrisPtDe\r",
+			"ChrisPtDe"
 		]
 	},
 	"article-comments-desc": "Active les sèccions de comentèros sur les pâges de contegnu.",
@@ -19,14 +20,14 @@
 	"article-comments-submission-failed": "L’èxpèdicion du comentèro at pas reussia",
 	"article-comments-failure-reasons": "Dèsolâ, l’èxpèdicion de voutron comentèro at pas reussia por {{PLURAL:$1|ceta rêson|cetes rêsons}} :",
 	"article-comments-no-comments": "Dèsolâ, la pâge « [[$1]] » accèpte pas los comentèros por lo moment.",
-	"article-comments-talk-page-starter": "<noinclude>Comentèros sur « [[$1]] »\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Comentèros sur « [[$1]] »\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 at dét ...",
 	"article-comments-summary": "Comentèros aportâs per $1 — avouéc l’èxtension ArticleComments",
 	"article-comments-submission-succeeded": "L’èxpèdicion du comentèro at reussia",
 	"article-comments-submission-success": "Vos éd mandâ avouéc reusséta un comentèro sur « [[$1]] »",
 	"article-comments-submission-view-all": "Vos pouede vêre tôs los comentèros sur cela pâge [[$1|ique]]",
 	"article-comments-user-is-blocked": "Ora, voutron compto usanciér est blocâ en ècritura sur « [[$1]] ».",
-	"article-comments-comment-bad-mode": "La fôrma balyê por lo comentèro est envalida.\r\nLes fôrmes disponibles sont « plain », « normal » et « wiki ».",
+	"article-comments-comment-bad-mode": "La fôrma balyê por lo comentèro est envalida.\nLes fôrmes disponibles sont « plain », « normal » et « wiki ».",
 	"article-comments-comment-missing-name-parameter": "Nom manquent",
 	"article-comments-comment-missing-date-parameter": "Dâta du comentèro manquenta",
 	"article-comments-no-spam": "U muens yon des champs somês at étâ marcâ coment spame.",

@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"EugeneZelenko\r",
-			"Jim-by\r"
+			"Jim-by\r",
+			"EugeneZelenko",
+			"Jim-by"
 		]
 	},
 	"article-comments-desc": "Дазваляе разьдзелы камэнтараў у старонках са зьместам",
@@ -20,14 +22,14 @@
 	"article-comments-submission-failed": "Немагчыма запісаць камэнтар",
 	"article-comments-failure-reasons": "Прабачце, але адбылася памылка запісу Вашага камэнтара па {{PLURAL:$1|наступнай прычыне|наступным прычынам}}:",
 	"article-comments-no-comments": "Прабачце, старонка «[[$1]]» у цяперашні момант недаступная для камэнтараў.",
-	"article-comments-talk-page-starter": "<noinclude>Камэнтар да [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Камэнтар да [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 {{GENDER:$1|напісаў|напісала}}…",
 	"article-comments-summary": "Камэнтар пададзены $1 з дапамогай пашырэньня ArticleComments",
 	"article-comments-submission-succeeded": "Камэнтар пасьпяхова запісаны",
 	"article-comments-submission-success": "Ваш камэнтар да «[[$1]]» быў пасьпяхова запісаны",
 	"article-comments-submission-view-all": "Вы можаце ўбачыць [[$1|усе камэнтары гэтай старонкі]]",
 	"article-comments-user-is-blocked": "У Вашага рахунка заблякаваная магчымасьць рэдагаваньня «[[$1]]».",
-	"article-comments-comment-bad-mode": "Пададзены няслушны рэжым для камэнтара.\r\nДаступнымі зьяўляюцца «plain», «normal» і «wiki».",
+	"article-comments-comment-bad-mode": "Пададзены няслушны рэжым для камэнтара.\nДаступнымі зьяўляюцца «plain», «normal» і «wiki».",
 	"article-comments-comment-missing-name-parameter": "Няма назвы",
 	"article-comments-comment-missing-date-parameter": "Няма даты стварэньня камэнтара",
 	"article-comments-no-spam": "Хаця б адно дасланае поле пазначанае як спам.",
