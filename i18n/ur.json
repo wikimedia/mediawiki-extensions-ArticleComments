@@ -2,23 +2,37 @@
 	"@metadata": {
 		"authors": [
 			"محبوب عالم\r",
-			"පසිඳු කාවින්ද\r"
+			"පසිඳු කාවින්ද\r",
+			"Obaid Raza",
+			"محبوب عالم",
+			"පසිඳු කාවින්ද"
 		]
 	},
+	"article-comments-desc": "موادی صفحات پر تبصرہ کے خانہ کو فعال کرتا ہے",
 	"article-comments-title-string": "عنوان",
 	"article-comments-name-string": "نام",
 	"article-comments-name-field": "نام (ضروری):",
+	"article-comments-url-field": "ویب سائٹ:",
 	"article-comments-url-string": "یو آر ایل",
 	"article-comments-comment-string": "تبصرہ",
 	"article-comments-comment-field": "تبصرہ:",
 	"article-comments-submit-button": "بھیجو",
 	"article-comments-leave-comment-link": "تبصرہ چھوڑئیے ۔۔۔",
+	"article-comments-invalid-field": "$1 نے فاہم کردہ  <nowiki>[$2]</nowiki> غلط ہے۔",
 	"article-comments-required-field": "\"$1\" ضروری ہے۔",
 	"article-comments-submission-failed": "تبصرہ بھیجنا ناکام",
 	"article-comments-failure-reasons": "معذرت، آپ کا تبصرہ درج ذیل {{PLURAL:$1|وجہ|وجوہات}} کی بناء پر نہیں بھیجا جاسکا:",
 	"article-comments-no-comments": "معذرت، صفحہ \"[[$1]]\" فی الحال تبصرے قبول نہیں کررہا۔",
+	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\" پر تبصرہ<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 نے کہا ...",
+	"article-comments-summary": "$1 کا تبصرہ - توسیع برائے تبصرہ مضامین کے ذریعہ",
 	"article-comments-submission-succeeded": "تبصرہ کامیابی سے بھیج دیا گیا",
 	"article-comments-submission-success": "آپ نے \"[[$1]]\" کیلئے تبصرہ کامیابی سے بھیج دیا",
-	"article-comments-user-is-blocked": "آپ کا کھاتا فی الحال \"[[$1]]\" میں تدوین کرنے سے ممنوع ہے۔"
+	"article-comments-submission-view-all": "آپ  [[$1|اس صفحہ پر تمام تبصرے]] دیکھ سکتے/سکتی ہیں",
+	"article-comments-user-is-blocked": "آپ کا کھاتا فی الحال \"[[$1]]\" میں تدوین کرنے سے ممنوع ہے۔",
+	"article-comments-comment-bad-mode": "تبصرہ کے لئے دی گئی صورت غیر معتبر ہے۔\n\"وکی\"، \"سادہ\" اور \"عام\" دستیاب ہیں۔",
+	"article-comments-comment-missing-name-parameter": "نامعلوم صارف",
+	"article-comments-comment-missing-date-parameter": "نامعلوم تاریخ تبصرہ",
+	"article-comments-no-spam": "پیش کردہ تبصروں پر کم از کم ایک جھنڈا اسپیم کا لگایا گیا۔",
+	"processcomment": "تبصرہ کے مراحل"
 }
