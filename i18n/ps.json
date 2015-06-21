@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel\r"
+			"Ahmed-Najib-Biabani-Ibrahimkhel\r",
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
 		]
 	},
 	"article-comments-title-string": "سرليک",
@@ -11,5 +12,6 @@
 	"article-comments-comment-string": "تبصره",
 	"article-comments-comment-field": "تبصره:",
 	"article-comments-submit-button": "سپارل",
-	"article-comments-leave-comment-link": "تبصره پرېښودل ..."
+	"article-comments-leave-comment-link": "تبصره پرېښودل ...",
+	"article-comments-commenter-said": "$1 ووييل ..."
 }

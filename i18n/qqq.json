@@ -30,7 +30,7 @@
 	"article-comments-submission-succeeded": "This message refers to the submission for the comment succeeded.",
 	"article-comments-submission-success": "This message refers to you have successfully submitted a comment for \"[[$1]]\"",
 	"article-comments-prefilled-comment-text": "{{notranslate}}",
-	"article-comments-user-is-blocked": "This message refers to the account is currently blocked from editing.",
+	"article-comments-user-is-blocked": "This message refers to the account is currently blocked from editing.\nParameter:\n* $1 is the title of a talk page including namespace.",
 	"article-comments-new-comment-heading": "{{notranslate}}",
 	"article-comments-comment-bad-mode": "{{doc-important|Do not translate the words \"plain\", \"normal\" and \"wiki\".}}",
 	"article-comments-comment-contents": "{{notranslate}}",
