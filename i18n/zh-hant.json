@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Oapbtommy\r",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"LNDDYL"
 		]
 	},
 	"article-comments-desc": "內容頁上啟用注釋部分",
@@ -26,7 +27,7 @@
 	"article-comments-submission-succeeded": "評論提交成功",
 	"article-comments-submission-success": "您已成功為 \"[[$1]]\" 提交注釋",
 	"article-comments-submission-view-all": "您可以查看[[$1|所有該頁上的評論]]",
-	"article-comments-user-is-blocked": "您的用戶帳戶當前阻止編輯 \"[[$1]]\"。",
+	"article-comments-user-is-blocked": "您的使用者帳號目前阻止編輯 \"[[$1]]\"。",
 	"article-comments-comment-bad-mode": "無效的模式給予評論。\n\"plain\"、\"normal\"和\"wiki\"的可用的。",
 	"article-comments-comment-missing-name-parameter": "缺少名稱",
 	"article-comments-comment-missing-date-parameter": "缺少注釋的日期",
