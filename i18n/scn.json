@@ -1,11 +1,36 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aushulz\r"
+			"Aushulz\r",
+			"Aushulz",
+			"Pippinu"
 		]
 	},
+	"article-comments-desc": "Attiva li sizzioni dî cummenti ntê pàggini di cuntinutu",
 	"article-comments-title-string": "tìtulu",
 	"article-comments-name-string": "Nomu",
-	"article-comments-commenter-said": "$1 dissi ...",
-	"article-comments-comment-missing-name-parameter": "Nomu persu"
+	"article-comments-name-field": "Nomu (obbligatoriu):",
+	"article-comments-url-field": "Situ web:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Cummentu",
+	"article-comments-comment-field": "Cummentu:",
+	"article-comments-submit-button": "Manna",
+	"article-comments-leave-comment-link": "Lassa nu cummentu...",
+	"article-comments-invalid-field": "Lu valuri spicificatu comu $1 <nowiki>[$2]</nowiki> nun è bonu.",
+	"article-comments-required-field": "Lu campu «$1» è obbligatoriu.",
+	"article-comments-submission-failed": "La mannata dû cummentu nun riniscìu",
+	"article-comments-failure-reasons": "Nni dispiaci, però la mannata dû to cummentu nun riniscìu pi’ {{PLURAL:$1|stu mutivu|sti mutivi}}:",
+	"article-comments-no-comments": "Nni dispiaci, però la pàggina «[[$1]]» nun accetta cummenti comu ad ora.",
+	"article-comments-talk-page-starter": "<noinclude>Cummenti nta «[[$1]]»\n<comments />\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 dissi...",
+	"article-comments-summary": "Cummentu lassatu di $1 - pi’ menzu di l’estinsioni ArticleComments",
+	"article-comments-submission-succeeded": "La mannata dû cummentu riniscìu",
+	"article-comments-submission-success": "Riniscisti a’ mannari nu cummentu pi’ «[[$1]]»",
+	"article-comments-submission-view-all": "Poi taliari [[$1|tutti li cummenti nta dda pàggina]]",
+	"article-comments-user-is-blocked": "Comu ad ora lu to cuntu è bluccatu di putiri canciari la pàggina «[[$1]]».",
+	"article-comments-comment-bad-mode": "Spicificata na mudalità dû cummentu nun vàlida.\nChiddi dispunìbbili sunnu \"plain\", \"normal\" e \"wiki\".",
+	"article-comments-comment-missing-name-parameter": "Manca lu nomu",
+	"article-comments-comment-missing-date-parameter": "Manca la data dû cummentu",
+	"article-comments-no-spam": "Quantu menu unu dî campi mannati furu signalati comu spam.",
+	"processcomment": "Gistioni dî cummenti ntê pàggini"
 }
