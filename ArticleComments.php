@@ -473,7 +473,7 @@ class SpecialProcessComment extends SpecialPage {
 
 		# Run spam checks
 		$isSpam = false;
-		wfRunHooks( 'ArticleCommentsSpamCheck', array( $comment, $commenterName, $commenterURL, &$isSpam ) );
+		Hooks::run( 'ArticleCommentsSpamCheck', array( $comment, $commenterName, $commenterURL, &$isSpam ) );
 
 		# If it's spam - it's gone!
 		if ( $isSpam ) {
