@@ -1,34 +1,35 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라\r"
+			"아라\r",
+			"아라"
 		]
 	},
-	"article-comments-desc": "내용 문서에 덧글 문단 활성화",
+	"article-comments-desc": "내용 문서에 댓글 문단 활성화",
 	"article-comments-title-string": "제목",
 	"article-comments-name-string": "이름",
 	"article-comments-name-field": "이름 (필수):",
 	"article-comments-url-field": "웹사이트:",
 	"article-comments-url-string": "URL",
-	"article-comments-comment-string": "덧글",
-	"article-comments-comment-field": "덧글:",
+	"article-comments-comment-string": "댓글",
+	"article-comments-comment-field": "댓글:",
 	"article-comments-submit-button": "제출",
-	"article-comments-leave-comment-link": "덧글 남기기 ...",
+	"article-comments-leave-comment-link": "댓글 남기기 ...",
 	"article-comments-invalid-field": "$1에 제공한 <nowiki>[$2]</nowiki>(은)는 올바르지 않습니다.",
 	"article-comments-required-field": "\"$1\" 칸은 반드시 입력해야 합니다.",
-	"article-comments-submission-failed": "덧글 제출 실패",
-	"article-comments-failure-reasons": "죄송합니다, 덧글 제출은 다음 {{PLURAL:$1|이유}}로 실패했습니다:",
-	"article-comments-no-comments": "죄송합니다, \"[[$1]]\" 문서는 현재 덧글을 허용하지 않습니다.",
-	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\"에 대한 덧글\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-submission-failed": "댓글 제출 실패",
+	"article-comments-failure-reasons": "죄송합니다, 댓글 제출은 다음 {{PLURAL:$1|이유}}로 실패했습니다:",
+	"article-comments-no-comments": "죄송합니다, \"[[$1]]\" 문서는 현재 댓글을 허용하지 않습니다.",
+	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\"에 대한 댓글\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 사용자가 말했습니다 ...",
-	"article-comments-summary": "ArticleComments 확장 기능을 통해 $1 사용자에 의해 덧글을 제공함",
-	"article-comments-submission-succeeded": "덧글 제출 성공함",
-	"article-comments-submission-success": "''[[$1]]''에 대한 덧글을 성공적으로 전송했습니다",
-	"article-comments-submission-view-all": "[[$1|해당 문서의 모든 덧글]]을 볼 수 있습니다",
+	"article-comments-summary": "ArticleComments 확장 기능을 통해 $1 사용자에 의해 댓글을 제공함",
+	"article-comments-submission-succeeded": "댓글 제출 성공",
+	"article-comments-submission-success": "\"[[$1]]\"에 대한 댓글을 성공적으로 전송했습니다",
+	"article-comments-submission-view-all": "[[$1|해당 문서의 모든 댓글]]을 볼 수 있습니다",
 	"article-comments-user-is-blocked": "사용자 계정은 현재 \"[[$1]]\" 편집에서 차단됩니다.",
-	"article-comments-comment-bad-mode": "덧글에 대한 주어진 형식이 잘못되었습니다.\r\n사용할 수 있는 것은 \"plain\", \"normal\"과 \"wiki\"입니다.",
+	"article-comments-comment-bad-mode": "댓글에 대한 주어진 형식이 잘못되었습니다.\n사용할 수 있는 것은 \"plain\", \"normal\"과 \"wiki\"입니다.",
 	"article-comments-comment-missing-name-parameter": "없는 이름",
-	"article-comments-comment-missing-date-parameter": "없는 덧글 날짜",
+	"article-comments-comment-missing-date-parameter": "없는 댓글 날짜",
 	"article-comments-no-spam": "제출한 필드 중 적어도 하나는 스팸으로 플래그했습니다.",
-	"processcomment": "과정 문서 덧글"
+	"processcomment": "과정 문서 댓글"
 }
