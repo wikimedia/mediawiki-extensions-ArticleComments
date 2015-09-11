@@ -3,7 +3,8 @@
 		"authors": [
 			"Aushulz\r",
 			"Aushulz",
-			"Pippinu"
+			"Pippinu",
+			"Sarvaturi"
 		]
 	},
 	"article-comments-desc": "Attiva li sizzioni dî cummenti ntê pàggini di cuntinutu",
@@ -18,19 +19,19 @@
 	"article-comments-leave-comment-link": "Lassa nu cummentu...",
 	"article-comments-invalid-field": "Lu valuri spicificatu comu $1 <nowiki>[$2]</nowiki> nun è bonu.",
 	"article-comments-required-field": "Lu campu «$1» è obbligatoriu.",
-	"article-comments-submission-failed": "La mannata dû cummentu nun riniscìu",
-	"article-comments-failure-reasons": "Nni dispiaci, però la mannata dû to cummentu nun riniscìu pi’ {{PLURAL:$1|stu mutivu|sti mutivi}}:",
-	"article-comments-no-comments": "Nni dispiaci, però la pàggina «[[$1]]» nun accetta cummenti comu ad ora.",
+	"article-comments-submission-failed": "La mannata dû cummentu nun arriniscìu",
+	"article-comments-failure-reasons": "Ni dispiaci, pirò la mannata dû tòç cummentu nun arriniscìu pi {{PLURAL:$1|stu mutivu|sti mutivi}}:",
+	"article-comments-no-comments": "Ni dispiaci, pirò la pàggina «[[$1]]» nun accetta cummenti comu a ora.",
 	"article-comments-talk-page-starter": "<noinclude>Cummenti nta «[[$1]]»\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 dissi...",
-	"article-comments-summary": "Cummentu lassatu di $1 - pi’ menzu di l’estinsioni ArticleComments",
-	"article-comments-submission-succeeded": "La mannata dû cummentu riniscìu",
-	"article-comments-submission-success": "Riniscisti a’ mannari nu cummentu pi’ «[[$1]]»",
+	"article-comments-summary": "Cummentu lassatu di $1 - pi menzu dâ stinzioni ArticleComments",
+	"article-comments-submission-succeeded": "La mannata dû cummentu arriniscìu",
+	"article-comments-submission-success": "Arriniscisti a mannari nu cummentu pi «[[$1]]»",
 	"article-comments-submission-view-all": "Poi taliari [[$1|tutti li cummenti nta dda pàggina]]",
-	"article-comments-user-is-blocked": "Comu ad ora lu to cuntu è bluccatu di putiri canciari la pàggina «[[$1]]».",
+	"article-comments-user-is-blocked": "Comu a ora lu tò cuntu è bluccatu di putiri canciari la pàggina «[[$1]]».",
 	"article-comments-comment-bad-mode": "Spicificata na mudalità dû cummentu nun vàlida.\nChiddi dispunìbbili sunnu \"plain\", \"normal\" e \"wiki\".",
-	"article-comments-comment-missing-name-parameter": "Manca lu nomu",
-	"article-comments-comment-missing-date-parameter": "Manca la data dû cummentu",
-	"article-comments-no-spam": "Quantu menu unu dî campi mannati furu signalati comu spam.",
+	"article-comments-comment-missing-name-parameter": "Ammanca lu nomu",
+	"article-comments-comment-missing-date-parameter": "Ammanca la data dû cummentu",
+	"article-comments-no-spam": "Quantu menu unu dî campi mannati foru signalati comu spam.",
 	"processcomment": "Gistioni dî cummenti ntê pàggini"
 }
