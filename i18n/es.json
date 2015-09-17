@@ -28,7 +28,7 @@
 	"article-comments-no-comments": "Lo sentimos, la página «[[$1]]» no acepta comentarios en este momento.",
 	"article-comments-talk-page-starter": "<noinclude>Comentarios sobre «[[$1]]»\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 dijo...",
-	"article-comments-summary": "Comentario proporcionado por $1 - a través de la extensión ArticleComments",
+	"article-comments-summary": "Comentario proporcionado por $1, a través de la extensión ArticleComments",
 	"article-comments-submission-succeeded": "Envío del comentario realizado con éxito",
 	"article-comments-submission-success": "Has enviado exitosamente un comentario sobre «[[$1]]»",
 	"article-comments-submission-view-all": "Puedes ver [[$1|todos los comentarios sobre esa página]]",
