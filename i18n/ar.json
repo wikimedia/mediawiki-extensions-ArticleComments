@@ -3,9 +3,13 @@
 		"authors": [
 			"Meno25\r",
 			"OsamaK\r",
-			"روخو\r"
+			"روخو\r",
+			"Meno25",
+			"OsamaK",
+			"روخو"
 		]
 	},
+	"article-comments-title-string": "العنوان",
 	"article-comments-url-string": "المسار:",
 	"article-comments-submit-button": "إرسال",
 	"article-comments-commenter-said": "$1 قال ...",
