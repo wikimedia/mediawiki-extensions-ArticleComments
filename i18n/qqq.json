@@ -29,6 +29,7 @@
 	"article-comments-summary": "$1 is a value filled into a form field by a commenter. It is not necessarily related to any wiki user name.",
 	"article-comments-submission-succeeded": "This message refers to the submission for the comment succeeded.",
 	"article-comments-submission-success": "This message refers to you have successfully submitted a comment for \"[[$1]]\"",
+	"article-comments-submission-view-all": "Message used on [[Special:ProcessComments]]",
 	"article-comments-prefilled-comment-text": "{{notranslate}}",
 	"article-comments-user-is-blocked": "This message refers to the account is currently blocked from editing.\nParameter:\n* $1 is the title of a talk page including namespace.",
 	"article-comments-new-comment-heading": "{{notranslate}}",
