@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand\r"
+			"Siebrand"
 		]
 	},
 	"article-comments-failure-reasons": "Het opslaan van je opmerking is mislukt om de volgende {{PLURAL:$1|reden|redenen}}:",

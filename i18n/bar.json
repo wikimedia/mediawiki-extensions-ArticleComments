@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mucalexx\r"
+			"Mucalexx"
 		]
 	},
 	"article-comments-desc": "Erméglichts Kómmtentirn voh Inhoidsseiten",
@@ -19,14 +19,14 @@
 	"article-comments-submission-failed": "Dé Obgob vom Kommentar is föögschlong.",
 	"article-comments-failure-reasons": "Dé Obgob vom Kommentar is ausm {{PLURAL:$1| fóigenden Grund|dé fóigenden Grynd}} föögschlong:",
 	"article-comments-no-comments": "Fyr dé Seiten „[[$1]]“ kennern im Móment koane Kommentare obgeem wern.",
-	"article-comments-talk-page-starter": "<noinclude>Kommentare zur da Seiten „[[$1]]“\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Kommentare zur da Seiten „[[$1]]“\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 sogt …",
 	"article-comments-summary": "A Kommentar is voh $1 ywer d' Prógrammdaweiterung ArticleComments obgeem worn.",
 	"article-comments-submission-succeeded": "Dé Obgob vom Kommentar is durchgfyrd worn.",
 	"article-comments-submission-success": "Du host erfóigreich an Kommentar fyr d' Seiten „[[$1]]“ obgeem.",
 	"article-comments-submission-view-all": "Du kåst [[$1|olle Kommentare zua derer Seiten]] åschaung",
 	"article-comments-user-is-blocked": "Du derfst d' Seiten „[[$1]]“ derzeid néd beorweiten.",
-	"article-comments-comment-bad-mode": "Fyr d' Kommentiarung is a ungütiger Módus ågeem.\r\nMéglich san d' Módusse „plain“, „normal“ und „wiki“.",
+	"article-comments-comment-bad-mode": "Fyr d' Kommentiarung is a ungütiger Módus ågeem.\nMéglich san d' Módusse „plain“, „normal“ und „wiki“.",
 	"article-comments-comment-missing-name-parameter": "Da Nåm fööd",
 	"article-comments-comment-missing-date-parameter": "'s Daatum fööd",
 	"article-comments-no-spam": "Minderstens oahne vo d' Ågom is ois Spam identifizird worn.",

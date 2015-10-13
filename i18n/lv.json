@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"GreenZeb\r",
-			"Papuass\r"
+			"GreenZeb",
+			"Papuass"
 		]
 	},
 	"article-comments-desc": "Iespējo komentāru sadaļas satura lapās",
@@ -20,14 +20,14 @@
 	"article-comments-submission-failed": "Komentāra iesniegšana neizdevās",
 	"article-comments-failure-reasons": "Atvainojiet, Jūsu komentāra iesniegšana neizdevās {{PLURAL:$1|šāda iemesla|šādu iemeslu}} dēļ:",
 	"article-comments-no-comments": "Atvainojiet, šobrīd lapa \"[[$1]]\" nepieņem komentārus.",
-	"article-comments-talk-page-starter": "<noinclude>Komentāri par \"[[$1]]\"\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Komentāri par \"[[$1]]\"\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 teica ...",
 	"article-comments-summary": "$1 iesniegtie komentāri, izmantojot ArticleComments paplašinājumu",
 	"article-comments-submission-succeeded": "Komentāru iesniegšana izdevās",
 	"article-comments-submission-success": "Jūs esat veiksmīgi iesniedzis komentāru lapai \"[[$1]]\"",
 	"article-comments-submission-view-all": "Jūs varat apskatīt [[$1|visus komentārus šajā lapā]]",
 	"article-comments-user-is-blocked": "Jūsu lietotāja konts šobrīd ir bloķēts \"[[$1]] \" rediģēšanai.",
-	"article-comments-comment-bad-mode": "Komentāram piešķirts nederīgs režīms.\r\nPieejamie režīmi ir \"plain\", \"normal\" un \"wiki\".",
+	"article-comments-comment-bad-mode": "Komentāram piešķirts nederīgs režīms.\nPieejamie režīmi ir \"plain\", \"normal\" un \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Trūkst vārda",
 	"article-comments-comment-missing-date-parameter": "Trūkst komentāra datuma",
 	"article-comments-no-spam": "Vismaz viens no iesniegtajiem laukiem ir atzīmēts kā mēstule.",

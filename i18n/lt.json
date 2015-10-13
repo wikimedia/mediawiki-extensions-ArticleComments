@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eitvys200\r",
-			"Ignas693\r"
+			"Eitvys200",
+			"Ignas693"
 		]
 	},
 	"article-comments-desc": "Įgalina komentarą skirsnius turinio puslapiuose",
@@ -20,14 +20,14 @@
 	"article-comments-submission-failed": "Komentarų pateikimo, nepavyko",
 	"article-comments-failure-reasons": "Deja, jūsų komentarų pateikimo nepavyko, po  {{PLURAL:$1| reason|reasons}}:",
 	"article-comments-no-comments": "Atsiprašome, puslapio \"[[ $1 ]]\" yra nepriimami pastabų šiuo metu.",
-	"article-comments-talk-page-starter": "<noinclude>Komentarai į \"[[ $1 ]]\"\r\n<comments></comments>\r\n------KURIŲ __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Komentarai į \"[[ $1 ]]\"\n<comments></comments>\n------KURIŲ __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 sakė ...",
 	"article-comments-summary": "Komentaras pateikė  $1  - per ArticleComments pratęsimas",
 	"article-comments-submission-succeeded": "Komentarų pateikimo, pavyko",
 	"article-comments-submission-success": "Jūs sėkmingai pateikė komentaras apie \"[[ $1 ]]\"",
 	"article-comments-submission-view-all": "Galite peržiūrėti [[ $1 |all pastabos tame puslapyje]]",
 	"article-comments-user-is-blocked": "Jūsų vartotojo abonementas yra šiuo metu užblokuoti redaguoti \"[[ $1 ]]\".",
-	"article-comments-comment-bad-mode": "Neleistinas režimas, pateikti komentarą.\r\nGalimų yra \"paprasto\", \"normalus\" ir \"wiki\".",
+	"article-comments-comment-bad-mode": "Neleistinas režimas, pateikti komentarą.\nGalimų yra \"paprasto\", \"normalus\" ir \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Trūksta pavadinimo",
 	"article-comments-comment-missing-date-parameter": "Trūksta komentaro datos",
 	"article-comments-no-spam": "Bent vieno iš pateiktų laukų buvo pažymėtas kaip šlamštas.",

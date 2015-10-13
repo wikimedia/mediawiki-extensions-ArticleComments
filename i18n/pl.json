@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sp5uhe\r"
+			"Sp5uhe"
 		]
 	},
 	"article-comments-desc": "Umożliwia komentowanie poszczególnych sekcji na stronach treści",
@@ -19,14 +19,14 @@
 	"article-comments-submission-failed": "Nieudane zapisanie komentarza",
 	"article-comments-failure-reasons": "Komentarz nie może zostać zapisany {{PLURAL:$1|ponieważ|z następujących powodów:}}",
 	"article-comments-no-comments": "W tej chwili nie można komentować strony „[[$1]]”.",
-	"article-comments-talk-page-starter": "<noinclude>Komentarze do [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Komentarze do [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 napisał...",
 	"article-comments-summary": "Komentarz dodany przez $1 za pomocą rozszerzenia ArticleComments",
 	"article-comments-submission-succeeded": "Komentarz zapisano",
 	"article-comments-submission-success": "Zapisano Twój komentarz dla „[[$1]]”",
 	"article-comments-submission-view-all": "Możesz zobaczyć [[$1|wszystkie komentarze do tej strony]]",
 	"article-comments-user-is-blocked": "Twoje konto użytkownika ma obecnie zablokowaną możliwość edycji „[[$1]]”.",
-	"article-comments-comment-bad-mode": "Nieprawidłowy tryb dla komentarza.\r\nDostępne tryby to: „plain”, „normal” i „wiki”.",
+	"article-comments-comment-bad-mode": "Nieprawidłowy tryb dla komentarza.\nDostępne tryby to: „plain”, „normal” i „wiki”.",
 	"article-comments-comment-missing-name-parameter": "Brak nazwy",
 	"article-comments-comment-missing-date-parameter": "Brak daty dodania komentarza",
 	"article-comments-no-spam": "Co najmniej treść jednego z pól rozpoznano jako spam.",

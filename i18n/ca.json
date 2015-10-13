@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"El libre\r",
-			"SMP\r",
-			"Solde\r"
+			"El libre",
+			"SMP",
+			"Solde"
 		]
 	},
 	"article-comments-desc": "Permet fer comentaris de les seccions a les pàgines de contingut",
@@ -21,14 +21,14 @@
 	"article-comments-submission-failed": "L'enviament del comentari ha fallat",
 	"article-comments-failure-reasons": "Ho sentim. El teu comentari no ha pogut enviar-se per {{PLURAL:$1|la següent raó|les següents raons}}:",
 	"article-comments-no-comments": "Ho sentim. La pàgina \"[[$1]]\" no accepta comentaris en aquest moment.",
-	"article-comments-talk-page-starter": "<noinclude> Comentaris sobre \"[[$1]]\" \r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude> Comentaris sobre \"[[$1]]\" \n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 ha dit ...",
 	"article-comments-summary": "Comentari proporcionat per $1 - a través de l'extensió ArticleComments",
 	"article-comments-submission-succeeded": "Enviament del comentari realitzat amb èxit",
 	"article-comments-submission-success": "Has enviat correctament un comentari sobre \"[[$1]]\"",
 	"article-comments-submission-view-all": "Pots veure [[$1|tots els comentaris sobre aquesta pàgina]]",
 	"article-comments-user-is-blocked": "El teu compte d'usuari està bloquejat per editar  \"[[$1]]\".",
-	"article-comments-comment-bad-mode": "El mode donat per al comentari no és vàlid.\r\nEls disponibles són \"plain\", \"normal\" i \"wiki\".",
+	"article-comments-comment-bad-mode": "El mode donat per al comentari no és vàlid.\nEls disponibles són \"plain\", \"normal\" i \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Falta el nom",
 	"article-comments-comment-missing-date-parameter": "Falta la data del comentari",
 	"article-comments-no-spam": "Com a mínim un dels camps enviats s'ha marcat com no desitjat.",

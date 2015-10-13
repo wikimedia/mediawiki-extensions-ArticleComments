@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"BáthoryPéter\r",
-			"Dani\r",
-			"Glanthor Reviol\r"
+			"BáthoryPéter",
+			"Dani",
+			"Glanthor Reviol"
 		]
 	},
 	"article-comments-desc": "Megjegyzések szakasz a tartalommal rendelkező lapokra",
@@ -21,7 +21,7 @@
 	"article-comments-submission-failed": "A hozzászólás elküldése nem sikerült",
 	"article-comments-failure-reasons": "A hozzászólás elküldése nem sikerült a következő {{PLURAL:$1|ok|okok}} miatt:",
 	"article-comments-no-comments": "Sajnáljuk, a(z) „[[$1]]” laphoz jelenleg nem lehet hozzászólásokat írni.",
-	"article-comments-talk-page-starter": "<noinclude>Hozzászólások a(z) [[$1]] laphoz\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Hozzászólások a(z) [[$1]] laphoz\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 írta …",
 	"article-comments-submission-succeeded": "A hozzászólás elküldése sikerült",
 	"article-comments-submission-success": "Sikeresen hozzászóltál a(z) „[[$1]]” című laphoz",

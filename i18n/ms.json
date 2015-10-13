@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anakmalaysia\r"
+			"Anakmalaysia"
 		]
 	},
 	"article-comments-desc": "Membolehkan bahagian komen dalam laman kandungan",
@@ -19,14 +19,14 @@
 	"article-comments-submission-failed": "Komen tidak dapat dihantar.",
 	"article-comments-failure-reasons": "Maaf, komen anda tidak dapat dihantar atas {{PLURAL:$1|sebab|sebab-sebab}} berikut:",
 	"article-comments-no-comments": "Maaf, laman \"[[$1]]\" tidak menerima komen buat masa ini.",
-	"article-comments-talk-page-starter": "<noinclude>Komen di \"[[$1]]\"\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Komen di \"[[$1]]\"\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 berkata ...",
 	"article-comments-summary": "Komen diberikan oleh $1 - melalui sambungan ArticleComments",
 	"article-comments-submission-succeeded": "Komen berjaya dihantar",
 	"article-comments-submission-success": "Anda berjaya menyerahkan komen untuk \"[[$1]]\"",
 	"article-comments-submission-view-all": "Anda boleh melihat [[$1|semua komen pada laman itu]]",
 	"article-comments-user-is-blocked": "Akaun pengguna anda sekarang disekat daripada menyunting \"[[$1]]\".",
-	"article-comments-comment-bad-mode": "Mod yang diberikan tidak sah untuk komen.\r\nYang ada ialah \"plain\", \"normal\" dan \"wiki\".",
+	"article-comments-comment-bad-mode": "Mod yang diberikan tidak sah untuk komen.\nYang ada ialah \"plain\", \"normal\" dan \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Tiada nama",
 	"article-comments-comment-missing-date-parameter": "Tiada tarikh komen",
 	"article-comments-no-spam": "Sekurang-kurangnya satu ruangan yang diserahkan itu disyaki sebagai spam.",

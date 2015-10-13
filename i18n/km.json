@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"គីមស៊្រុន\r"
+			"គីមស៊្រុន"
 		]
 	},
 	"article-comments-title-string": "ចំណងជើង",
@@ -17,7 +17,7 @@
 	"article-comments-submission-failed": "ការដាក់ស្នើយោបល់មិនបានសំរេច",
 	"article-comments-failure-reasons": "សូមអភ័យទោស។ ការដាក់ស្នើយោបល់របស់អ្នកមិនបានសំរេចទេដោយសារមូលហេតុ៖",
 	"article-comments-no-comments": "សូមអភ័យទោស។ ទំព័រ \"[[$1]]\" មិនទទួលយកយោបល់ណាមួយនាពេលនេះទេ។",
-	"article-comments-talk-page-starter": "<noinclude>យោបល់នៅលើ \"[[$1]]\"\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>យោបល់នៅលើ \"[[$1]]\"\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 មានយោបល់ថា ...",
 	"article-comments-submission-succeeded": "ការដាក់ស្នើយោបល់បានសំរេច",
 	"article-comments-submission-success": "អ្នកបានដាក់ស្នើយោបល់អំពី \"[[$1]]\" បានសំរេចហើយ",

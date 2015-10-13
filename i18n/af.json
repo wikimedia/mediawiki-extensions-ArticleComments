@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Naudefj\r"
+			"Naudefj"
 		]
 	},
 	"article-comments-desc": "Maak kommentaar-afdelings op artikel-bladsye beskikbaar",
@@ -19,14 +19,14 @@
 	"article-comments-submission-failed": "Indien van kommentaar het gefaal",
 	"article-comments-failure-reasons": "Jammer, u kommentaar was om die volgende {{PLURAL:$1|rede|redes}} onsuksesvol:",
 	"article-comments-no-comments": "Jammer, die artikel \"[[$1]]\" aanvaar nie tans kommentaar nie.",
-	"article-comments-talk-page-starter": "<noinclude> Kommentaar op [[$1]] \r\n<comments />\r\n ----- __NOEDITSECTION__ </noinclude>",
+	"article-comments-talk-page-starter": "<noinclude> Kommentaar op [[$1]] \n<comments />\n ----- __NOEDITSECTION__ </noinclude>",
 	"article-comments-commenter-said": "$1 het gesê...",
 	"article-comments-summary": "Kommentaar deur $1 - via die ArticleComments-uitbreiding",
 	"article-comments-submission-succeeded": "Indien van kommentaar was suksesvol",
 	"article-comments-submission-success": "U het suksesvol 'n kommentaar vir \"[[$1]]\" ingedien",
 	"article-comments-submission-view-all": "U kan al die antwoorde op hierdie artikel [[$1|hier]] sien",
 	"article-comments-user-is-blocked": "U gebruiker is tans teen die redigering van \"[[$1]]\" geblokkeer.",
-	"article-comments-comment-bad-mode": "Ongeldige modes is vir kommentaar verskaf.\r\nBeskikbare modusse is: \"plain\", \"normal\" en \"wiki\".",
+	"article-comments-comment-bad-mode": "Ongeldige modes is vir kommentaar verskaf.\nBeskikbare modusse is: \"plain\", \"normal\" en \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Naam ontbreek",
 	"article-comments-comment-missing-date-parameter": "Geen datum vir kommentaar",
 	"article-comments-no-spam": "Ten minste een van die voorgelegde velde is as spam gemerk.",

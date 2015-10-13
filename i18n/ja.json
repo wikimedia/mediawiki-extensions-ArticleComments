@@ -1,11 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki\r",
-			"青子守歌\r",
-			"2nd-player",
 			"Shirayuki",
-			"青子守歌"
+			"青子守歌",
+			"2nd-player"
 		]
 	},
 	"article-comments-desc": "本文ページにコメントできる節を有効にする",

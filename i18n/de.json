@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Als-Holder\r",
-			"Kghbln\r",
-			"Purodha\r",
-			"The Evil IP address\r",
-			"青子守歌\r"
+			"Als-Holder",
+			"Kghbln",
+			"Purodha",
+			"The Evil IP address",
+			"青子守歌"
 		]
 	},
 	"article-comments-desc": "Ermöglicht das Kommentieren von Seiten",
@@ -23,14 +23,14 @@
 	"article-comments-submission-failed": "Die Kommentierung ist fehlgeschlagen.",
 	"article-comments-failure-reasons": "Die Kommentierung ist leider aus {{PLURAL:$1|folgendem Grund|folgenden Gründen}} fehlgeschlagen:",
 	"article-comments-no-comments": "Für die Seite „[[$1]]“ können momentan keine Kommentare abgegeben werden.",
-	"article-comments-talk-page-starter": "<noinclude>Kommentare zur Seite „[[$1]]“\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Kommentare zur Seite „[[$1]]“\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 meinte …",
 	"article-comments-summary": "Ein Kommentar wurde von $1 über die Programmerweiterung ArticleComments abgegeben.",
 	"article-comments-submission-succeeded": "Die Kommentierung wurde durchgeführt.",
 	"article-comments-submission-success": "Du hast erfolgreich einen Kommentar für die Seite „[[$1]]“ abgegeben.",
 	"article-comments-submission-view-all": "Du kannst [[$1|alle Kommentare zu dieser Seite]] einsehen.",
 	"article-comments-user-is-blocked": "Du darfst die Seite „[[$1]]“ derzeit nicht bearbeiten.",
-	"article-comments-comment-bad-mode": "Für die Kommentierung wurde ein ungültiger Modus angegeben.\r\nMöglich sind die Modi „plain“, „normal“ und „wiki“.",
+	"article-comments-comment-bad-mode": "Für die Kommentierung wurde ein ungültiger Modus angegeben.\nMöglich sind die Modi „plain“, „normal“ und „wiki“.",
 	"article-comments-comment-missing-name-parameter": "Fehlender Name",
 	"article-comments-comment-missing-date-parameter": "Fehlendes Datum",
 	"article-comments-no-spam": "Mindestens eine der Angaben wurde als Spam identifiziert.",

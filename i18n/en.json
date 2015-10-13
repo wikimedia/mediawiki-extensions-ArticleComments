@@ -26,7 +26,7 @@
 	"article-comments-prefilled-comment-text": "",
 	"article-comments-user-is-blocked": "Your user account is currently blocked from editing \"[[$1]]\".",
 	"article-comments-new-comment-heading": "\n== {{int:article-comments-commenter-said|$1}} ==\n\n",
-	"article-comments-comment-bad-mode": "Invalid mode given for comment.\r\nAvailable ones are \"plain\", \"normal\" and \"wiki\".",
+	"article-comments-comment-bad-mode": "Invalid mode given for comment.\nAvailable ones are \"plain\", \"normal\" and \"wiki\".",
 	"article-comments-comment-contents": "<div class='commentBlock'><small>$4</small>$5--$3</div>\n",
 	"article-comments-comment-missing-name-parameter": "Missing name",
 	"article-comments-comment-missing-date-parameter": "Missing comment date",

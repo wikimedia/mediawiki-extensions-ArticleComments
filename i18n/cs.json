@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Achiles\r",
-			"Jkjk\r"
+			"Achiles",
+			"Jkjk"
 		]
 	},
 	"article-comments-desc": "Umožňuje přidat komentáře na obsahové stránky",
@@ -20,14 +20,14 @@
 	"article-comments-submission-failed": "Odeslání komentáře selhalo",
 	"article-comments-failure-reasons": "Omlouváme se, odeslání Vašeho komentáře selhalo z {{PLURAL:$1|následujícího důvodu|následujích důvodů}}",
 	"article-comments-no-comments": "Omlouváme se, na stránku \"[[$1]]\" není v tuto chvíli možné umístit komentář.",
-	"article-comments-talk-page-starter": "<noinclude>Komentáře na \"[[$1]]\"\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Komentáře na \"[[$1]]\"\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 řekl ...",
 	"article-comments-summary": "Komentáře poskytované $1 - pomocí rozšíření ArticleComments",
 	"article-comments-submission-succeeded": "Odeslání komentáře proběhlo úspěšně",
 	"article-comments-submission-success": "Úspěšně jste odeslali komentář pro \"[[$1]].\"",
 	"article-comments-submission-view-all": "Můžete si prohlédnout [[$1|všechny komentáře na této stránce]].",
 	"article-comments-user-is-blocked": "Na Vašem uživatelském účtu je v současné době zablokována možnost editace \"[[$1]]\".",
-	"article-comments-comment-bad-mode": "Neplatný formát komentáře.\r\nDostupné jsou tyto \"plain\", \"normal\" a \"wiki\".",
+	"article-comments-comment-bad-mode": "Neplatný formát komentáře.\nDostupné jsou tyto \"plain\", \"normal\" a \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Chybějící jméno",
 	"article-comments-comment-missing-date-parameter": "Chybějící datum komentáře",
 	"article-comments-no-spam": "Nejméně jedna odeslaná položka je označena jako spam.",

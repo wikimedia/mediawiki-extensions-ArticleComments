@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"82-145\r",
-			"Emperyan\r",
-			"Erdemaslancan\r",
-			"Incelemeelemani\r",
-			"Karduelis\r"
+			"82-145",
+			"Emperyan",
+			"Erdemaslancan",
+			"Incelemeelemani",
+			"Karduelis"
 		]
 	},
 	"article-comments-desc": "İçerik sayfalarında yorum bölümlerini devreye sokar",
@@ -20,7 +20,7 @@
 	"article-comments-leave-comment-link": "Yorum yaz ...",
 	"article-comments-required-field": "\"$1\" alanı gerekiyor.",
 	"article-comments-submission-failed": "Yorum gönderme başarısız",
-	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\" yazısına yapılan yorumlar \r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>\"[[$1]]\" yazısına yapılan yorumlar \n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 dedi ki...",
 	"article-comments-submission-succeeded": "Yorum gönderme başarılı",
 	"article-comments-comment-missing-name-parameter": "Eksik isim",

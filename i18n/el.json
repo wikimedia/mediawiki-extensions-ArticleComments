@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aral\r",
-			"Glavkos\r"
+			"Aral",
+			"Glavkos"
 		]
 	},
 	"article-comments-desc": "Επιτρέπει ενότητες σχολίων σε σελίδες περιεχομένου",
@@ -20,14 +20,14 @@
 	"article-comments-submission-failed": "H υποβολή Σχόλιου  απέτυχε",
 	"article-comments-failure-reasons": "Συγνώμη η υποβολή του σχόλιου σας απέτυχε για τους ακόλουθους λόγους {{PLURAL:$1|reason|reasons}}:",
 	"article-comments-no-comments": "Δυστυχώς η σελίδα \"[[$1]]\" δεν δέχεται σχόλια αυτή την ώρα",
-	"article-comments-talk-page-starter": "<noinclude>Σχόλια για \"[[$1]]\"\r\n<comments></comments>\r\n-----__NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Σχόλια για \"[[$1]]\"\n<comments></comments>\n-----__NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 είπε...",
 	"article-comments-summary": "Σχόλιο από $1 - μέσω του πρόσθετου ArticleComments",
 	"article-comments-submission-succeeded": "Υποβολή σχολίου ολοκληρώθηκε",
 	"article-comments-submission-success": "Έχετε υποβάλει με επιτυχία ένα σχόλιο για \"[[$1]]\"",
 	"article-comments-submission-view-all": "Μπορείτε να δείτε [[ $1 | όλα τα σχόλια σε αυτήν τη σελίδα]]",
 	"article-comments-user-is-blocked": "Στον λογαριασμό χρήστη σας αυτή τη στιγμή έχει  μπλοκαριστεί η λειτουργία  επεξεργασίας \"[[$1]]\".",
-	"article-comments-comment-bad-mode": "Ο κωδικός που δόθηκε για το σχόλιο είναι άκυρος.\r\nΈγκυροι κωδικοί είναι \"plain\", \"normal\" και \"wiki\"",
+	"article-comments-comment-bad-mode": "Ο κωδικός που δόθηκε για το σχόλιο είναι άκυρος.\nΈγκυροι κωδικοί είναι \"plain\", \"normal\" και \"wiki\"",
 	"article-comments-comment-missing-name-parameter": "Λείπει το όνομα",
 	"article-comments-comment-missing-date-parameter": "Λείπει η ημερομηνία του σχολίου",
 	"article-comments-no-spam": "Τουλάχιστον ένα από τα πεδία υποβλήθηκε έχουν επισημανθεί ως ανεπιθύμητη αλληλογραφία.",

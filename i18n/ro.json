@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Firilacroco\r",
-			"Minisarm\r",
-			"Stelistcristi\r"
+			"Firilacroco",
+			"Minisarm",
+			"Stelistcristi"
 		]
 	},
 	"article-comments-title-string": "titlu",
@@ -19,7 +19,7 @@
 	"article-comments-submission-failed": "Trimiterea comentariului a eșuat",
 	"article-comments-failure-reasons": "Ne pare rău, dar trimiterea comentariului dumneavoastră a eșuat din {{PLURAL:$1|următorul|următoarele}} {{PLURAL:$1|motiv|motive}}:",
 	"article-comments-no-comments": "Scuze, pagina „[[$1]]” nu acceptă comentarii în acest moment.",
-	"article-comments-talk-page-starter": "<noinclude>Comentarii pe [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Comentarii pe [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 a spus ...",
 	"article-comments-summary": "Comentariu furnizat de către $1 - prin extensia ArticleComments",
 	"article-comments-submission-succeeded": "Trimiterea comentariului s-a efectuat cu succes",

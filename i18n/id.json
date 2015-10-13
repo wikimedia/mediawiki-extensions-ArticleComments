@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"IvanLanin\r"
+			"IvanLanin"
 		]
 	},
 	"article-comments-desc": "Mengaktifkan bagian komentar pada halaman konten",
@@ -19,14 +19,14 @@
 	"article-comments-submission-failed": "Pengiriman komentar gagal",
 	"article-comments-failure-reasons": "Maaf, kiriman komentar Anda gagal karena {{PLURAL:$1|alasan|alasan}} berikut:",
 	"article-comments-no-comments": "Maaf, halaman \"[[$1]]\" tidak menerima komentar saat ini.",
-	"article-comments-talk-page-starter": "<noinclude>Komentar pada \"[[$1]]\"\r\n<comments />\r\n-----__NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Komentar pada \"[[$1]]\"\n<comments />\n-----__NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 berkata ...",
 	"article-comments-summary": "Komentar diberikan oleh $1 - melalui ekstensi ArticleComments",
 	"article-comments-submission-succeeded": "Pengiriman komentar berhasil",
 	"article-comments-submission-success": "Anda telah berhasil mengirimkan komentar untuk \"[[$1]]\"",
 	"article-comments-submission-view-all": "Anda dapat melihat [[$1|semua komentar pada halaman tersebut]]",
 	"article-comments-user-is-blocked": "Akun pengguna Anda saat ini diblokir dari mengedit \"[[$1]]\".",
-	"article-comments-comment-bad-mode": "Modus tidak sah telah diberikan untuk komentar.\r\nPilihan yang tersedia adalah \"plain\", \"normal\", dan \"wiki\".",
+	"article-comments-comment-bad-mode": "Modus tidak sah telah diberikan untuk komentar.\nPilihan yang tersedia adalah \"plain\", \"normal\", dan \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Nama tidak ada",
 	"article-comments-comment-missing-date-parameter": "Tanggal komentar tidak ada",
 	"article-comments-no-spam": "Setidaknya salah satu isian yang dimasukkan ditandai sebagai spam.",

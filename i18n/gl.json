@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño\r"
+			"Toliño"
 		]
 	},
 	"article-comments-desc": "Activa os comentarios nas seccións dos artigos",
@@ -19,14 +19,14 @@
 	"article-comments-submission-failed": "Fallou o envío do comentario",
 	"article-comments-failure-reasons": "Sentímolo, o seu comentario non puido enviarse {{PLURAL:$1|polo seguinte motivo|polos seguintes motivos}}:",
 	"article-comments-no-comments": "Sentímolo, nestes intres a páxina \"[[$1]]\" non acepta comentarios.",
-	"article-comments-talk-page-starter": "<noinclude>Comentarios sobre \"[[$1]]\"\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Comentarios sobre \"[[$1]]\"\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 dixo...",
 	"article-comments-summary": "Comentario achegado por $1 mediante a extensión ArticleComments",
 	"article-comments-submission-succeeded": "O comentario enviouse correctamente",
 	"article-comments-submission-success": "O seu comentario sobre \"[[$1]]\" enviouse correctamente",
 	"article-comments-submission-view-all": "Pode ollar [[$1|todos os comentarios sobre a páxina]]",
 	"article-comments-user-is-blocked": "A súa conta está bloqueada e non pode editar \"[[$1]]\".",
-	"article-comments-comment-bad-mode": "O modo fornecido para o comentario non é válido.\r\nOs modos dispoñibles son \"plain\", \"normal\" e \"wiki\".",
+	"article-comments-comment-bad-mode": "O modo fornecido para o comentario non é válido.\nOs modos dispoñibles son \"plain\", \"normal\" e \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Falta o nome",
 	"article-comments-comment-missing-date-parameter": "Fata a data do comentario",
 	"article-comments-no-spam": "Un dos campos enviados marcouse como spam.",

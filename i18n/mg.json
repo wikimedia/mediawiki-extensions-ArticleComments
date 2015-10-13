@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jagwar\r"
+			"Jagwar"
 		]
 	},
 	"article-comments-desc": "Mampandeha ny fizarana misy ny resaka eny amin'ny pejin-dahatsoratra",
@@ -17,7 +17,7 @@
 	"article-comments-required-field": "Iliana fenoina ny fanatsofohan-teny $1.",
 	"article-comments-submission-failed": "Tsy tafalefa ny fandefasana ilay resaka",
 	"article-comments-no-comments": "Miala tsiny fa tsy mandray resaka ny lahatsoratra « [[$1]] » amin'izao fotoana izao.",
-	"article-comments-talk-page-starter": "<noinclude>Resaka mikasikan'i [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Resaka mikasikan'i [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "Hoy i $1 ...",
 	"article-comments-summary": "Resaka nasian'i $1 — tamin'ny alàlan'ny fanitarana ArticleComments",
 	"article-comments-submission-succeeded": "Nandeha soa aman-tsara ny fandefasana ilay resaka",

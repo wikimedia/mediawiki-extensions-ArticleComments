@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"פוילישער\r"
+			"פוילישער"
 		]
 	},
 	"article-comments-title-string": "קעפל",
@@ -15,7 +15,7 @@
 	"article-comments-leave-comment-link": "לאזן א הערה …",
 	"article-comments-invalid-field": "דאס $1 <nowiki>[$2]</nowiki> איז אומגילטיק.",
 	"article-comments-no-comments": "אנטשולדיקט, דער בלאט \"[[$1]]\" נעמט נישט קיין הערות דערווײַל.",
-	"article-comments-talk-page-starter": "<noinclude>הערות אויף \"[[$1]]\"\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>הערות אויף \"[[$1]]\"\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 זאגט ...",
 	"article-comments-submission-success": "איר האט אײַנגעגעבן א הערה צו \"[[$1]]\" מיט דערפֿאלג",
 	"article-comments-submission-view-all": "איר קענט באקוקן [[$1|אלע הערות אויף דעם בלאט]]",

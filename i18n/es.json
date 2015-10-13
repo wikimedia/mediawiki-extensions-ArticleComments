@@ -1,14 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Danke7\r",
-			"Fitoschido\r",
-			"Translationista\r",
-			"VegaDark\r",
 			"Danke7",
 			"Fitoschido",
-			"Macofe",
-			"Translationista"
+			"Translationista",
+			"VegaDark",
+			"Macofe"
 		]
 	},
 	"article-comments-desc": "Habilita secciones de comentarios en las páginas de contenido",

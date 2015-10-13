@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pahles\r"
+			"Pahles"
 		]
 	},
 	"article-comments-desc": "Maak 't mäögelik óm opmerkinge te plaatse bie paragrafe op pagina's",
@@ -19,14 +19,14 @@
 	"article-comments-submission-failed": "'t Opsjlaon van de opmirking is mislök.",
 	"article-comments-failure-reasons": "'t Opsjlaon van dien opmirking is mislök óm de volgende {{PLURAL:$1|raej|raej}}:",
 	"article-comments-no-comments": "Bie de pagina \"[[$1]]\" kinne op 't memènt gein opmirkinge geplaats waere.",
-	"article-comments-talk-page-starter": "<noinclude>Opmirkinge bie [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Opmirkinge bie [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 sjreef ...",
 	"article-comments-summary": "Opmirking van $1",
 	"article-comments-submission-succeeded": "De opmirking is opgesjlage",
 	"article-comments-submission-success": "De höbs 'n opmirking bie \"[[$1]]\" opgesjlage",
 	"article-comments-submission-view-all": "De kans [[$1|alle opmirkinge bie die pagina]] bekieke",
 	"article-comments-user-is-blocked": "Dien gebroekers-account is op dit memènt geblokeerd veur 't bewirke vaan \"[[$1]]\".",
-	"article-comments-comment-bad-mode": "Dao is 'n ongeljige modus opgegaeve veur de opmirking.\r\nBesjikbaar zien \"plain\", \"normal\" en \"wiki\".",
+	"article-comments-comment-bad-mode": "Dao is 'n ongeljige modus opgegaeve veur de opmirking.\nBesjikbaar zien \"plain\", \"normal\" en \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "De naam mis",
 	"article-comments-comment-missing-date-parameter": "De datum veur de opmirking mis",
 	"article-comments-no-spam": "Tenminste ein van de opgesjlage velde had 'n inhauwd dee es spam is aangemerk.",

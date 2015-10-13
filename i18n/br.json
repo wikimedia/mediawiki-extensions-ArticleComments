@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fulup\r",
-			"Gwendal\r",
-			"Y-M D\r"
+			"Fulup",
+			"Gwendal",
+			"Y-M D"
 		]
 	},
 	"article-comments-desc": "Gweredekaat ar pennadoù burutellañ war pajennoù ar pennadoù",
@@ -21,14 +21,14 @@
 	"article-comments-submission-failed": "C'hwitet eo bet kasadenn ar vurutelladenn",
 	"article-comments-failure-reasons": "Ho tigarez, n'eus ket bet gallet kas hoc'h evezhiadenn evit an {{PLURAL:$1|abeg|abegoù}} da-heul :",
 	"article-comments-no-comments": "Ho tigarez, n'haller ket kas burutelladennoù diwar-benn ar pennad \"[[$1]]\" evit c'hoazh.",
-	"article-comments-talk-page-starter": "<noinclude>Evezhiadennoù war [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Evezhiadennoù war [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 en deus laret ...",
 	"article-comments-summary": "Burutelladenn degaset gant $1 - dre an astenn ArticleComments",
 	"article-comments-submission-succeeded": "Kaset eo bet ar vurutelladenn ervat",
 	"article-comments-submission-success": "Kaset mat eo bet ho purutelladenn diwar-benn \"[[$1]]\"",
 	"article-comments-submission-view-all": "Gwallout a rit gwelet an holl vurutelladennoù evit ar pennad-mañ [[$1|amañ]]",
 	"article-comments-user-is-blocked": "Berzet eo d'ho kont implijer skrivañ war \"[[$1]]\" evit ar mare.",
-	"article-comments-comment-bad-mode": "Direizh eo ar mod burutellañ zo bet lakaet.\r\nGallout a reer ober gant ar modoù \"plaen\", \"normal\" ha \"wiki\".",
+	"article-comments-comment-bad-mode": "Direizh eo ar mod burutellañ zo bet lakaet.\nGallout a reer ober gant ar modoù \"plaen\", \"normal\" ha \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Anv a vank",
 	"article-comments-comment-missing-date-parameter": "Mankout a ra deiziad ar vurutelladenn",
 	"article-comments-no-spam": "Merket ez eus bet evel strob da nebeutañ unan eus ar maeziennoù bet kaset.",

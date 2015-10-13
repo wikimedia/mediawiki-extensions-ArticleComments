@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"StefanusRA\r"
+			"StefanusRA"
 		]
 	},
 	"article-comments-desc": "Ngaktifna bagiyan komentar nang halaman konten",
@@ -19,6 +19,6 @@
 	"article-comments-submission-failed": "Pengiriman komentar gagal",
 	"article-comments-failure-reasons": "Nuwun sewu, kiriman komentare Rika gagal amarga {{PLURAL:$1|jalaran|jalaran}} kiye:",
 	"article-comments-no-comments": "Nuwun sewu, halaman \"[[$1]]\" ora teyeng nampani komentar sekiye.",
-	"article-comments-talk-page-starter": "<noinclude>Komentar nang \"[[$1]]\"\r\n<comments />\r\n-----__NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Komentar nang \"[[$1]]\"\n<comments />\n-----__NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 ngomong ..."
 }

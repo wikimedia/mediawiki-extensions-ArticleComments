@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby\r"
+			"Robby"
 		]
 	},
 	"article-comments-desc": "Erméiglecht Abschnitter mat Bemierkungen op Artikelsäiten",
@@ -19,14 +19,14 @@
 	"article-comments-submission-failed": "D'Schécke vun der Bemierkung huet net fonctionnéiert",
 	"article-comments-failure-reasons": "Pardon, Är Bemierkung huet aus {{PLURAL:$1|dësem Grond|dëse Grënn}} net fonctionnéiert:",
 	"article-comments-no-comments": "Pardon, d'Säit \"[[$1]]\" hëlt elo keng Bemierkungen un.",
-	"article-comments-talk-page-starter": "<noinclude>Bemierkungen iwwer [[$1]]\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Bemierkungen iwwer [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 huet gesot ...",
 	"article-comments-summary": "Bemierkung vum $1 - iwwert d'Erweiderung ArticleComments",
 	"article-comments-submission-succeeded": "D'Bemierkung ass gespäichert",
 	"article-comments-submission-success": "Är Bemierkung fir [[$1]] ass gespäichert.",
 	"article-comments-submission-view-all": "Dir kënnt [[$1|all Bemierkungen zu dëser Säit]] kucken",
 	"article-comments-user-is-blocked": "Äre Benotzerkont ass elo gespaart fir \"[[$1]]\" z'änneren.",
-	"article-comments-comment-bad-mode": "Net valabele Mode ugi fir d'Bemierkung.\r\nMéiglech sinn \"plain\", \"normal\" a \"wiki\".",
+	"article-comments-comment-bad-mode": "Net valabele Mode ugi fir d'Bemierkung.\nMéiglech sinn \"plain\", \"normal\" a \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Den Numm feelt",
 	"article-comments-comment-missing-date-parameter": "Datum vun der Bemierkung feelt",
 	"article-comments-no-spam": "Mindestens eent vun de geschéckte Felder gouf als Spam markéiert.",

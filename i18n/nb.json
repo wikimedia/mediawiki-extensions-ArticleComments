@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nghtwlkr\r"
+			"Nghtwlkr"
 		]
 	},
 	"article-comments-desc": "Slå på kommentarseksjoner på innholdssider",
@@ -19,14 +19,14 @@
 	"article-comments-submission-failed": "Kommentering mislyktes",
 	"article-comments-failure-reasons": "Beklager, kommentaren din mislyktes på grunn av følgende {{PLURAL:$1|årsak|årsaker}}:",
 	"article-comments-no-comments": "Beklager, siden «[[$1]]» er ikke åpen for kommentarer nå",
-	"article-comments-talk-page-starter": "<noinclude>Kommentarer på [[$1]]\r\n<comments />\r\n---- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Kommentarer på [[$1]]\n<comments />\n---- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 sa ...",
 	"article-comments-summary": "Kommentar av $1 – via ArticleComments-utvidelsen",
 	"article-comments-submission-succeeded": "Kommentering lyktes",
 	"article-comments-submission-success": "Du har kommentert «[[$1]]»",
 	"article-comments-submission-view-all": "Du kan vise [[$1|alle kommentarer på den siden]]",
 	"article-comments-user-is-blocked": "Kontoen din er blokkert fra å redigere «[[$1]]».",
-	"article-comments-comment-bad-mode": "Ugyldig modis for kommentarer.\r\nTilgjengelige moduser er «plain», «normal» og «wiki».",
+	"article-comments-comment-bad-mode": "Ugyldig modis for kommentarer.\nTilgjengelige moduser er «plain», «normal» og «wiki».",
 	"article-comments-comment-missing-name-parameter": "Mangler navn",
 	"article-comments-comment-missing-date-parameter": "Mangler kommentardato",
 	"article-comments-no-spam": "Minst ett av feltene ble merket som spam.",

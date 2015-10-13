@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Michawiki\r"
+			"Michawiki"
 		]
 	},
 	"article-comments-desc": "Zmóžnja komentarowy wotrězki na wobsahowych stronach",
@@ -19,14 +19,14 @@
 	"article-comments-submission-failed": "Słanje komentara je so njeporadźiło",
 	"article-comments-failure-reasons": "Bohužel je so słanje twojeho komentara {{PLURAL:$1|slědowaceje přičiny|slědowaceju přinčinow|slědowacych přičinow|slědoacych přičinow}} dla njeporadźiło:",
 	"article-comments-no-comments": "Bohužel strona \"[[$1]]\" tuchwilu žane komentary njeakceptuje.",
-	"article-comments-talk-page-starter": "<noinclude>Komentary k \"[[$1]]\"\r\n<comments />\r\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-talk-page-starter": "<noinclude>Komentary k \"[[$1]]\"\n<comments />\n----- __NOEDITSECTION__</noinclude>",
 	"article-comments-commenter-said": "$1 praješe ...",
 	"article-comments-summary": "Komentar je so wot $1 přez rozšěrjenje ArticleComments přepodał",
 	"article-comments-submission-succeeded": "Komentar wuspěšnje wotpósłany.",
 	"article-comments-submission-success": "Sy wuspěšnje komentar za \"[[$1]]\" wotpósłał",
 	"article-comments-submission-view-all": "Móžeš sej [[$1|wšě komentary k tej stronje]] wobhladać",
 	"article-comments-user-is-blocked": "Twoje wužiwarske konto je tuchwilu za wobdźěłowanje strony \"[[$1]]\" zablokowane.",
-	"article-comments-comment-bad-mode": "Njepłaćiwy modus za komentar podaty.\r\nK dispoziciji steja \"plain\", \"normal\" a \"wiki\".",
+	"article-comments-comment-bad-mode": "Njepłaćiwy modus za komentar podaty.\nK dispoziciji steja \"plain\", \"normal\" a \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Falowace mjeno",
 	"article-comments-comment-missing-date-parameter": "Falowacy komentarowy datum",
 	"article-comments-no-spam": "Znajmjeńša jedne z wotpósłanych polow bu jako spam woznamjenjene.",
