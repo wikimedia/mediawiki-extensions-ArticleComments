@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"HalanTul"
+		]
+	},
+	"article-comments-title-string": "баһа (аата)",
+	"article-comments-name-string": "Аат",
+	"article-comments-name-field": "Аат (булгуччу)",
+	"article-comments-url-field": "Ситим-сир:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Ырытыы",
+	"article-comments-comment-field": "Ырытыы:",
+	"article-comments-submit-button": "Ыыт",
+	"article-comments-leave-comment-link": "Ырытыыта хааллар...",
+	"article-comments-required-field": "$1 хайаан да толоруллуохтаах.",
+	"article-comments-submission-failed": "Ырытыы сатаан бэчээттэммэтэ",
+	"article-comments-failure-reasons": "Хомойуох иһин, ырытыыҥ бу төрүөтүнэн бэчээттэммэтэ:",
+	"article-comments-no-comments": "Баалаама, «[[$1]]» сирэйгэ ырытыы хаалларар билигин көҥүллэммэт эбит.",
+	"article-comments-talk-page-starter": "<noinclude>Ырытыы — [[$1]]\n<comments />\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 эппит…"
+}
