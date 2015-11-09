@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wikitanvir"
+			"Wikitanvir",
+			"Aftabuzzaman"
 		]
 	},
 	"article-comments-desc": "বিষয়বস্তু পাতায় মন্তব্য অংশ সক্রিয় করো",
@@ -26,7 +27,7 @@
 	"article-comments-submission-success": "আপনি \"[[$1]]\" পাতার জন্য সফলতার সাথে একটি মন্তব্য প্রদান করেছেন",
 	"article-comments-submission-view-all": "আপনি [[$1|ঐ পাতায় থাকা সকল মন্তব্য]] দেখতে পারেন",
 	"article-comments-user-is-blocked": "আপনার ব্যবহারকারী অ্যাকাউন্টে বর্তমানে \"[[$1]]\" পাতাটি সম্পাদনায় বাধা রয়েছে।",
-	"article-comments-comment-bad-mode": "কমেন্টে জন্য অগ্রহণযোগ্য মোড প্রদান করা হয়েছে।\nপ্রযোজ্য মোডগুলোর মধ্যে রয়েছে \"সরল\", \"সাধারণ\" ও \"উইকি\"।",
+	"article-comments-comment-bad-mode": "মন্তব্যের জন্য অগ্রহণযোগ্য মোড প্রদান করা হয়েছে।\nপ্রযোজ্য মোডগুলোর মধ্যে রয়েছে \"সরল\", \"সাধারণ\" ও \"উইকি\"।",
 	"article-comments-comment-missing-name-parameter": "হারানো নাম",
 	"article-comments-comment-missing-date-parameter": "হারানো মন্তব্যের তারিখ",
 	"article-comments-no-spam": "কমপক্ষে জমা প্রদান করা একটি অংশ স্প্যাম হিসেবে পরিগণিত হয়েছে।",
