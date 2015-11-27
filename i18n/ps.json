@@ -8,9 +8,11 @@
 	"article-comments-name-string": "نوم",
 	"article-comments-name-field": "نوم (اړين مالومات):",
 	"article-comments-url-field": "وېبځی:",
+	"article-comments-url-string": "يو آر اېل",
 	"article-comments-comment-string": "تبصره",
 	"article-comments-comment-field": "تبصره:",
 	"article-comments-submit-button": "سپارل",
 	"article-comments-leave-comment-link": "تبصره پرېښودل ...",
-	"article-comments-commenter-said": "$1 ووييل ..."
+	"article-comments-commenter-said": "$1 ووييل ...",
+	"article-comments-comment-missing-name-parameter": "نوم نه لري"
 }
