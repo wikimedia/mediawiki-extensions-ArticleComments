@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ильнар"
+		]
+	},
+	"article-comments-title-string": "башлам",
+	"article-comments-name-string": "Исем",
+	"article-comments-name-field": "Исем (мәҗбүри):",
+	"article-comments-url-field": "Сайт:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Искәрмә",
+	"article-comments-comment-field": "Искәрмә:",
+	"article-comments-submit-button": "Җибәрү",
+	"article-comments-leave-comment-link": "Шәрехне калдырырга...",
+	"article-comments-invalid-field": "Ялгыш күрсәтелгән $1 <nowiki>[$2]</nowiki>.",
+	"article-comments-required-field": "$1 юлы мәҗбүри.",
+	"article-comments-commenter-said": "$1 әйтте…"
+}
