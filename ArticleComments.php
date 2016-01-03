@@ -144,7 +144,9 @@ function wfArticleCommentsParserHookComment( $text, $args, $parser, $frame ) {
 	}
 
 	if ( !isset( $args['name'] ) ) {
-		$args['name'] = wfMsgExt( 'article-comments-comment-missing-name-parameter', array( 'language' => $parser->getFunctionLang() ) );
+		$args['name'] = wfMessage(
+			'article-comments-comment-missing-name-parameter'
+		)->inLanguage( $parser->getFunctionLang() )->text();
 	}
 
 	if ( !isset( $args['url'] ) ) {
@@ -152,7 +154,9 @@ function wfArticleCommentsParserHookComment( $text, $args, $parser, $frame ) {
 	}
 
 	if ( !isset( $args['date'] ) ) {
-		$args['date'] = wfMsgExt( 'article-comments-comment-missing-date-parameter', array( 'language' => $parser->getFunctionLang() ) );
+		$args['date'] = wfMessage(
+			'article-comments-comment-missing-date-parameter'
+		)->inLanguage( $parser->getFunctionLang() )->text();
 	} else {
 		$args['date'] = $parser->getFunctionLang()->date( wfTimestamp( TS_MW, $args['date'] ) );
 	}
@@ -190,18 +194,20 @@ function wfArticleCommentsParserHookComment( $text, $args, $parser, $frame ) {
 
 	} else {
 		return Html::rawElement( 'div', array( 'class' => 'error' ),
-			wfMsgExt( 'article-comments-comment-bad-mode', array( 'parsemag', 'language' => $parser->getFunctionLang() ) )
+			wfMessage(
+				'article-comments-comment-bad-mode'
+			)->inLanguage( $parser->getFunctionLang() )->parse()
 		);
 	}
 
 	# Parse the content, this is later kept as-is since we do a replaceafter there.
 	$text = $parser->recursiveTagParse( $text, $frame );
 
-	return wfMsgExt(
-		'article-comments-comment-contents',
-		array( 'parse', 'replaceafter', 'content' ),
+	return wfMessage(
+		'article-comments-comment-contents'
+	)->rawParams( array(
 		$args['name'], $args['url'], $args['signature'], $args['date'], $text
-	);
+	) )->inContentLanguage()->parse();
 }
 
 /**
@@ -254,7 +260,7 @@ function wfArticleCommentsAfterContent( $data, $skin ) {
 function wfArticleCommentForm( $title, $params = array(), $parser ) {
 	global $wgArticleCommentDefaults, $wgOut, $wgParser, $wgParserConf;
 
-	if ( $parser === $wgParser ) { # Needed since r82645. Workaround the 'Invalid marker' problem by giving a new parser to wfMsgExt().
+	if ( $parser === $wgParser ) { # Needed since r82645. Workaround the 'Invalid marker' problem by giving a new parser to wfMessage().
 		$wgParser = new StubObject( 'wgParser', $wgParserConf['class'], array( $wgParserConf ) );
 	}
 
@@ -273,30 +279,32 @@ function wfArticleCommentForm( $title, $params = array(), $parser ) {
 	$content .= Html::hidden( 'commentArticle', $title->getPrefixedDBkey() );
 
 	$content .= '<label for="commenterName">' .
-		wfMsgExt(
-			'article-comments-name-field',
-			array( 'parseinline', 'content' )
-		) . Html::element( 'br' ) . '</label>';
+		wfMessage(
+			'article-comments-name-field'
+		)->inContentLanguage()->parse() . Html::element( 'br' ) . '</label>';
 	$content .= Html::input( 'commenterName', '', 'text', array( 'id' => 'commenterName' ) );
 	$content .= '</p>';
 
 	if ( $params['showurlfield'] ) {
 		$content .=  '<p><label for="commenterURL">' .
-			wfMsgExt(
-				'article-comments-url-field',
-				array( 'parseinline', 'content' )
-			) . Html::element( 'br' ) . '</label>';
+			wfMessage(
+				'article-comments-url-field'
+			)->inContentLanguage()->parse() . Html::element( 'br' ) . '</label>';
 		$content .= Html::input( 'commenterURL', 'http://', 'text', array( 'id' => 'commenterURL' ) );
 		$content .= '</p>';
 	}
 
 	$content .= '<p><label for="comment">' .
-		wfMsgExt( 'article-comments-comment-field', array( 'parseinline', 'content' ) ) .
+		wfMessage( 'article-comments-comment-field' )->inContentLanguage()->parse() .
 		Html::element( 'br' ) . '</label>';
 
 	$content .= '<textarea id="comment" name="comment" style="width:30em" rows="5">' . '</textarea></p>';
 
-	$content .= '<p>' . Html::input( 'comment-submit', wfMsgForContent( 'article-comments-submit-button' ), 'submit' ) . '</p>';
+	$content .= '<p>' . Html::input(
+		'comment-submit',
+		wfMessage( 'article-comments-submit-button' )->inContentLanguage()->text(),
+		'submit'
+	) . '</p>';
 	$content .= '</form></div>';
 
 	# Short-circuit if noScript has been set to anything other than false
@@ -322,12 +330,12 @@ function wfArticleCommentForm( $title, $params = array(), $parser ) {
 	# Note: This is done dynamically with JavaScript since it would be annoying
 	# for JS-disabled browsers to have the prefilled text (since they'd have
 	# to manually delete it) and would break parser output caching
-	$pretext = wfMsgForContent( 'article-comments-prefilled-comment-text' );
-	if ( $pretext ) {
+	$pretext = wfMessage( 'article-comments-prefilled-comment-text' );
+	if ( !$pretext->isDisabled() ) {
 		$js .=
 			'var comment = document.getElementById("comment");' . "\n" .
 			'comment._everFocused=false;' . "\n" .
-			'comment.innerHTML="' . htmlspecialchars( $pretext ) . '";' . "\n" .
+			'comment.innerHTML="' . $pretext->escaped() . '";' . "\n" .
 			'var clearCommentOnFirstFocus = function() {' . "\n" .
 			'var c=document.getElementById("comment");' . "\n" .
 			'if (!c._everFocused) {' . "\n" .
@@ -351,7 +359,9 @@ function wfArticleCommentForm( $title, $params = array(), $parser ) {
 			'p.innerHTML="<a href=\'javascript:void(0)\' onclick=\'' .
 			'document.getElementById(\\"commentForm\\").style.display=\\"block\\";' .
 			'this.style.display=\\"none\\";false' .
-			'\'>' . wfMsgForContent( 'article-comments-leave-comment-link' ) . '</a>";' . "\n" .
+			'\'>' .
+			wfMessage( 'article-comments-leave-comment-link' )->inContentLanguage()->escaped() .
+			'</a>";' . "\n" .
 			'cf.parentNode.insertBefore(p,cf);' . "\n";
 	}
 
@@ -389,29 +399,43 @@ class SpecialProcessComment extends SpecialPage {
 		$messages = array();
 
 		if ( !$wgRequest->wasPosted() ) {
-			$messages[] = wfMsg( 'article-comments-not-posted' );
+			$messages[] = wfMessage( 'article-comments-not-posted' )->text();
 		}
 
 		if ( $titleText === '' || !$title ) {
-			$messages[] = wfMsg( 'article-comments-invalid-field', wfMsgForContent( 'article-comments-title-string' ), $titleText );
+			$messages[] = wfMessage(
+				'article-comments-invalid-field',
+				wfMessage( 'article-comments-title-string' )->inContentLanguage()->text(),
+				$titleText
+			)->text();
 		}
 
 		if ( !$commenterName || strpos( $commenterName, "\n" ) !== false ) {
-			$messages[] = wfMsg( 'article-comments-required-field', wfMsgForContent( 'article-comments-name-string' ) );
+			$messages[] = wfMessage(
+				'article-comments-required-field',
+				wfMessage( 'article-comments-name-string' )->inContentLanguage()->text()
+			)->text();
 		}
 
 		if ( ( $commenterURL != '' ) && !preg_match( "/^(" . wfUrlProtocols() . ')' . Parser::EXT_LINK_URL_CLASS . '+$/', $commenterURL ) ) {
-			$messages[] = wfMsg( 'article-comments-invalid-field', wfMsgForContent( 'article-comments-url-string' ), $commenterURL );
+			$messages[] = wfMessage(
+				'article-comments-invalid-field',
+				wfMessage( 'article-comments-url-string' )->inContentLanguage()->text(),
+				$commenterURL
+			)->text();
 		}
 
 		if ( !$comment ) {
-			$messages[] = wfMsg( 'article-comments-required-field', wfMsg( 'article-comments-comment-string' ) );
+			$messages[] = wfMessage(
+				'article-comments-required-field',
+				wfMessage( 'article-comments-comment-string' )->text()
+			)->text();
 		}
 
 		if ( !empty( $messages ) ) {
-			$wgOut->setPageTitle( wfMsg( 'article-comments-submission-failed' ) );
+			$wgOut->setPageTitle( wfMessage( 'article-comments-submission-failed' ) );
 			$wikiText = "<div class='errorbox'>\n";
-			$wikiText .= wfMsgExt( 'article-comments-failure-reasons', 'parsemag', count( $messages ) ) . "\n\n";
+			$wikiText .= wfMessage( 'article-comments-failure-reasons' )->numParams( count( $messages ) )->parse() . "\n\n";
 			foreach ( $messages as $message ) {
 				$wikiText .= "* $message\n";
 			}
@@ -427,11 +451,11 @@ class SpecialProcessComment extends SpecialPage {
 
 		# Check whether user is blocked from editing the talk page
 		if ( $wgUser->isBlockedFrom( $talkTitle ) ) {
-			$wgOut->setPageTitle( wfMsg( 'article-comments-submission-failed' ) );
+			$wgOut->setPageTitle( wfMessage( 'article-comments-submission-failed' ) );
 			$wikiText = "<div class='errorbox'>\n";
 			# 1 error only but message is used above for n errors too
-			$wikiText .= wfMsgExt( 'article-comments-failure-reasons', 'parsemag', 1 ) . "\n\n";
-			$wikiText .= '* ' . wfMsg( 'article-comments-user-is-blocked', $talkTitle->getPrefixedText() ) . "\n";
+			$wikiText .= wfMessage( 'article-comments-failure-reasons', 1 )->parse() . "\n\n";
+			$wikiText .= '* ' . wfMessage( 'article-comments-user-is-blocked', $talkTitle->getPrefixedText() )->parse() . "\n";
 			$wgOut->addWikiText( $wikiText . '</div>' );
 			return;
 		}
@@ -462,10 +486,10 @@ class SpecialProcessComment extends SpecialPage {
 			preg_match( '/<comments( +[^>]*)?\\/>/', $articleContent ) === 0 &&
 			preg_match( '/<comments( +[^>]*)?\\/>/', $talkContent ) === 0
 		) {
-			$wgOut->setPageTitle( wfMsgForContent( 'article-comments-submission-failed' ) );
+			$wgOut->setPageTitle( wfMessage( 'article-comments-submission-failed' )->inContentLanguage() );
 			$wgOut->addWikiText(
 				'<div class="errorbox">' .
-				wfMsg( 'article-comments-no-comments', $title->getPrefixedText() ) .
+				wfMessage( 'article-comments-no-comments', $title->getPrefixedText() )->text() .
 				'</div>'
 			);
 			return;
@@ -477,10 +501,10 @@ class SpecialProcessComment extends SpecialPage {
 
 		# If it's spam - it's gone!
 		if ( $isSpam ) {
-			$wgOut->setPageTitle( wfMsg( 'article-comments-submission-failed' ) );
+			$wgOut->setPageTitle( wfMessage( 'article-comments-submission-failed' ) );
 			$wgOut->addWikiText(
 				'<div class="errorbox">' .
-				wfMsg( 'article-comments-no-spam' ) .
+				wfMessage( 'article-comments-no-spam' )->text() .
 				'</div>'
 			);
 			return;
@@ -488,11 +512,15 @@ class SpecialProcessComment extends SpecialPage {
 
 		# Initialize the talk page's content.
 		if ( $talkContent == '' ) {
-			$talkContent = wfMsgForContent( 'article-comments-talk-page-starter', $title->getPrefixedText() );
+			$talkContent = wfMessage( 'article-comments-talk-page-starter', $title->getPrefixedText() )
+				->inContentLanguage()
+				->text();
 		}
 
 		# Search for insertion point, or append most recent comment.
-		$commentText = wfMsgForContent( 'article-comments-new-comment-heading', $commenterName, $commenterURL, '~~~~', $comment );
+		$commentText = wfMessage( 'article-comments-new-comment-heading', $commenterName, $commenterURL, '~~~~', $comment )
+			->inContentLanguage()
+			->text();
 		$commentText .= '<comment date="' . htmlspecialchars( wfTimestamp( TS_ISO_8601 ) ) . '" name="' . htmlspecialchars( $commenterName ) . '"';
 		if ( $commenterURL != '' ) {
 			$commentText .= ' url="' . htmlspecialchars( $commenterURL ) . '"';
@@ -518,10 +546,12 @@ class SpecialProcessComment extends SpecialPage {
 		}
 
 		# Update the talkArticle with the new comment
-		$summary = wfMsgForContent( 'article-comments-summary', $commenterName );
+		$summary = wfMessage( 'article-comments-summary', $commenterName )
+			->inContentLanguage()
+			->text();
 		$talkArticle->doEdit( $talkContent, $summary );
 
-		$wgOut->setPageTitle( wfMsg( 'article-comments-submission-succeeded' ) );
+		$wgOut->setPageTitle( wfMessage( 'article-comments-submission-succeeded' ) );
 		$wgOut->addWikiMsg( 'article-comments-submission-success', $title->getPrefixedText() );
 		$wgOut->addWikiMsg( 'article-comments-submission-view-all', $talkTitle->getPrefixedText() );
 	}
