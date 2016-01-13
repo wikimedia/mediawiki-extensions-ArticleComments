@@ -1,14 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
-			"DCLXVI"
+			"DCLXVI",
+			"Vodnokon4e"
 		]
 	},
+	"article-comments-title-string": "заглавие",
 	"article-comments-name-string": "Име",
 	"article-comments-name-field": "Име (задължително):",
-	"article-comments-url-field": "Уеб сайт:",
-	"article-comments-url-string": "Адрес",
+	"article-comments-url-field": "Уебсайт:",
+	"article-comments-url-string": "URL адрес",
 	"article-comments-comment-string": "Коментар",
 	"article-comments-comment-field": "Коментар:",
-	"article-comments-submit-button": "Изпращане"
+	"article-comments-submit-button": "Изпращане",
+	"article-comments-leave-comment-link": "Оставете коментар ...",
+	"article-comments-required-field": "Полето \"$1\" е задължително.",
+	"article-comments-no-comments": "Съжаляваме, в момента страницата \"[[$1]]\" не приема коментари.",
+	"article-comments-commenter-said": "$1 каза...",
+	"article-comments-comment-missing-name-parameter": "Липсващо име",
+	"article-comments-comment-missing-date-parameter": "Липсваща дата на коментар"
 }
