@@ -379,6 +379,10 @@ class SpecialProcessComment extends SpecialPage {
 		parent::__construct( 'ProcessComment' );
 	}
 
+	function doesWrites() {
+		return true;
+	}
+
 	function execute( $par ) {
 		global $wgOut, $wgParser, $wgUser, $wgContLang, $wgRequest;
 
