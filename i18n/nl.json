@@ -29,6 +29,6 @@
 	"article-comments-comment-bad-mode": "Er is een ongeldige modus opgegeven voor de opmerking.\nBeschikbaar zijn \"plain\", \"normal\" en \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "De naam mist",
 	"article-comments-comment-missing-date-parameter": "De datum voor de opmerking mist",
-	"article-comments-no-spam": "Tenminste een van de opgeslagen velden had een inhoud die als spam is aangemerkt.",
+	"article-comments-no-spam": "Ten minste een van de opgeslagen velden had een inhoud die als spam is aangemerkt.",
 	"processcomment": "Opmerking verwerken"
 }
