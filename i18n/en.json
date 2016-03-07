@@ -21,7 +21,7 @@
 	"article-comments-commenter-said": "$1 said ...",
 	"article-comments-summary": "Comment provided by $1 - via ArticleComments extension",
 	"article-comments-submission-succeeded": "Comment submission succeeded",
-	"article-comments-submission-success": "You have successfully submitted a comment for \"[[$1]]\"",
+	"article-comments-submission-success": "You have submitted a comment for \"[[$1]]\"",
 	"article-comments-submission-view-all": "You may view [[$1|all comments on that page]]",
 	"article-comments-prefilled-comment-text": "",
 	"article-comments-user-is-blocked": "Your user account is currently blocked from editing \"[[$1]]\".",
