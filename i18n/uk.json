@@ -4,7 +4,8 @@
 			"A1",
 			"Alex Khimich",
 			"Olvin",
-			"Тест"
+			"Тест",
+			"Piramidion"
 		]
 	},
 	"article-comments-desc": "Ввімкнути розділ коментарів на змістових сторінках",
@@ -26,7 +27,7 @@
 	"article-comments-commenter-said": "$1 сказав ...",
 	"article-comments-summary": "Коментарі надаються $1 - використовуючи додаток ArticleComments",
 	"article-comments-submission-succeeded": "Коментар був надісланий вдало.",
-	"article-comments-submission-success": "Ви успішно додали коментар до \"[[$1]]\"",
+	"article-comments-submission-success": "Ви додали коментар до «[[$1]]»",
 	"article-comments-submission-view-all": "Ви можете переглянути [[$1|всі коментарі на цій сторінці]]",
 	"article-comments-user-is-blocked": "Обліковий запис користувача в даний момент заблокований від редагування \"[[$1]]\".",
 	"article-comments-comment-bad-mode": "Ви обрали невірний вид коментарів.\nПотрібно використати коментарі виду \"plain\", \"normal\" або \"wiki\".",

@@ -24,7 +24,7 @@
 	"article-comments-commenter-said": "$1 teica ...",
 	"article-comments-summary": "$1 iesniegtie komentāri, izmantojot ArticleComments paplašinājumu",
 	"article-comments-submission-succeeded": "Komentāru iesniegšana izdevās",
-	"article-comments-submission-success": "Jūs esat veiksmīgi iesniedzis komentāru lapai \"[[$1]]\"",
+	"article-comments-submission-success": "Jūs esat iesniedzis komentāru lapai \"[[$1]]\"",
 	"article-comments-submission-view-all": "Jūs varat apskatīt [[$1|visus komentārus šajā lapā]]",
 	"article-comments-user-is-blocked": "Jūsu lietotāja konts šobrīd ir bloķēts \"[[$1]] \" rediģēšanai.",
 	"article-comments-comment-bad-mode": "Komentāram piešķirts nederīgs režīms.\nPieejamie režīmi ir \"plain\", \"normal\" un \"wiki\".",

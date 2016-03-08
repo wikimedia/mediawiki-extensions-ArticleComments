@@ -4,7 +4,8 @@
 			"Peter17",
 			"Sherbrooke",
 			"Verdy p",
-			"青子守歌"
+			"青子守歌",
+			"Gomoko"
 		]
 	},
 	"article-comments-desc": "Active les sections de commentaires sur les pages d’articles",
@@ -26,7 +27,7 @@
 	"article-comments-commenter-said": "$1 a dit...",
 	"article-comments-summary": "Commentaires apportés par $1 — via l’extension ArticleComments",
 	"article-comments-submission-succeeded": "L’envoi du commentaire a réussi",
-	"article-comments-submission-success": "Vous avez envoyé avec succès un commentaire sur « [[$1]] »",
+	"article-comments-submission-success": "Vous avez envoyé un commentaire sur « [[$1]] »",
 	"article-comments-submission-view-all": "Vous pouvez voir tous les commentaires sur cet article [[$1|ici]]",
 	"article-comments-user-is-blocked": "Votre compte utilisateur est actuellement bloqué en écriture sur « [[$1]] ».",
 	"article-comments-comment-bad-mode": "Le mode fourni pour le commentaire est invalide.\nLes modes disponibles sont «plain», « normal » et « wiki ».",
