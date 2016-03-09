@@ -23,7 +23,7 @@
 	"article-comments-commenter-said": "$1 pravi ...",
 	"article-comments-summary": "Pripombo je nudil $1 – preko razširitve ArticleComments",
 	"article-comments-submission-succeeded": "Oddaja pripombe je uspela",
-	"article-comments-submission-success": "Uspešno ste poslali pripombo za »[[$1]]«",
+	"article-comments-submission-success": "Poslali ste pripombo za »[[$1]]«",
 	"article-comments-submission-view-all": "Ogledate si lahko [[$1|vse pripombe na tej strani]]",
 	"article-comments-user-is-blocked": "Vašemu uporabniškemu računu je trenutno preprečeno urejanje »[[$1]]«.",
 	"article-comments-comment-bad-mode": "Za pripombo je bil dan neveljavni način.\nNa voljo so »plain«, »normal« in »wiki«.",

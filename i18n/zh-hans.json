@@ -25,7 +25,7 @@
 	"article-comments-commenter-said": "$1说...",
 	"article-comments-summary": "评论由$1提供 - 通过条目评论扩展",
 	"article-comments-submission-succeeded": "评论提交成功",
-	"article-comments-submission-success": "您已成功为“[[$1]]”提交评论",
+	"article-comments-submission-success": "您已为“[[$1]]”提交评论",
 	"article-comments-submission-view-all": "您可以查看[[$1|所有该页上的评论]]",
 	"article-comments-user-is-blocked": "您的用户帐户当前被封禁，无法编辑“[[$1]]”。",
 	"article-comments-comment-bad-mode": "为评论提供的模式无效。\n可用模式有“plain”、“normal”和“wiki”。",

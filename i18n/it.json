@@ -25,7 +25,7 @@
 	"article-comments-commenter-said": "$1 ha detto ...",
 	"article-comments-summary": "Commento fornito da $1 - tramite l'estensione ArticleComments",
 	"article-comments-submission-succeeded": "Invio commento riuscito",
-	"article-comments-submission-success": "Hai inviato con successo un commento per \"[[$1]]\"",
+	"article-comments-submission-success": "Hai inviato un commento per \"[[$1]]\"",
 	"article-comments-submission-view-all": "Puoi vedere [[$1|tutti i commenti su quella pagina]]",
 	"article-comments-user-is-blocked": "Il tuo account è attualmente bloccato e non puoi modificare \"[[$1]]\".",
 	"article-comments-comment-bad-mode": "Indicata modalità non valida per il commento.\nQuelle disponibili sono: \"plain\", \"normal\" e \"wiki\".",

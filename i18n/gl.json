@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño"
+			"Toliño",
+			"Elisardojm"
 		]
 	},
 	"article-comments-desc": "Activa os comentarios nas seccións dos artigos",
@@ -23,7 +24,7 @@
 	"article-comments-commenter-said": "$1 dixo...",
 	"article-comments-summary": "Comentario achegado por $1 mediante a extensión ArticleComments",
 	"article-comments-submission-succeeded": "O comentario enviouse correctamente",
-	"article-comments-submission-success": "O seu comentario sobre \"[[$1]]\" enviouse correctamente",
+	"article-comments-submission-success": "Enviou un comentario sobre \"[[$1]]\"",
 	"article-comments-submission-view-all": "Pode ollar [[$1|todos os comentarios sobre a páxina]]",
 	"article-comments-user-is-blocked": "A súa conta está bloqueada e non pode editar \"[[$1]]\".",
 	"article-comments-comment-bad-mode": "O modo fornecido para o comentario non é válido.\nOs modos dispoñibles son \"plain\", \"normal\" e \"wiki\".",
