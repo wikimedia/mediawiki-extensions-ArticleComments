@@ -5,7 +5,8 @@
 			"Fitoschido",
 			"Translationista",
 			"VegaDark",
-			"Macofe"
+			"Macofe",
+			"Matiia"
 		]
 	},
 	"article-comments-desc": "Habilita secciones de comentarios en las páginas de contenido",
@@ -27,7 +28,7 @@
 	"article-comments-commenter-said": "$1 dijo...",
 	"article-comments-summary": "Comentario proporcionado por $1, a través de la extensión ArticleComments",
 	"article-comments-submission-succeeded": "Envío del comentario realizado con éxito",
-	"article-comments-submission-success": "Has enviado exitosamente un comentario sobre «[[$1]]»",
+	"article-comments-submission-success": "Has enviado un comentario sobre «[[$1]]»",
 	"article-comments-submission-view-all": "Puedes ver [[$1|todos los comentarios sobre esa página]]",
 	"article-comments-user-is-blocked": "Tu cuenta de usuario está bloqueada para editar «[[$1]]».",
 	"article-comments-comment-bad-mode": "Se proporcionó un modo no válido para comentar.\nLos disponibles son «plain», «normal» y «wiki».",
