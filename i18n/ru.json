@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"MaxSem",
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"Okras"
 		]
 	},
 	"article-comments-desc": "Добавляет на основные страницы разделы комментариев",
@@ -24,7 +25,7 @@
 	"article-comments-commenter-said": "$1 сказал…",
 	"article-comments-summary": "Комментарий $1 — через расширение ArticleComments",
 	"article-comments-submission-succeeded": "Комментарий успешно отправлен",
-	"article-comments-submission-success": "Комментарий к «[[$1]]» успешно отправлен",
+	"article-comments-submission-success": "Вы отправили комментарий к «[[$1]]»",
 	"article-comments-submission-view-all": "Вы можете просмотреть [[$1|все комментарии на этой странице]]",
 	"article-comments-user-is-blocked": "Вашей учётной записи в данный момент запрещено редактировать «[[$1]]».",
 	"article-comments-comment-bad-mode": "Недопустимый режим комментария.\nДопустимы режимы «plain», «normal» и «wiki».",
