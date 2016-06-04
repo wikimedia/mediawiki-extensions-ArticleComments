@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"EugeneZelenko",
-			"Jim-by"
+			"Jim-by",
+			"Red Winged Duck"
 		]
 	},
 	"article-comments-desc": "Дазваляе разьдзелы камэнтараў у старонках са зьместам",
@@ -24,7 +25,7 @@
 	"article-comments-commenter-said": "$1 {{GENDER:$1|напісаў|напісала}}…",
 	"article-comments-summary": "Камэнтар пададзены $1 з дапамогай пашырэньня ArticleComments",
 	"article-comments-submission-succeeded": "Камэнтар пасьпяхова запісаны",
-	"article-comments-submission-success": "Ваш камэнтар да «[[$1]]» быў пасьпяхова запісаны",
+	"article-comments-submission-success": "Вы дадалі камэнтар да «[[$1]]»",
 	"article-comments-submission-view-all": "Вы можаце ўбачыць [[$1|усе камэнтары гэтай старонкі]]",
 	"article-comments-user-is-blocked": "У Вашага рахунка заблякаваная магчымасьць рэдагаваньня «[[$1]]».",
 	"article-comments-comment-bad-mode": "Пададзены няслушны рэжым для камэнтара.\nДаступнымі зьяўляюцца «plain», «normal» і «wiki».",
