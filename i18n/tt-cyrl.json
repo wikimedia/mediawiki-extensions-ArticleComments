@@ -16,5 +16,6 @@
 	"article-comments-leave-comment-link": "Шәрехне калдырырга...",
 	"article-comments-invalid-field": "Ялгыш күрсәтелгән $1 <nowiki>[$2]</nowiki>.",
 	"article-comments-required-field": "$1 юлы мәҗбүри.",
-	"article-comments-commenter-said": "$1 әйтте…"
+	"article-comments-commenter-said": "$1 әйтте…",
+	"article-comments-comment-missing-name-parameter": "Исеме күрсәтелмәгән"
 }
