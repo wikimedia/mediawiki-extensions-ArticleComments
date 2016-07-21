@@ -15,7 +15,7 @@
 	"article-comments-comment-field": "댓글:",
 	"article-comments-submit-button": "제출",
 	"article-comments-leave-comment-link": "댓글 남기기 ...",
-	"article-comments-invalid-field": "$1에 제공한 <nowiki>[$2]</nowiki>(은)는 올바르지 않습니다.",
+	"article-comments-invalid-field": "$1에 제공한 <nowiki>[$2]</nowiki>은(는) 올바르지 않습니다.",
 	"article-comments-required-field": "\"$1\" 칸은 반드시 입력해야 합니다.",
 	"article-comments-submission-failed": "댓글 제출 실패",
 	"article-comments-failure-reasons": "죄송합니다, 댓글 제출은 다음 {{PLURAL:$1|이유}}로 실패했습니다:",
