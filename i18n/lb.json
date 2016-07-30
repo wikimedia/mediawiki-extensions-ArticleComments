@@ -23,7 +23,7 @@
 	"article-comments-commenter-said": "$1 huet gesot ...",
 	"article-comments-summary": "Bemierkung vum $1 - iwwert d'Erweiderung ArticleComments",
 	"article-comments-submission-succeeded": "D'Bemierkung ass gespäichert",
-	"article-comments-submission-success": "Är Bemierkung fir [[$1]] ass gespäichert.",
+	"article-comments-submission-success": "Är Bemierkung fir \"[[$1]]\" ass gespäichert.",
 	"article-comments-submission-view-all": "Dir kënnt [[$1|all Bemierkungen zu dëser Säit]] kucken",
 	"article-comments-user-is-blocked": "Äre Benotzerkont ass elo gespaart fir \"[[$1]]\" z'änneren.",
 	"article-comments-comment-bad-mode": "Net valabele Mode ugi fir d'Bemierkung.\nMéiglech sinn \"plain\", \"normal\" a \"wiki\".",
