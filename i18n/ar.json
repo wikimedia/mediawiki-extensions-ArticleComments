@@ -3,11 +3,16 @@
 		"authors": [
 			"Meno25",
 			"OsamaK",
-			"روخو"
+			"روخو",
+			"ديفيد"
 		]
 	},
 	"article-comments-title-string": "العنوان",
+	"article-comments-name-string": "الاسم",
+	"article-comments-url-field": "موقع إلكتروني:",
 	"article-comments-url-string": "المسار:",
+	"article-comments-comment-string": "تعليق",
+	"article-comments-comment-field": "تعليق:",
 	"article-comments-submit-button": "إرسال",
 	"article-comments-commenter-said": "$1 قال ...",
 	"article-comments-comment-missing-name-parameter": "اسم مفقود"
