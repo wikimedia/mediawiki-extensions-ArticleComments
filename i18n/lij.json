@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giromin Cangiaxo"
+		]
+	},
+	"article-comments-desc": "O consente e seçioin pe-i commenti in sce-e paggine de contegnuo",
+	"article-comments-title-string": "tittolo",
+	"article-comments-name-string": "Nomme",
+	"article-comments-name-field": "Nomme (obrigatoio):",
+	"article-comments-url-field": "Scito web:",
+	"article-comments-url-string": "URL",
+	"article-comments-comment-string": "Comento",
+	"article-comments-comment-field": "Comento:",
+	"article-comments-submit-button": "Invia",
+	"article-comments-leave-comment-link": "Lascia 'n comento ...",
+	"article-comments-invalid-field": "O $1 fornio <nowiki>[$2]</nowiki> o no l'è vallido.",
+	"article-comments-required-field": "O campo \"$1\" o l'è obrigatoio.",
+	"article-comments-submission-failed": "Invio comento fallio",
+	"article-comments-failure-reasons": "Spiaxenti, l'invio do vostro commento o no l'è ariescio pe-{{PLURAL:$1|o seguente motivo|i seguenti motivi}}",
+	"article-comments-no-comments": "Spiaxenti, in questo momento a paggina \"[[$1]]\" a no l'açetta commenti.",
+	"article-comments-talk-page-starter": "<noinclude>Commenti inscce \"[[$1]]\"\n<comments />\n----- __NOEDITSECTION__</noinclude>",
+	"article-comments-commenter-said": "$1 o l'ha dito ...",
+	"article-comments-summary": "Commento fornio da $1 - tramite l'estenscion ArticleComments",
+	"article-comments-submission-succeeded": "Invio comento ariescio",
+	"article-comments-submission-success": "T'hæ inviou un commento pe \"[[$1]]\"",
+	"article-comments-submission-view-all": "Ti poeu vedde [[$1|tutti i commenti insce quella paggina]]",
+	"article-comments-user-is-blocked": "A to utença a l'è attoalmente blocâ e no ti poeu modificâ \"[[$1]]\".",
+	"article-comments-comment-bad-mode": "Modalitæ pe-o commento indicâ non vallida.\nQuelle disponibbile son: \"plain\", \"normal\" e \"wiki\".",
+	"article-comments-comment-missing-name-parameter": "Nomme mancante",
+	"article-comments-comment-missing-date-parameter": "Dæta do comento mancante",
+	"article-comments-no-spam": "A-o manco un di campi inviæ o l'è stæto contrasegnou comme spam.",
+	"processcomment": "Elabboa commenti a-e paggine"
+}
