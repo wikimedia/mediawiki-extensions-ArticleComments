@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nghtwlkr"
+			"Nghtwlkr",
+			"Jon Harald Søby"
 		]
 	},
 	"article-comments-desc": "Slå på kommentarseksjoner på innholdssider",
@@ -23,7 +24,7 @@
 	"article-comments-commenter-said": "$1 sa ...",
 	"article-comments-summary": "Kommentar av $1 – via ArticleComments-utvidelsen",
 	"article-comments-submission-succeeded": "Kommentering lyktes",
-	"article-comments-submission-success": "Du har kommentert «[[$1]]»",
+	"article-comments-submission-success": "Du har sendt inn en kommentar på «[[$1]]»",
 	"article-comments-submission-view-all": "Du kan vise [[$1|alle kommentarer på den siden]]",
 	"article-comments-user-is-blocked": "Kontoen din er blokkert fra å redigere «[[$1]]».",
 	"article-comments-comment-bad-mode": "Ugyldig modis for kommentarer.\nTilgjengelige moduser er «plain», «normal» og «wiki».",
