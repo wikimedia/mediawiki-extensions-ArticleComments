@@ -23,7 +23,7 @@
 	"article-comments-commenter-said": "$1 diceva ...",
 	"article-comments-summary": "Commento fornite per $1 - via le extension ArticleComments",
 	"article-comments-submission-succeeded": "Submission de commento succedite",
-	"article-comments-submission-success": "Tu ha submittite un commento super \"[[$1]]\" con successo.",
+	"article-comments-submission-success": "Tu ha inviate un commento sur \"[[$1]]\"",
 	"article-comments-submission-view-all": "Tu pote vider [[$1|hic]] tote le commentos super iste articulo",
 	"article-comments-user-is-blocked": "Tu conto de usator es actualmente blocate contra modificar \"[[$1]]\".",
 	"article-comments-comment-bad-mode": "Modo invalide date pro commento.\nDisponibile es \"plain\", \"normal\" e \"wiki\".",
