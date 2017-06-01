@@ -5,7 +5,8 @@
 			"Sherbrooke",
 			"Verdy p",
 			"青子守歌",
-			"Gomoko"
+			"Gomoko",
+			"Urhixidur"
 		]
 	},
 	"article-comments-desc": "Active les sections de commentaires sur les pages d’articles",
@@ -33,6 +34,6 @@
 	"article-comments-comment-bad-mode": "Le mode fourni pour le commentaire est invalide.\nLes modes disponibles sont «plain», « normal » et « wiki ».",
 	"article-comments-comment-missing-name-parameter": "Nom manquant",
 	"article-comments-comment-missing-date-parameter": "Date du commentaire manquante",
-	"article-comments-no-spam": "Au moins un des champs soumis a été marqué comme spam.",
+	"article-comments-no-spam": "Au moins un des champs soumis a été marqué comme pourriel.",
 	"processcomment": "Traitement du commentaire sur l’article"
 }
