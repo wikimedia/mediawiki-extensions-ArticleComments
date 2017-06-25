@@ -1,17 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dalinanir"
+			"Dalinanir",
+			"Amara-Amaziɣ"
 		]
 	},
 	"article-comments-desc": "Ssrmd (ssrɣ) ayawn n tannayin ɣ tisniwin n imlan.",
 	"article-comments-title-string": "azwl",
-	"article-comments-name-string": "Assaɣ",
+	"article-comments-name-string": "ⵉⵙⵎ",
 	"article-comments-name-field": "Assaɣ (ism)",
 	"article-comments-url-field": "Asml web (Asit web)",
 	"article-comments-url-string": "URL",
-	"article-comments-comment-string": "Awnnit (aɣfawal)",
-	"article-comments-comment-field": "Awnit (aɣfawal)",
+	"article-comments-comment-string": "ⴰⵅⴼⴰⵡⴰⵍ",
+	"article-comments-comment-field": "ⴰⵅⴼⴰⵡⴰⵍ:",
 	"article-comments-submit-button": "Zzugs",
 	"article-comments-leave-comment-link": "Zayd awnit (aɣfawal)",
 	"article-comments-invalid-field": " $1 ar takka <nowiki>[$2]</nowiki> lli ur illan",
