@@ -3,7 +3,8 @@
 		"authors": [
 			"El libre",
 			"SMP",
-			"Solde"
+			"Solde",
+			"Ssola"
 		]
 	},
 	"article-comments-desc": "Permet fer comentaris de les seccions a les pàgines de contingut",
@@ -27,7 +28,7 @@
 	"article-comments-submission-succeeded": "Enviament del comentari realitzat amb èxit",
 	"article-comments-submission-success": "Has enviat correctament un comentari sobre \"[[$1]]\"",
 	"article-comments-submission-view-all": "Pots veure [[$1|tots els comentaris sobre aquesta pàgina]]",
-	"article-comments-user-is-blocked": "El teu compte d'usuari està bloquejat per editar  \"[[$1]]\".",
+	"article-comments-user-is-blocked": "El teu compte d'usuari està blocat per editar  \"[[$1]]\".",
 	"article-comments-comment-bad-mode": "El mode donat per al comentari no és vàlid.\nEls disponibles són \"plain\", \"normal\" i \"wiki\".",
 	"article-comments-comment-missing-name-parameter": "Falta el nom",
 	"article-comments-comment-missing-date-parameter": "Falta la data del comentari",
